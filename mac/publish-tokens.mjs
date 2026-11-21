@@ -54,6 +54,9 @@ async function* walk(dir, exts = ['.jsonl'], seen = new Set()) {
   }
   if (seen.has(real)) return;
   seen.add(real);
+  // launchd jobs hang waiting for a macOS permission prompt on external
+  // drives; the hourly job sets LIVE_STATS_SKIP_VOLUMES=1 to stay local
+  if (process.env.LIVE_STATS_SKIP_VOLUMES === '1' && real.startsWith('/Volumes/')) return;
   let entries;
   try {
     entries = await readdir(dir, { withFileTypes: true });
@@ -206,8 +209,9 @@ async function main() {
   try {
     prev = JSON.parse(await readFile(OUT, 'utf8'));
   } catch {}
-  // never publish a smaller all-time total than before (logs get pruned)
-  if (prev?.total && total < prev.total * 0.98) {
+  // Past days only ever grow. Logs get pruned, and the hourly job can't read
+  // the Expand drive, so keep each day's highest published count.
+  if (prev?.days) {
     const keep = new Map(prev.days.map((r) => [r.d, r]));
     for (const r of list) {
       const old = keep.get(r.d);

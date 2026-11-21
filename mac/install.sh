@@ -21,7 +21,10 @@ cat > "$PLIST" <<PLIST
   <key>ProgramArguments</key>
   <array><string>$NODE</string><string>$REPO/mac/publish-tokens.mjs</string></array>
   <key>EnvironmentVariables</key>
-  <dict><key>PATH</key><string>$(dirname "$NODE"):/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string></dict>
+  <dict>
+    <key>PATH</key><string>$(dirname "$NODE"):/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    <key>LIVE_STATS_SKIP_VOLUMES</key><string>1</string>
+  </dict>
   <key>StartCalendarInterval</key><dict><key>Minute</key><integer>13</integer></dict>
   <key>RunAtLoad</key><true/>
   <key>StandardOutPath</key><string>$LOG</string>
