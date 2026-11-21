@@ -12,7 +12,7 @@
 // Usage: node mac/publish-tokens.mjs [--dry-run] [--no-push]
 // No dependencies. Node 18+.
 import { createReadStream } from 'node:fs';
-import { readdir, readFile, writeFile, stat } from 'node:fs/promises';
+import { readdir, readFile, writeFile, stat, realpath } from 'node:fs/promises';
 import { createInterface } from 'node:readline';
 import { execFileSync, spawn } from 'node:child_process';
 import { homedir } from 'node:os';
@@ -43,7 +43,17 @@ const dayOf = (ts) => {
   return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`; // local day
 };
 
-async function* walk(dir, exts = ['.jsonl']) {
+// Follows symlinked folders (old Codex months were moved to the Expand
+// drive and linked back), visiting each real folder once.
+async function* walk(dir, exts = ['.jsonl'], seen = new Set()) {
+  let real;
+  try {
+    real = await realpath(dir);
+  } catch {
+    return;
+  }
+  if (seen.has(real)) return;
+  seen.add(real);
   let entries;
   try {
     entries = await readdir(dir, { withFileTypes: true });
@@ -52,8 +62,19 @@ async function* walk(dir, exts = ['.jsonl']) {
   }
   for (const e of entries) {
     const p = join(dir, e.name);
-    if (e.isDirectory()) yield* walk(p, exts);
-    else if (e.isFile() && exts.some((x) => e.name.endsWith(x))) yield p;
+    let isDir = e.isDirectory();
+    let isFile = e.isFile();
+    if (e.isSymbolicLink()) {
+      try {
+        const st = await stat(p);
+        isDir = st.isDirectory();
+        isFile = st.isFile();
+      } catch {
+        continue; // broken link, e.g. the Expand drive isn't mounted
+      }
+    }
+    if (isDir) yield* walk(p, exts, seen);
+    else if (isFile && exts.some((x) => e.name.endsWith(x))) yield p;
   }
 }
 
