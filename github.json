@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T21:40:12.178Z",
+  "generated": "2026-11-21T22:13:37.499Z",
   "user": "protomota",
   "items": [
     {
@@ -183,6 +183,30 @@
       "url": "https://github.com/protomota/opentalon/commit/a1fda11be7bd36e5fea9231555f34d8a49eadaf7"
     },
     {
+      "id": "27863223672",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-19T20:51:19Z",
+      "kind": "ship",
+      "title": "[workspace] bring all draft formats into the project browser",
+      "count": 1,
+      "sha": "ef1e9ae",
+      "url": "https://github.com/protomota/inkspring/commit/ef1e9ae831986af9eafb292d3c771a03d48dd967"
+    },
+    {
+      "id": "27864168545",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-19T20:22:10Z",
+      "kind": "ship",
+      "title": "[inkspring] restore original Protomota badge artwork",
+      "count": 1,
+      "sha": "05082a7",
+      "url": "https://github.com/protomota/inkspring/commit/05082a74a09da83d60071420f5cc8bf19823cd5a"
+    },
+    {
       "id": "27855403110",
       "repo": "opentalon",
       "repoUrl": "https://github.com/protomota/opentalon",
@@ -337,29 +361,6 @@
       "count": 1,
       "sha": "4c8b99d",
       "url": "https://github.com/protomota/opentalon/commit/4c8b99de26ec49b0cce1a316eb3ca68e9c865b71"
-    },
-    {
-      "id": "27499634762",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-16T13:11:26Z",
-      "kind": "ship",
-      "title": "[opentalon] keep the native apps and polish the README icon",
-      "count": 1,
-      "sha": "61d8b92",
-      "url": "https://github.com/protomota/opentalon/commit/61d8b92b5d93635d6bb9702dbf057671ffd8fd26"
-    },
-    {
-      "id": "20196618579",
-      "repo": "textley-source",
-      "repoUrl": "https://github.com/protomota/textley-source",
-      "site": "textley.ai",
-      "at": "2026-11-15T18:42:16Z",
-      "kind": "release",
-      "title": "Textley 1.1.2",
-      "tag": "v1.1.2",
-      "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.2"
     }
   ]
 }
