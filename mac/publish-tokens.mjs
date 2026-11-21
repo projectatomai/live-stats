@@ -206,13 +206,15 @@ async function main() {
   if (!list.length) throw new Error('No usage found; not publishing.');
 
   // Fill days the logs and exports don't cover with the modelled totals in
-  // mac/estimated-days.json: any day before Oct 2026 that falls short of the
-  // model, and any later day with no data at all. Those days carry e: 1.
+  // mac/estimated-days.json: any past day before Oct 2026 that falls short of
+  // the model, and any later past day under 250M. Those days carry e: 1.
   const model = JSON.parse(await readFile(join(REPO, 'mac', 'estimated-days.json'), 'utf8')).days;
   const byDay = new Map(list.map((r) => [r.d, r]));
+  const today = dayOf(Date.now());
   for (const [d, t] of Object.entries(model)) {
+    if (d >= today) continue;
     const row = byDay.get(d);
-    if (row && (d >= '2026-10-01' || row.t >= t)) continue;
+    if (row && (row.t >= t || (d >= '2026-10-01' && row.t >= 250e6))) continue;
     byDay.set(d, { ...(row || { d, c: 0, x: 0, a: 0 }), t, e: 1 });
   }
   list.splice(0, list.length, ...[...byDay.values()].sort((a, b) => (a.d < b.d ? -1 : 1)));
