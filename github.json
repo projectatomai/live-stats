@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T18:32:19.540Z",
+  "generated": "2026-11-21T19:25:49.319Z",
   "user": "protomota",
   "items": [
     {
@@ -327,18 +327,6 @@
       "url": "https://github.com/protomota/opentalon/commit/61d8b92b5d93635d6bb9702dbf057671ffd8fd26"
     },
     {
-      "id": "27294795951",
-      "repo": "jotley",
-      "repoUrl": "https://github.com/protomota/jotley",
-      "site": "jotley.ai",
-      "at": "2026-11-15T22:18:15Z",
-      "kind": "ship",
-      "title": "[jotley] add recoverable note trash",
-      "count": 1,
-      "sha": "35012c3",
-      "url": "https://github.com/protomota/jotley/commit/35012c36c536a4f8f0100e68d311176467d93186"
-    },
-    {
       "id": "20196618579",
       "repo": "textley-source",
       "repoUrl": "https://github.com/protomota/textley-source",
@@ -360,6 +348,18 @@
       "count": 1,
       "sha": "4e10596",
       "url": "https://github.com/protomota/voxley/commit/4e105966f1c0f4e9522b1aa7872ccea1eab1c649"
+    },
+    {
+      "id": "27391583336",
+      "repo": "jotley",
+      "repoUrl": "https://github.com/protomota/jotley",
+      "site": "jotley.ai",
+      "at": "2026-11-15T16:17:31Z",
+      "kind": "ship",
+      "title": "[jotley] match Purple theme to website violet",
+      "count": 1,
+      "sha": "cec6bb5",
+      "url": "https://github.com/protomota/jotley/commit/cec6bb52e57725e5dc1ed983ea90b8a2f12c6305"
     }
   ]
 }
