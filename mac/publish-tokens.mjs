@@ -212,7 +212,7 @@ async function main() {
   const byDay = new Map(list.map((r) => [r.d, r]));
   const today = dayOf(Date.now());
   for (const [d, t] of Object.entries(model)) {
-    if (d >= today) continue;
+    if (d >= today || !t) continue; // t = 0 marks an off day: leave it as logged
     const row = byDay.get(d);
     if (row && (row.t >= t || (d >= '2026-10-01' && row.t >= 250e6))) continue;
     byDay.set(d, { ...(row || { d, c: 0, x: 0, a: 0 }), t, e: 1 });
