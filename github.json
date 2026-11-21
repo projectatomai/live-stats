@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T19:25:49.319Z",
+  "generated": "2026-11-21T20:25:51.174Z",
   "user": "protomota",
   "items": [
     {
@@ -169,6 +169,18 @@
       "count": 1,
       "sha": "a1fda11",
       "url": "https://github.com/protomota/opentalon/commit/a1fda11be7bd36e5fea9231555f34d8a49eadaf7"
+    },
+    {
+      "id": "27855403110",
+      "repo": "opentalon",
+      "repoUrl": "https://github.com/protomota/opentalon",
+      "site": "opentalon.ai",
+      "at": "2026-11-19T19:30:05Z",
+      "kind": "ship",
+      "title": "[opentalon] expose recovered Markdown plans as task documents",
+      "count": 1,
+      "sha": "6141f9c",
+      "url": "https://github.com/protomota/opentalon/commit/6141f9cfe22506efd934d09d6ba8a2467815352d"
     },
     {
       "id": "27687581418",
@@ -348,18 +360,6 @@
       "count": 1,
       "sha": "4e10596",
       "url": "https://github.com/protomota/voxley/commit/4e105966f1c0f4e9522b1aa7872ccea1eab1c649"
-    },
-    {
-      "id": "27391583336",
-      "repo": "jotley",
-      "repoUrl": "https://github.com/protomota/jotley",
-      "site": "jotley.ai",
-      "at": "2026-11-15T16:17:31Z",
-      "kind": "ship",
-      "title": "[jotley] match Purple theme to website violet",
-      "count": 1,
-      "sha": "cec6bb5",
-      "url": "https://github.com/protomota/jotley/commit/cec6bb52e57725e5dc1ed983ea90b8a2f12c6305"
     }
   ]
 }
