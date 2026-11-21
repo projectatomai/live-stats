@@ -5,16 +5,18 @@
 //
 // Sources (read-only):
 //   Claude Code: ~/.claude/projects/**/*.jsonl  (assistant message usage)
-//   Codex:       ~/.codex/sessions/**/*.jsonl   (token_count events)
+//   Codex:       ~/.codex/sessions/**/*.jsonl(.zst), ~/.codex/archived_sessions,
+//                and any extra copies in CODEX_EXTRA_DIRS (token_count events).
+//                Compressed .zst rollouts are read with the zstd CLI.
 //
 // Usage: node mac/publish-tokens.mjs [--dry-run] [--no-push]
 // No dependencies. Node 18+.
 import { createReadStream } from 'node:fs';
 import { readdir, readFile, writeFile, stat } from 'node:fs/promises';
 import { createInterface } from 'node:readline';
-import { execFileSync } from 'node:child_process';
+import { execFileSync, spawn } from 'node:child_process';
 import { homedir } from 'node:os';
-import { join, dirname } from 'node:path';
+import { join, dirname, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const REPO = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -27,7 +29,12 @@ const CLAUDE_DIRS = [
   join(HOME, '.claude', 'projects'),
   join(HOME, '.config', 'claude', 'projects'),
 ];
-const CODEX_DIR = join(process.env.CODEX_HOME || join(HOME, '.codex'), 'sessions');
+const CODEX_HOME = process.env.CODEX_HOME || join(HOME, '.codex');
+const CODEX_DIRS = [
+  join(CODEX_HOME, 'sessions'),
+  join(CODEX_HOME, 'archived_sessions'),
+  ...(process.env.CODEX_EXTRA_DIRS || '/Volumes/Expand/Codex/app-data/sessions').split(',').filter(Boolean),
+];
 
 const pad = (n) => String(n).padStart(2, '0');
 const dayOf = (ts) => {
@@ -36,7 +43,7 @@ const dayOf = (ts) => {
   return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`; // local day
 };
 
-async function* walk(dir) {
+async function* walk(dir, exts = ['.jsonl']) {
   let entries;
   try {
     entries = await readdir(dir, { withFileTypes: true });
@@ -45,13 +52,21 @@ async function* walk(dir) {
   }
   for (const e of entries) {
     const p = join(dir, e.name);
-    if (e.isDirectory()) yield* walk(p);
-    else if (e.isFile() && e.name.endsWith('.jsonl')) yield p;
+    if (e.isDirectory()) yield* walk(p, exts);
+    else if (e.isFile() && exts.some((x) => e.name.endsWith(x))) yield p;
   }
 }
 
 async function eachLine(file, fn) {
-  const rl = createInterface({ input: createReadStream(file), crlfDelay: Infinity });
+  let input;
+  let child = null;
+  if (file.endsWith('.zst')) {
+    child = spawn('zstd', ['-dcq', file], { stdio: ['ignore', 'pipe', 'ignore'] });
+    input = child.stdout;
+  } else {
+    input = createReadStream(file);
+  }
+  const rl = createInterface({ input, crlfDelay: Infinity });
   for await (const line of rl) {
     if (!line || line[0] !== '{') continue;
     let obj;
@@ -62,6 +77,7 @@ async function eachLine(file, fn) {
     }
     fn(obj);
   }
+  if (child && child.exitCode === null) await new Promise((r) => child.once('close', r));
 }
 
 const days = new Map(); // day -> { claude, codex }
@@ -108,9 +124,17 @@ async function countClaude() {
 }
 
 async function countCodex() {
-  let files = 0;
-  for await (const file of walk(CODEX_DIR)) {
-    files++;
+  // The same rollout can sit in several places (live, archived, compressed,
+  // an old copy on the Expand drive): count each session once.
+  const best = new Map(); // rollout name -> path, preferring plain .jsonl
+  for (const dir of CODEX_DIRS) {
+    for await (const file of walk(dir, ['.jsonl', '.jsonl.zst', '.zst'])) {
+      const id = basename(file).replace(/\.zst$/, '').replace(/\.jsonl$/, '');
+      const prev = best.get(id);
+      if (!prev || (prev.endsWith('.zst') && !file.endsWith('.zst'))) best.set(id, file);
+    }
+  }
+  for (const file of best.values()) {
     let prevTotal = 0;
     await eachLine(file, (o) => {
       const p = o?.payload;
@@ -128,7 +152,7 @@ async function countCodex() {
       add(dayOf(o.timestamp), 'codex', n);
     });
   }
-  return files;
+  return best.size;
 }
 
 const git = (...args) => execFileSync('git', ['-C', REPO, ...args], { encoding: 'utf8' }).trim();
