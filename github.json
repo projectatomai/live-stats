@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-21T20:25:51.174Z",
+  "generated": "2026-11-21T21:40:12.178Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "27861402487",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-21T18:51:05Z",
+      "kind": "ship",
+      "title": "Add Glimmer to the More from Protomota footer",
+      "count": 1,
+      "sha": "8943198",
+      "url": "https://github.com/protomota/braddunlap-info/commit/89431986c55e9bf49da24e6ef7be51f8147672be"
+    },
     {
       "id": "27845951202",
       "repo": "inkspring",
@@ -348,18 +360,6 @@
       "title": "Textley 1.1.2",
       "tag": "v1.1.2",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.2"
-    },
-    {
-      "id": "27388684610",
-      "repo": "voxley",
-      "repoUrl": "https://github.com/protomota/voxley",
-      "site": "voxley.si",
-      "at": "2026-11-15T16:56:45Z",
-      "kind": "ship",
-      "title": "[voxley] release 1.0.11 with Liquid Glass follow links",
-      "count": 1,
-      "sha": "4e10596",
-      "url": "https://github.com/protomota/voxley/commit/4e105966f1c0f4e9522b1aa7872ccea1eab1c649"
     }
   ]
 }
