@@ -182,9 +182,22 @@ async function main() {
   if (!DRY && !NO_PUSH) git('pull', '--rebase', '-q');
   const claudeFiles = await countClaude();
   const codexFiles = await countCodex();
+  // API-key usage from the Anthropic and OpenAI dashboards (api-usage.json),
+  // a separate stream from the local agent logs above
+  const api = new Map();
+  try {
+    const j = JSON.parse(await readFile(join(REPO, 'api-usage.json'), 'utf8'));
+    for (const src of ['anthropic', 'openai']) {
+      for (const [d, n] of Object.entries(j[src] || {})) api.set(d, (api.get(d) || 0) + n);
+    }
+  } catch {}
+  for (const d of api.keys()) if (!days.has(d)) days.set(d, { claude: 0, codex: 0 });
   const list = [...days.entries()]
     .sort(([a], [b]) => (a < b ? -1 : 1))
-    .map(([d, r]) => ({ d, t: r.claude + r.codex, c: r.claude, x: r.codex }));
+    .map(([d, r]) => {
+      const a = api.get(d) || 0;
+      return { d, t: r.claude + r.codex + a, c: r.claude, x: r.codex, a };
+    });
   const total = list.reduce((s, r) => s + r.t, 0);
   console.error(`Claude files ${claudeFiles}, Codex files ${codexFiles}, ${list.length} days, ${total.toLocaleString()} tokens`);
   if (!list.length) throw new Error('No usage found; not publishing.');
@@ -204,7 +217,7 @@ async function main() {
   }
   const out = {
     generated: new Date().toISOString(),
-    sources: ['Claude Code', 'Codex'],
+    sources: ['Claude Code', 'Codex', 'Anthropic API', 'OpenAI API'],
     since: list[0].d,
     total: list.reduce((s, r) => s + r.t, 0),
     days: list,
