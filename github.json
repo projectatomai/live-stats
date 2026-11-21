@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-21T22:13:37.499Z",
+  "generated": "2026-11-21T22:40:56.726Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "27866404371",
+      "repo": "mcp",
+      "repoUrl": "https://github.com/protomota/mcp",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-21T20:04:32Z",
+      "kind": "ship",
+      "title": "[glimmer-mcp] add add_plan_task to the Glimmer skill, version 0.2.0",
+      "count": 1,
+      "sha": "77e6edc",
+      "url": "https://github.com/protomota/mcp/commit/77e6edcf2d15d4e8138f05b11d5f752d9fd215be"
+    },
     {
       "id": "27861402487",
       "repo": "braddunlap-info",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "1add1c6",
       "url": "https://github.com/protomota/opentalon/commit/1add1c6b38037df10a32d3d8dd6e81b9bcf7cf39"
-    },
-    {
-      "id": "27513750924",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-16T15:08:25Z",
-      "kind": "ship",
-      "title": "[opentalon] show MCP setup and agent handoffs in the README",
-      "count": 1,
-      "sha": "4c8b99d",
-      "url": "https://github.com/protomota/opentalon/commit/4c8b99de26ec49b0cce1a316eb3ca68e9c865b71"
     }
   ]
 }
