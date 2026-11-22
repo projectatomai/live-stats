@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T04:40:18.194Z",
+  "generated": "2026-11-22T05:55:11.611Z",
   "user": "protomota",
   "items": [
     {
@@ -97,6 +97,18 @@
       "count": 1,
       "sha": "702fc89",
       "url": "https://github.com/protomota/inkspring/commit/702fc8977a156168f64aee29e72728550d7dca28"
+    },
+    {
+      "id": "27899082341",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T01:58:49Z",
+      "kind": "ship",
+      "title": "[ios] release X thread parsing fix",
+      "count": 1,
+      "sha": "538ac74",
+      "url": "https://github.com/protomota/inkspring/commit/538ac741f3f832a4da6decbc136723666ba15414"
     },
     {
       "id": "27837655184",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "b19960a",
       "url": "https://github.com/protomota/inkspring/commit/b19960aa272b3f493f27487543dfc17d25663c23"
-    },
-    {
-      "id": "27716301030",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-18T22:44:48Z",
-      "kind": "ship",
-      "title": "[opentalon] parse fractional timestamps on macOS 15",
-      "count": 1,
-      "sha": "71bb9b1",
-      "url": "https://github.com/protomota/opentalon/commit/71bb9b11c098df6eb8fd620388e70e193a1b33af"
     }
   ]
 }
