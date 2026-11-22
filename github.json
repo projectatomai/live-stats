@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T22:40:56.726Z",
+  "generated": "2026-11-22T01:25:36.382Z",
   "user": "protomota",
   "items": [
     {
@@ -195,6 +195,18 @@
       "url": "https://github.com/protomota/opentalon/commit/a1fda11be7bd36e5fea9231555f34d8a49eadaf7"
     },
     {
+      "id": "27879150581",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-19T22:41:32Z",
+      "kind": "ship",
+      "title": "[x] link follow-up replies to editable X articles",
+      "count": 1,
+      "sha": "da1ddd3",
+      "url": "https://github.com/protomota/inkspring/commit/da1ddd3f23283a0c256c51e3c89079e8e1a20a8e"
+    },
+    {
       "id": "27863223672",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "cd54b1f",
       "url": "https://github.com/protomota/mcp/commit/cd54b1fa3203edbeb5216c25ba8f1fcef08e3a89"
-    },
-    {
-      "id": "27377049384",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-16T15:20:56Z",
-      "kind": "ship",
-      "title": "[opentalon] show actual MCP and Send to agent screens",
-      "count": 1,
-      "sha": "1add1c6",
-      "url": "https://github.com/protomota/opentalon/commit/1add1c6b38037df10a32d3d8dd6e81b9bcf7cf39"
     }
   ]
 }
