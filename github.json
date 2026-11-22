@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T01:55:51.605Z",
+  "generated": "2026-11-22T02:20:38.897Z",
   "user": "protomota",
   "items": [
     {
@@ -61,6 +61,18 @@
       "count": 1,
       "sha": "8ca26d9",
       "url": "https://github.com/protomota/opentalon/commit/8ca26d99195e8f37ddb8e2ca0a869066e9cd43cf"
+    },
+    {
+      "id": "27882019858",
+      "repo": "opentalon",
+      "repoUrl": "https://github.com/protomota/opentalon",
+      "site": "opentalon.ai",
+      "at": "2026-11-21T11:50:04Z",
+      "kind": "ship",
+      "title": "[opentalon] verify revision request wording in activity",
+      "count": 1,
+      "sha": "69ad37b",
+      "url": "https://github.com/protomota/opentalon/commit/69ad37bb1b5017f72c5ad164e6d8284552ee769c"
     },
     {
       "id": "27881632758",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "83b5dd6",
       "url": "https://github.com/protomota/skills/commit/83b5dd685e65e2e17ff67f59d4354cf5259a8bbb"
-    },
-    {
-      "id": "27417246448",
-      "repo": "mcp",
-      "repoUrl": "https://github.com/protomota/mcp",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-16T20:22:26Z",
-      "kind": "ship",
-      "title": "[opentalon] apply requested ticket text edits directly",
-      "count": 1,
-      "sha": "1312e35",
-      "url": "https://github.com/protomota/mcp/commit/1312e355e6825764e0c941e434033ee45f5f6a8f"
     }
   ]
 }
