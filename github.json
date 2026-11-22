@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T05:55:11.611Z",
+  "generated": "2026-11-22T07:55:27.788Z",
   "user": "protomota",
   "items": [
     {
@@ -37,6 +37,30 @@
       "count": 1,
       "sha": "97d2081",
       "url": "https://github.com/protomota/inkspring/commit/97d2081c51aa866b3c8527b8e2721db0ff6350c8"
+    },
+    {
+      "id": "27909114657",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T17:19:08Z",
+      "kind": "ship",
+      "title": "[appearance] use the active theme for New Idea",
+      "count": 1,
+      "sha": "bee3713",
+      "url": "https://github.com/protomota/inkspring/commit/bee3713015fa570fdd7274cbea01817fe9f39685"
+    },
+    {
+      "id": "27908499518",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T17:12:13Z",
+      "kind": "ship",
+      "title": "[drafts] close the Claude picker and open the generated post",
+      "count": 1,
+      "sha": "024e39d",
+      "url": "https://github.com/protomota/inkspring/commit/024e39d0681261e0a44b05b469e8741b4d259f06"
     },
     {
       "id": "27823531745",
@@ -337,30 +361,6 @@
       "count": 1,
       "sha": "2366510",
       "url": "https://github.com/protomota/inkspring/commit/23665103a3d880c83bdb09c6dcbb195b5867fd15"
-    },
-    {
-      "id": "27654925079",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-19T12:39:56Z",
-      "kind": "ship",
-      "title": "[opentalon] replace plan view picker with pill tabs",
-      "count": 1,
-      "sha": "932fc36",
-      "url": "https://github.com/protomota/opentalon/commit/932fc36689411c0581e30ad5503ffa8dc964fef8"
-    },
-    {
-      "id": "27741952946",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-19T10:42:35Z",
-      "kind": "ship",
-      "title": "[inkspring] update source for Mac 1.0.20 and local MCP drafts",
-      "count": 1,
-      "sha": "b19960a",
-      "url": "https://github.com/protomota/inkspring/commit/b19960aa272b3f493f27487543dfc17d25663c23"
     }
   ]
 }
