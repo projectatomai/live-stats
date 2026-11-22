@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T07:55:27.788Z",
+  "generated": "2026-11-22T12:40:50.491Z",
   "user": "protomota",
   "items": [
     {
@@ -121,6 +121,18 @@
       "count": 1,
       "sha": "702fc89",
       "url": "https://github.com/protomota/inkspring/commit/702fc8977a156168f64aee29e72728550d7dca28"
+    },
+    {
+      "id": "27930377300",
+      "repo": "mcp",
+      "repoUrl": "https://github.com/protomota/mcp",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-21T09:57:57Z",
+      "kind": "ship",
+      "title": "[inkspring] connect Claude plugin to native idea tools",
+      "count": 1,
+      "sha": "106bdfc",
+      "url": "https://github.com/protomota/mcp/commit/106bdfcc40a6aab373823c70d41ececce02faabd"
     },
     {
       "id": "27899082341",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "44d7dee",
       "url": "https://github.com/protomota/opentalon/commit/44d7deea2cdbfbcdca08c8545f236bbd9e45faed"
-    },
-    {
-      "id": "27664259828",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-19T13:56:47Z",
-      "kind": "ship",
-      "title": "[inkspring] add writing formats, revision history and stable editors",
-      "count": 1,
-      "sha": "2366510",
-      "url": "https://github.com/protomota/inkspring/commit/23665103a3d880c83bdb09c6dcbb195b5867fd15"
     }
   ]
 }
