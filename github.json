@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T01:25:36.382Z",
+  "generated": "2026-11-22T01:55:51.605Z",
   "user": "protomota",
   "items": [
     {
@@ -61,6 +61,18 @@
       "count": 1,
       "sha": "8ca26d9",
       "url": "https://github.com/protomota/opentalon/commit/8ca26d99195e8f37ddb8e2ca0a869066e9cd43cf"
+    },
+    {
+      "id": "27881632758",
+      "repo": "opentalon",
+      "repoUrl": "https://github.com/protomota/opentalon",
+      "site": "opentalon.ai",
+      "at": "2026-11-21T11:44:57Z",
+      "kind": "ship",
+      "title": "[openTalon] use revision requests on Mac and mobile",
+      "count": 1,
+      "sha": "1eda442",
+      "url": "https://github.com/protomota/opentalon/commit/1eda4423d53722a56e640d811f22f459a983ae2d"
     },
     {
       "id": "27815706839",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "1312e35",
       "url": "https://github.com/protomota/mcp/commit/1312e355e6825764e0c941e434033ee45f5f6a8f"
-    },
-    {
-      "id": "27391439853",
-      "repo": "mcp",
-      "repoUrl": "https://github.com/protomota/mcp",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-16T20:07:01Z",
-      "kind": "ship",
-      "title": "[inkspring] save requested revisions directly to drafts",
-      "count": 1,
-      "sha": "cd54b1f",
-      "url": "https://github.com/protomota/mcp/commit/cd54b1fa3203edbeb5216c25ba8f1fcef08e3a89"
     }
   ]
 }
