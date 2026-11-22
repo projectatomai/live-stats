@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T16:14:42.837Z",
+  "generated": "2026-11-22T17:25:48.717Z",
   "user": "protomota",
   "items": [
     {
@@ -85,6 +85,18 @@
       "count": 1,
       "sha": "024e39d",
       "url": "https://github.com/protomota/inkspring/commit/024e39d0681261e0a44b05b469e8741b4d259f06"
+    },
+    {
+      "id": "27951414535",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-21T14:45:09Z",
+      "kind": "ship",
+      "title": "Career reel plays from YouTube (KPMcBjAJnjA)",
+      "count": 2,
+      "sha": "7f95347",
+      "url": "https://github.com/protomota/braddunlap-info/commit/7f9534795bca7def36dda3082574b81d49e3b0db"
     },
     {
       "id": "27823531745",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "ef1e9ae",
       "url": "https://github.com/protomota/inkspring/commit/ef1e9ae831986af9eafb292d3c771a03d48dd967"
-    },
-    {
-      "id": "27864168545",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-19T20:22:10Z",
-      "kind": "ship",
-      "title": "[inkspring] restore original Protomota badge artwork",
-      "count": 1,
-      "sha": "05082a7",
-      "url": "https://github.com/protomota/inkspring/commit/05082a74a09da83d60071420f5cc8bf19823cd5a"
     }
   ]
 }
