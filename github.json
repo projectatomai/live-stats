@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-22T15:25:32.202Z",
+  "generated": "2026-11-22T15:55:17.371Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "27944394693",
+      "repo": "pulsecanvas",
+      "repoUrl": "https://github.com/protomota/pulsecanvas",
+      "site": "pulsecanvas.ai",
+      "at": "2026-11-22T15:16:40Z",
+      "kind": "ship",
+      "title": "Point PulseCanvas links at pulsecanvas.ai",
+      "count": 1,
+      "sha": "b575055",
+      "url": "https://github.com/protomota/pulsecanvas/commit/b575055afcf417f156c9fecfa93972283ec1e7c0"
+    },
     {
       "id": "27942867817",
       "repo": "braddunlap-info",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "6141f9c",
       "url": "https://github.com/protomota/opentalon/commit/6141f9cfe22506efd934d09d6ba8a2467815352d"
-    },
-    {
-      "id": "27687581418",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-19T16:35:40Z",
-      "kind": "ship",
-      "title": "[opentalon] focus comments on user messages and linked activity",
-      "count": 1,
-      "sha": "9a07a18",
-      "url": "https://github.com/protomota/opentalon/commit/9a07a1889a87ac9982089d2d8037a6643a3ab8b7"
     }
   ]
 }
