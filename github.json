@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T03:17:46.081Z",
+  "generated": "2026-11-22T04:40:18.194Z",
   "user": "protomota",
   "items": [
     {
@@ -109,6 +109,18 @@
       "count": 1,
       "sha": "3a5e38c",
       "url": "https://github.com/protomota/inkspring/commit/3a5e38c2c14c8e09bc1cd2b02bf3b67bacc5f928"
+    },
+    {
+      "id": "27893938707",
+      "repo": "opentalon",
+      "repoUrl": "https://github.com/protomota/opentalon",
+      "site": "opentalon.ai",
+      "at": "2026-11-21T00:46:04Z",
+      "kind": "ship",
+      "title": "[opentalon] test comment follow-ups with MCP on and off",
+      "count": 1,
+      "sha": "927bd0c",
+      "url": "https://github.com/protomota/opentalon/commit/927bd0cae9e532c2b3bc55d774389b9170283839"
     },
     {
       "id": "27771082488",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "71bb9b1",
       "url": "https://github.com/protomota/opentalon/commit/71bb9b11c098df6eb8fd620388e70e193a1b33af"
-    },
-    {
-      "id": "27620978980",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-17T23:57:40Z",
-      "kind": "ship",
-      "title": "[braddunlap-info] add The Cult of Protomota Discord callout above the newsletter",
-      "count": 1,
-      "sha": "572810e",
-      "url": "https://github.com/protomota/braddunlap-info/commit/572810eca32052c23c63846880daa1668e790446"
     }
   ]
 }
