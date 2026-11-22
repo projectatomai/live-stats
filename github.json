@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T23:13:47.377Z",
+  "generated": "2026-11-22T23:55:19.338Z",
   "user": "protomota",
   "items": [
     {
@@ -49,6 +49,18 @@
       "count": 1,
       "sha": "8943198",
       "url": "https://github.com/protomota/braddunlap-info/commit/89431986c55e9bf49da24e6ef7be51f8147672be"
+    },
+    {
+      "id": "27980919463",
+      "repo": "mcp",
+      "repoUrl": "https://github.com/protomota/mcp",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-21T18:49:52Z",
+      "kind": "ship",
+      "title": "[glimmer] add the Glimmer MCP plugin and skill",
+      "count": 1,
+      "sha": "c1730a6",
+      "url": "https://github.com/protomota/mcp/commit/c1730a6f6553abe56f0fefadc0acf8442df62085"
     },
     {
       "id": "27845951202",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "a1fda11",
       "url": "https://github.com/protomota/opentalon/commit/a1fda11be7bd36e5fea9231555f34d8a49eadaf7"
-    },
-    {
-      "id": "27879150581",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-19T22:41:32Z",
-      "kind": "ship",
-      "title": "[x] link follow-up replies to editable X articles",
-      "count": 1,
-      "sha": "da1ddd3",
-      "url": "https://github.com/protomota/inkspring/commit/da1ddd3f23283a0c256c51e3c89079e8e1a20a8e"
     }
   ]
 }
