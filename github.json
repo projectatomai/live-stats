@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T15:55:17.371Z",
+  "generated": "2026-11-22T16:14:42.837Z",
   "user": "protomota",
   "items": [
     {
@@ -97,6 +97,18 @@
       "count": 1,
       "sha": "d4cc550",
       "url": "https://github.com/protomota/inkspring/commit/d4cc5500411d42dc2b46fe1928514b4d3e3c53da"
+    },
+    {
+      "id": "27946487289",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T12:32:49Z",
+      "kind": "ship",
+      "title": "Validate and confirm standalone Quick X posts",
+      "count": 1,
+      "sha": "de05ddd",
+      "url": "https://github.com/protomota/inkspring/commit/de05ddddf53ab95d4a6537f27a382cd1b4692fc0"
     },
     {
       "id": "27834344467",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "05082a7",
       "url": "https://github.com/protomota/inkspring/commit/05082a74a09da83d60071420f5cc8bf19823cd5a"
-    },
-    {
-      "id": "27855403110",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-19T19:30:05Z",
-      "kind": "ship",
-      "title": "[opentalon] expose recovered Markdown plans as task documents",
-      "count": 1,
-      "sha": "6141f9c",
-      "url": "https://github.com/protomota/opentalon/commit/6141f9cfe22506efd934d09d6ba8a2467815352d"
     }
   ]
 }
