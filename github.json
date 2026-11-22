@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T17:25:48.717Z",
+  "generated": "2026-11-22T23:13:47.377Z",
   "user": "protomota",
   "items": [
     {
@@ -315,6 +315,18 @@
       "url": "https://github.com/protomota/inkspring/commit/208901f32af44ef30692de230f0fcb058488262c"
     },
     {
+      "id": "27977486316",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-20T17:50:18Z",
+      "kind": "ship",
+      "title": "[studio] tuck outlines into draft actions and add LinkedIn articles",
+      "count": 1,
+      "sha": "4c2205f",
+      "url": "https://github.com/protomota/inkspring/commit/4c2205fe514084231e6067215bdee8b340ede367"
+    },
+    {
       "id": "27886482065",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "da1ddd3",
       "url": "https://github.com/protomota/inkspring/commit/da1ddd3f23283a0c256c51e3c89079e8e1a20a8e"
-    },
-    {
-      "id": "27863223672",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-19T20:51:19Z",
-      "kind": "ship",
-      "title": "[workspace] bring all draft formats into the project browser",
-      "count": 1,
-      "sha": "ef1e9ae",
-      "url": "https://github.com/protomota/inkspring/commit/ef1e9ae831986af9eafb292d3c771a03d48dd967"
     }
   ]
 }
