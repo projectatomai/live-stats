@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-22T12:40:50.491Z",
+  "generated": "2026-11-22T15:25:32.202Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "27942867817",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-22T15:16:35Z",
+      "kind": "ship",
+      "title": "Point PulseCanvas links at pulsecanvas.ai",
+      "count": 1,
+      "sha": "65d4642",
+      "url": "https://github.com/protomota/braddunlap-info/commit/65d464200c96dd4a4f8dc215615abf70557ff1c0"
+    },
     {
       "id": "27866404371",
       "repo": "mcp",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "9a07a18",
       "url": "https://github.com/protomota/opentalon/commit/9a07a1889a87ac9982089d2d8037a6643a3ab8b7"
-    },
-    {
-      "id": "27675872952",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-19T15:00:50Z",
-      "kind": "ship",
-      "title": "[tests] respect the configured activity fixture directory",
-      "count": 1,
-      "sha": "44d7dee",
-      "url": "https://github.com/protomota/opentalon/commit/44d7deea2cdbfbcdca08c8545f236bbd9e45faed"
     }
   ]
 }
