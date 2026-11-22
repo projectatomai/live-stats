@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T02:20:38.897Z",
+  "generated": "2026-11-22T03:17:46.081Z",
   "user": "protomota",
   "items": [
     {
@@ -207,6 +207,18 @@
       "url": "https://github.com/protomota/inkspring/commit/208901f32af44ef30692de230f0fcb058488262c"
     },
     {
+      "id": "27886482065",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-19T23:14:13Z",
+      "kind": "ship",
+      "title": "[mobile] welcome new writers and guide Mac setup",
+      "count": 1,
+      "sha": "f0c2bc1",
+      "url": "https://github.com/protomota/inkspring/commit/f0c2bc1877d7dd7953e981701280118e94b67bda"
+    },
+    {
       "id": "27832973661",
       "repo": "opentalon",
       "repoUrl": "https://github.com/protomota/opentalon",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "572810e",
       "url": "https://github.com/protomota/braddunlap-info/commit/572810eca32052c23c63846880daa1668e790446"
-    },
-    {
-      "id": "27420143790",
-      "repo": "skills",
-      "repoUrl": "https://github.com/protomota/skills",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-16T20:22:27Z",
-      "kind": "ship",
-      "title": "[opentalon] apply requested ticket text edits directly",
-      "count": 1,
-      "sha": "83b5dd6",
-      "url": "https://github.com/protomota/skills/commit/83b5dd685e65e2e17ff67f59d4354cf5259a8bbb"
     }
   ]
 }
