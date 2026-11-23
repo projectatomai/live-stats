@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T10:16:42.522Z",
+  "generated": "2026-11-23T10:54:58.423Z",
   "user": "protomota",
   "items": [
     {
@@ -13,6 +13,18 @@
       "count": 1,
       "sha": "c739293",
       "url": "https://github.com/protomota/inkspring/commit/c739293bf55b79cb712d8321407bb740eb0259cf"
+    },
+    {
+      "id": "28028314831",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-23T08:14:41Z",
+      "kind": "ship",
+      "title": "[companion] wait for the first iCloud library check before showing controls",
+      "count": 1,
+      "sha": "549609c",
+      "url": "https://github.com/protomota/inkspring/commit/549609cc3657391a7a4bb89f280200c55a72d54b"
     },
     {
       "id": "27995623896",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "1b78ad6",
       "url": "https://github.com/protomota/inkspring/commit/1b78ad6044f6bfbb6efce69e212baf42bde4de4a"
-    },
-    {
-      "id": "27771082488",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T00:08:10Z",
-      "kind": "ship",
-      "title": "Keep LinkedIn publishing focused on feed posts",
-      "count": 1,
-      "sha": "d51343d",
-      "url": "https://github.com/protomota/inkspring/commit/d51343db2f25c85d24022014bbac46cc31693e9a"
     }
   ]
 }
