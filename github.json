@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T02:41:38.623Z",
+  "generated": "2026-11-23T02:55:35.526Z",
   "user": "protomota",
   "items": [
     {
@@ -219,6 +219,18 @@
       "url": "https://github.com/protomota/inkspring/commit/538ac741f3f832a4da6decbc136723666ba15414"
     },
     {
+      "id": "27994551605",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T01:57:13Z",
+      "kind": "ship",
+      "title": "[x] guard video covers and skip empty thread replies",
+      "count": 1,
+      "sha": "7f85c8f",
+      "url": "https://github.com/protomota/inkspring/commit/7f85c8fe7335f06bfb8d0a8d42c0c99b9a4df059"
+    },
+    {
       "id": "27993191255",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "28b5732",
       "url": "https://github.com/protomota/inkspring/commit/28b5732827bc32d26a196bd93bdd2b1d9b8dc643"
-    },
-    {
-      "id": "27755454458",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-20T21:26:19Z",
-      "kind": "ship",
-      "title": "[mac] pair social posts with their articles",
-      "count": 1,
-      "sha": "a27eef6",
-      "url": "https://github.com/protomota/inkspring/commit/a27eef69754077db53cfcade1d5b35f056f7cde6"
     }
   ]
 }
