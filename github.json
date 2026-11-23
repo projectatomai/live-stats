@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T17:15:00.604Z",
+  "generated": "2026-11-23T17:40:11.466Z",
   "user": "protomota",
   "items": [
     {
@@ -243,18 +243,6 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/7f9534795bca7def36dda3082574b81d49e3b0db"
     },
     {
-      "id": "27823531745",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T12:37:12Z",
-      "kind": "ship",
-      "title": "[mcp] Save exact X replies and prepare Inkspring 1.0.53",
-      "count": 1,
-      "sha": "d4cc550",
-      "url": "https://github.com/protomota/inkspring/commit/d4cc5500411d42dc2b46fe1928514b4d3e3c53da"
-    },
-    {
       "id": "27946487289",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -361,6 +349,18 @@
       "count": 1,
       "sha": "7f85c8f",
       "url": "https://github.com/protomota/inkspring/commit/7f85c8fe7335f06bfb8d0a8d42c0c99b9a4df059"
+    },
+    {
+      "id": "27993191255",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-21T01:37:07Z",
+      "kind": "ship",
+      "title": "Protomota, not Protomota Lab: the three &nbsp; spots (hero, experience, selected work)",
+      "count": 1,
+      "sha": "a41b425",
+      "url": "https://github.com/protomota/braddunlap-info/commit/a41b42595f0b591a1ccee4bc55a930997be61cc6"
     }
   ]
 }
