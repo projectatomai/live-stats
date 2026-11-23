@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T01:42:49.181Z",
+  "generated": "2026-11-23T02:41:38.623Z",
   "user": "protomota",
   "items": [
     {
@@ -219,6 +219,30 @@
       "url": "https://github.com/protomota/inkspring/commit/538ac741f3f832a4da6decbc136723666ba15414"
     },
     {
+      "id": "27993191255",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-21T01:37:07Z",
+      "kind": "ship",
+      "title": "Protomota, not Protomota Lab: the three &nbsp; spots (hero, experience, selected work)",
+      "count": 1,
+      "sha": "a41b425",
+      "url": "https://github.com/protomota/braddunlap-info/commit/a41b42595f0b591a1ccee4bc55a930997be61cc6"
+    },
+    {
+      "id": "27993108716",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-21T01:35:58Z",
+      "kind": "ship",
+      "title": "Call it Protomota, not Protomota Lab, across the site and resume",
+      "count": 1,
+      "sha": "7d4a77e",
+      "url": "https://github.com/protomota/braddunlap-info/commit/7d4a77eb40ff996fba552a989999efc54cfbfa00"
+    },
+    {
       "id": "27837655184",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -337,30 +361,6 @@
       "count": 1,
       "sha": "a27eef6",
       "url": "https://github.com/protomota/inkspring/commit/a27eef69754077db53cfcade1d5b35f056f7cde6"
-    },
-    {
-      "id": "27807749212",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-20T20:09:27Z",
-      "kind": "ship",
-      "title": "[mac] clarify LinkedIn setup and sign-in",
-      "count": 1,
-      "sha": "208901f",
-      "url": "https://github.com/protomota/inkspring/commit/208901f32af44ef30692de230f0fcb058488262c"
-    },
-    {
-      "id": "27977486316",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-20T17:50:18Z",
-      "kind": "ship",
-      "title": "[studio] tuck outlines into draft actions and add LinkedIn articles",
-      "count": 1,
-      "sha": "4c2205f",
-      "url": "https://github.com/protomota/inkspring/commit/4c2205fe514084231e6067215bdee8b340ede367"
     }
   ]
 }
