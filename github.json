@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T21:14:00.461Z",
+  "generated": "2026-11-23T21:55:18.523Z",
   "user": "protomota",
   "items": [
     {
@@ -195,18 +195,6 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/7fd62004faff1088b6dcb47a8ac7598a41af6a9a"
     },
     {
-      "id": "27861402487",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-21T18:51:05Z",
-      "kind": "ship",
-      "title": "Add Glimmer to the More from Protomota footer",
-      "count": 1,
-      "sha": "8943198",
-      "url": "https://github.com/protomota/braddunlap-info/commit/89431986c55e9bf49da24e6ef7be51f8147672be"
-    },
-    {
       "id": "27980919463",
       "repo": "mcp",
       "repoUrl": "https://github.com/protomota/mcp",
@@ -361,6 +349,18 @@
       "count": 1,
       "sha": "de05ddd",
       "url": "https://github.com/protomota/inkspring/commit/de05ddddf53ab95d4a6537f27a382cd1b4692fc0"
+    },
+    {
+      "id": "27882019858",
+      "repo": "opentalon",
+      "repoUrl": "https://github.com/protomota/opentalon",
+      "site": "opentalon.ai",
+      "at": "2026-11-21T11:50:04Z",
+      "kind": "ship",
+      "title": "[opentalon] verify revision request wording in activity",
+      "count": 1,
+      "sha": "69ad37b",
+      "url": "https://github.com/protomota/opentalon/commit/69ad37bb1b5017f72c5ad164e6d8284552ee769c"
     }
   ]
 }
