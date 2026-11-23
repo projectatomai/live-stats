@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T03:19:56.013Z",
+  "generated": "2026-11-23T05:40:59.770Z",
   "user": "protomota",
   "items": [
     {
@@ -37,6 +37,18 @@
       "count": 1,
       "sha": "65d4642",
       "url": "https://github.com/protomota/braddunlap-info/commit/65d464200c96dd4a4f8dc215615abf70557ff1c0"
+    },
+    {
+      "id": "28006711579",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-22T14:13:24Z",
+      "kind": "ship",
+      "title": "PulseCanvas picture: remove the drawn headset",
+      "count": 1,
+      "sha": "cca1ad4",
+      "url": "https://github.com/protomota/braddunlap-info/commit/cca1ad462a400357db046e6ad70617e6a00ca874"
     },
     {
       "id": "27866404371",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "d7065f7",
       "url": "https://github.com/protomota/inkspring/commit/d7065f7da71c2cd96efc8df74e6a3937538092ce"
-    },
-    {
-      "id": "27764826698",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-20T22:49:55Z",
-      "kind": "ship",
-      "title": "[mac] refine draft actions, covers, and X inbox",
-      "count": 1,
-      "sha": "2db5eab",
-      "url": "https://github.com/protomota/inkspring/commit/2db5eabe78c39743ed870adc1b21b8413149178c"
     }
   ]
 }
