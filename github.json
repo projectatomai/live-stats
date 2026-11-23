@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T21:55:18.523Z",
+  "generated": "2026-11-23T22:13:39.220Z",
   "user": "protomota",
   "items": [
     {
@@ -121,6 +121,18 @@
       "count": 1,
       "sha": "65d4642",
       "url": "https://github.com/protomota/braddunlap-info/commit/65d464200c96dd4a4f8dc215615abf70557ff1c0"
+    },
+    {
+      "id": "28073008843",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-22T15:11:34Z",
+      "kind": "ship",
+      "title": "Closing callout: lead with Protomota, resume as take-it-with-you",
+      "count": 1,
+      "sha": "7b9c799",
+      "url": "https://github.com/protomota/braddunlap-info/commit/7b9c7997aef7ff8a2ec293be0fe949f5e05227fc"
     },
     {
       "id": "28006711579",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "de05ddd",
       "url": "https://github.com/protomota/inkspring/commit/de05ddddf53ab95d4a6537f27a382cd1b4692fc0"
-    },
-    {
-      "id": "27882019858",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-21T11:50:04Z",
-      "kind": "ship",
-      "title": "[opentalon] verify revision request wording in activity",
-      "count": 1,
-      "sha": "69ad37b",
-      "url": "https://github.com/protomota/opentalon/commit/69ad37bb1b5017f72c5ad164e6d8284552ee769c"
     }
   ]
 }
