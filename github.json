@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T05:40:59.770Z",
+  "generated": "2026-11-23T08:22:45.138Z",
   "user": "protomota",
   "items": [
     {
@@ -339,6 +339,18 @@
       "url": "https://github.com/protomota/inkspring/commit/d51343db2f25c85d24022014bbac46cc31693e9a"
     },
     {
+      "id": "28017849180",
+      "repo": "opentalon",
+      "repoUrl": "https://github.com/protomota/opentalon",
+      "site": "opentalon.ai",
+      "at": "2026-11-20T23:54:49Z",
+      "kind": "ship",
+      "title": "[opentalon] add on-device Mac assistant and improve mobile chat",
+      "count": 1,
+      "sha": "1ebfe36",
+      "url": "https://github.com/protomota/opentalon/commit/1ebfe365b973c6efa6d979f251fc74191e4ff0f2"
+    },
+    {
       "id": "27767948797",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "50e5fc4",
       "url": "https://github.com/protomota/inkspring/commit/50e5fc424eafb96732f833d1d4a4cec775b972d7"
-    },
-    {
-      "id": "27779075960",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-20T23:16:36Z",
-      "kind": "ship",
-      "title": "[mac] default newsletter email on and confirm cancellations",
-      "count": 1,
-      "sha": "d7065f7",
-      "url": "https://github.com/protomota/inkspring/commit/d7065f7da71c2cd96efc8df74e6a3937538092ce"
     }
   ]
 }
