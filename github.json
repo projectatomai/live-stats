@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-23T12:22:23.142Z",
+  "generated": "2026-11-23T12:35:12.402Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "28035223209",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-23T12:20:25Z",
+      "kind": "ship",
+      "title": "[glimmer] Publish daily coaching and dashboard skill",
+      "count": 1,
+      "sha": "803086a",
+      "url": "https://github.com/protomota/skills/commit/803086aa3b1d67600b2cb05f538f27b61b5c7da5"
+    },
     {
       "id": "28024472638",
       "repo": "inkspring",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "7d4a77e",
       "url": "https://github.com/protomota/braddunlap-info/commit/7d4a77eb40ff996fba552a989999efc54cfbfa00"
-    },
-    {
-      "id": "27837655184",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T01:27:27Z",
-      "kind": "ship",
-      "title": "[linkedin] wait for custom thumbnail processing",
-      "count": 1,
-      "sha": "3a5e38c",
-      "url": "https://github.com/protomota/inkspring/commit/3a5e38c2c14c8e09bc1cd2b02bf3b67bacc5f928"
     }
   ]
 }
