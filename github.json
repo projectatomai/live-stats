@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T20:40:25.510Z",
+  "generated": "2026-11-23T21:14:00.461Z",
   "user": "protomota",
   "items": [
     {
@@ -183,6 +183,18 @@
       "url": "https://github.com/protomota/mcp/commit/3719d2f5686c3f362c8208953df604d5d867910a"
     },
     {
+      "id": "28068245830",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-21T19:01:45Z",
+      "kind": "ship",
+      "title": "Resume: all seven apps, Glimmer in Selected work, robotics and motion off",
+      "count": 1,
+      "sha": "7fd6200",
+      "url": "https://github.com/protomota/braddunlap-info/commit/7fd62004faff1088b6dcb47a8ac7598a41af6a9a"
+    },
+    {
       "id": "27861402487",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -279,6 +291,18 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/7f9534795bca7def36dda3082574b81d49e3b0db"
     },
     {
+      "id": "28068652605",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T12:42:49Z",
+      "kind": "ship",
+      "title": "Fit the proofreading review to compact screens",
+      "count": 1,
+      "sha": "cd11ebf",
+      "url": "https://github.com/protomota/inkspring/commit/cd11ebff261f2cf615822e8e10b9f7948af68410"
+    },
+    {
       "id": "28065542023",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -289,6 +313,18 @@
       "count": 1,
       "sha": "2f2d48e",
       "url": "https://github.com/protomota/inkspring/commit/2f2d48e860d18eaa431f7c1bdb541aa50a44a52b"
+    },
+    {
+      "id": "28068091781",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-21T12:36:44Z",
+      "kind": "ship",
+      "title": "Add Share buttons to the hero and each Protomota card",
+      "count": 1,
+      "sha": "b66b3db",
+      "url": "https://github.com/protomota/braddunlap-info/commit/b66b3dbe2ae864b76aa6ac8589416adc2892a8cc"
     },
     {
       "id": "28065220676",
@@ -325,42 +361,6 @@
       "count": 1,
       "sha": "de05ddd",
       "url": "https://github.com/protomota/inkspring/commit/de05ddddf53ab95d4a6537f27a382cd1b4692fc0"
-    },
-    {
-      "id": "27882019858",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-21T11:50:04Z",
-      "kind": "ship",
-      "title": "[opentalon] verify revision request wording in activity",
-      "count": 1,
-      "sha": "69ad37b",
-      "url": "https://github.com/protomota/opentalon/commit/69ad37bb1b5017f72c5ad164e6d8284552ee769c"
-    },
-    {
-      "id": "27881632758",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-21T11:44:57Z",
-      "kind": "ship",
-      "title": "[openTalon] use revision requests on Mac and mobile",
-      "count": 1,
-      "sha": "1eda442",
-      "url": "https://github.com/protomota/opentalon/commit/1eda4423d53722a56e640d811f22f459a983ae2d"
-    },
-    {
-      "id": "27930377300",
-      "repo": "mcp",
-      "repoUrl": "https://github.com/protomota/mcp",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-21T09:57:57Z",
-      "kind": "ship",
-      "title": "[inkspring] connect Claude plugin to native idea tools",
-      "count": 1,
-      "sha": "106bdfc",
-      "url": "https://github.com/protomota/mcp/commit/106bdfcc40a6aab373823c70d41ececce02faabd"
     }
   ]
 }
