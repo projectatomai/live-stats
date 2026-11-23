@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T11:40:29.583Z",
+  "generated": "2026-11-23T12:22:23.142Z",
   "user": "protomota",
   "items": [
     {
@@ -37,6 +37,18 @@
       "count": 1,
       "sha": "41df949",
       "url": "https://github.com/protomota/opentalon/commit/41df949ea20cac2b1e88a9a5b40a1f8a5f81aabf"
+    },
+    {
+      "id": "28033452220",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-22T18:53:15Z",
+      "kind": "ship",
+      "title": "move idea URLs to follow-up replies",
+      "count": 1,
+      "sha": "ffbaf40",
+      "url": "https://github.com/protomota/inkspring/commit/ffbaf406862cd65d00c11bd35fc0eabbb73d423c"
     },
     {
       "id": "28025916276",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "3a5e38c",
       "url": "https://github.com/protomota/inkspring/commit/3a5e38c2c14c8e09bc1cd2b02bf3b67bacc5f928"
-    },
-    {
-      "id": "27893938707",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-21T00:46:04Z",
-      "kind": "ship",
-      "title": "[opentalon] test comment follow-ups with MCP on and off",
-      "count": 1,
-      "sha": "927bd0c",
-      "url": "https://github.com/protomota/opentalon/commit/927bd0cae9e532c2b3bc55d774389b9170283839"
     }
   ]
 }
