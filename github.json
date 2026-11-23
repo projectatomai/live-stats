@@ -1,19 +1,7 @@
 {
-  "generated": "2026-11-23T11:14:14.569Z",
+  "generated": "2026-11-23T11:25:18.650Z",
   "user": "protomota",
   "items": [
-    {
-      "id": "28024472638",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-23T08:35:18Z",
-      "kind": "ship",
-      "title": "[models] replace legacy Fable API selection with 5.2",
-      "count": 1,
-      "sha": "c739293",
-      "url": "https://github.com/protomota/inkspring/commit/c739293bf55b79cb712d8321407bb740eb0259cf"
-    },
     {
       "id": "28028314831",
       "repo": "inkspring",
@@ -361,6 +349,18 @@
       "count": 1,
       "sha": "927bd0c",
       "url": "https://github.com/protomota/opentalon/commit/927bd0cae9e532c2b3bc55d774389b9170283839"
+    },
+    {
+      "id": "28030005122",
+      "repo": "mcp",
+      "repoUrl": "https://github.com/protomota/mcp",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-21T00:42:35Z",
+      "kind": "ship",
+      "title": "[inkspring-mcp] update draft and publishing guidance",
+      "count": 1,
+      "sha": "27c6dc8",
+      "url": "https://github.com/protomota/mcp/commit/27c6dc8d6784e7f6324f4f12d88fd4bb9f884a21"
     }
   ]
 }
