@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T10:54:58.423Z",
+  "generated": "2026-11-23T11:14:14.569Z",
   "user": "protomota",
   "items": [
     {
@@ -267,6 +267,18 @@
       "url": "https://github.com/protomota/mcp/commit/106bdfcc40a6aab373823c70d41ececce02faabd"
     },
     {
+      "id": "28029793308",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T02:53:31Z",
+      "kind": "ship",
+      "title": "[tiktok] surface developer app and Direct Post errors",
+      "count": 1,
+      "sha": "60d35cc",
+      "url": "https://github.com/protomota/inkspring/commit/60d35cc8549936fcd656f59038f37e32239abb5f"
+    },
+    {
       "id": "27995061193",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "927bd0c",
       "url": "https://github.com/protomota/opentalon/commit/927bd0cae9e532c2b3bc55d774389b9170283839"
-    },
-    {
-      "id": "27988324003",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T00:36:33Z",
-      "kind": "ship",
-      "title": "[drafts] simplify post status and gate agent tools",
-      "count": 1,
-      "sha": "1b78ad6",
-      "url": "https://github.com/protomota/inkspring/commit/1b78ad6044f6bfbb6efce69e212baf42bde4de4a"
     }
   ]
 }
