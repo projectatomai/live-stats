@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T15:40:34.138Z",
+  "generated": "2026-11-23T17:15:00.604Z",
   "user": "protomota",
   "items": [
     {
@@ -207,6 +207,18 @@
       "url": "https://github.com/protomota/inkspring/commit/024e39d0681261e0a44b05b469e8741b4d259f06"
     },
     {
+      "id": "28053278849",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T16:09:29Z",
+      "kind": "ship",
+      "title": "[ideas] preserve author context and apply selected suggestions",
+      "count": 1,
+      "sha": "9e194df",
+      "url": "https://github.com/protomota/inkspring/commit/9e194dfb7c61f3f9c64de4baeaaf388362a74ed4"
+    },
+    {
       "id": "28047408423",
       "repo": "opentalon",
       "repoUrl": "https://github.com/protomota/opentalon",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "7f85c8f",
       "url": "https://github.com/protomota/inkspring/commit/7f85c8fe7335f06bfb8d0a8d42c0c99b9a4df059"
-    },
-    {
-      "id": "27993191255",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-21T01:37:07Z",
-      "kind": "ship",
-      "title": "Protomota, not Protomota Lab: the three &nbsp; spots (hero, experience, selected work)",
-      "count": 1,
-      "sha": "a41b425",
-      "url": "https://github.com/protomota/braddunlap-info/commit/a41b42595f0b591a1ccee4bc55a930997be61cc6"
     }
   ]
 }
