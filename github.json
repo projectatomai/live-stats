@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T23:55:19.338Z",
+  "generated": "2026-11-23T01:17:38.126Z",
   "user": "protomota",
   "items": [
     {
@@ -37,6 +37,18 @@
       "count": 1,
       "sha": "77e6edc",
       "url": "https://github.com/protomota/mcp/commit/77e6edcf2d15d4e8138f05b11d5f752d9fd215be"
+    },
+    {
+      "id": "27986235095",
+      "repo": "mcp",
+      "repoUrl": "https://github.com/protomota/mcp",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-21T19:59:45Z",
+      "kind": "ship",
+      "title": "[mcp] write Textley in normal case",
+      "count": 1,
+      "sha": "3719d2f",
+      "url": "https://github.com/protomota/mcp/commit/3719d2f5686c3f362c8208953df604d5d867910a"
     },
     {
       "id": "27861402487",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "f0c2bc1",
       "url": "https://github.com/protomota/inkspring/commit/f0c2bc1877d7dd7953e981701280118e94b67bda"
-    },
-    {
-      "id": "27832973661",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-19T23:11:43Z",
-      "kind": "ship",
-      "title": "[opentalon] introduce Mac setup and first-launch idea capture",
-      "count": 1,
-      "sha": "a1fda11",
-      "url": "https://github.com/protomota/opentalon/commit/a1fda11be7bd36e5fea9231555f34d8a49eadaf7"
     }
   ]
 }
