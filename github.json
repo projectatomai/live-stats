@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T22:40:28.761Z",
+  "generated": "2026-11-23T23:15:06.304Z",
   "user": "protomota",
   "items": [
     {
@@ -351,16 +351,16 @@
       "url": "https://github.com/protomota/inkspring/commit/de05ddddf53ab95d4a6537f27a382cd1b4692fc0"
     },
     {
-      "id": "27882019858",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-21T11:50:04Z",
+      "id": "27930377300",
+      "repo": "mcp",
+      "repoUrl": "https://github.com/protomota/mcp",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-21T09:57:57Z",
       "kind": "ship",
-      "title": "[opentalon] verify revision request wording in activity",
+      "title": "[inkspring] connect Claude plugin to native idea tools",
       "count": 1,
-      "sha": "69ad37b",
-      "url": "https://github.com/protomota/opentalon/commit/69ad37bb1b5017f72c5ad164e6d8284552ee769c"
+      "sha": "106bdfc",
+      "url": "https://github.com/protomota/mcp/commit/106bdfcc40a6aab373823c70d41ececce02faabd"
     }
   ]
 }
