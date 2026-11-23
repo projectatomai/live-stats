@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T09:55:16.332Z",
+  "generated": "2026-11-23T10:16:42.522Z",
   "user": "protomota",
   "items": [
     {
@@ -25,6 +25,18 @@
       "count": 1,
       "sha": "41df949",
       "url": "https://github.com/protomota/opentalon/commit/41df949ea20cac2b1e88a9a5b40a1f8a5f81aabf"
+    },
+    {
+      "id": "28025916276",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-22T17:36:54Z",
+      "kind": "ship",
+      "title": "Inkspring: list every format it drafts",
+      "count": 1,
+      "sha": "bc83bed",
+      "url": "https://github.com/protomota/braddunlap-info/commit/bc83bed26b5583f3a6ab4d47a3fae8d9342c3be7"
     },
     {
       "id": "27944394693",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "d51343d",
       "url": "https://github.com/protomota/inkspring/commit/d51343db2f25c85d24022014bbac46cc31693e9a"
-    },
-    {
-      "id": "28017849180",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-20T23:54:49Z",
-      "kind": "ship",
-      "title": "[opentalon] add on-device Mac assistant and improve mobile chat",
-      "count": 1,
-      "sha": "1ebfe36",
-      "url": "https://github.com/protomota/opentalon/commit/1ebfe365b973c6efa6d979f251fc74191e4ff0f2"
     }
   ]
 }
