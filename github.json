@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T20:14:41.824Z",
+  "generated": "2026-11-23T20:26:07.984Z",
   "user": "protomota",
   "items": [
     {
@@ -267,6 +267,42 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/7f9534795bca7def36dda3082574b81d49e3b0db"
     },
     {
+      "id": "28065542023",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T12:38:55Z",
+      "kind": "ship",
+      "title": "Use compact, theme-colored proofreading confirmation",
+      "count": 1,
+      "sha": "2f2d48e",
+      "url": "https://github.com/protomota/inkspring/commit/2f2d48e860d18eaa431f7c1bdb541aa50a44a52b"
+    },
+    {
+      "id": "28065220676",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T12:34:12Z",
+      "kind": "ship",
+      "title": "[mac] prepare Inkspring 1.0.52",
+      "count": 2,
+      "sha": "64b740f",
+      "url": "https://github.com/protomota/inkspring/commit/64b740fe6ba0902c242eca2b2bcdb657b6481316"
+    },
+    {
+      "id": "28065213347",
+      "repo": "mcp",
+      "repoUrl": "https://github.com/protomota/mcp",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-21T12:34:04Z",
+      "kind": "ship",
+      "title": "[inkspring] keep post ideas generic in the MCP plugin",
+      "count": 1,
+      "sha": "5461114",
+      "url": "https://github.com/protomota/mcp/commit/5461114711d91e30b8555d3662520994699d1b70"
+    },
+    {
       "id": "27946487289",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -325,42 +361,6 @@
       "count": 1,
       "sha": "60d35cc",
       "url": "https://github.com/protomota/inkspring/commit/60d35cc8549936fcd656f59038f37e32239abb5f"
-    },
-    {
-      "id": "27995061193",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T02:04:37Z",
-      "kind": "ship",
-      "title": "[x] remove custom video cover controls",
-      "count": 1,
-      "sha": "e6e5551",
-      "url": "https://github.com/protomota/inkspring/commit/e6e55510b6f86a67c2497695886fa534384ed2ba"
-    },
-    {
-      "id": "27899082341",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T01:58:49Z",
-      "kind": "ship",
-      "title": "[ios] release X thread parsing fix",
-      "count": 1,
-      "sha": "538ac74",
-      "url": "https://github.com/protomota/inkspring/commit/538ac741f3f832a4da6decbc136723666ba15414"
-    },
-    {
-      "id": "27994551605",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T01:57:13Z",
-      "kind": "ship",
-      "title": "[x] guard video covers and skip empty thread replies",
-      "count": 1,
-      "sha": "7f85c8f",
-      "url": "https://github.com/protomota/inkspring/commit/7f85c8fe7335f06bfb8d0a8d42c0c99b9a4df059"
     }
   ]
 }
