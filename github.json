@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-23T02:55:35.526Z",
+  "generated": "2026-11-23T03:19:56.013Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "27995623896",
+      "repo": "opentalon",
+      "repoUrl": "https://github.com/protomota/opentalon",
+      "site": "opentalon.ai",
+      "at": "2026-11-23T01:57:07Z",
+      "kind": "ship",
+      "title": "[opentalon] refresh synced models and add project agent folders",
+      "count": 1,
+      "sha": "41df949",
+      "url": "https://github.com/protomota/opentalon/commit/41df949ea20cac2b1e88a9a5b40a1f8a5f81aabf"
+    },
     {
       "id": "27944394693",
       "repo": "pulsecanvas",
@@ -207,6 +219,18 @@
       "url": "https://github.com/protomota/mcp/commit/106bdfcc40a6aab373823c70d41ececce02faabd"
     },
     {
+      "id": "27995061193",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T02:04:37Z",
+      "kind": "ship",
+      "title": "[x] remove custom video cover controls",
+      "count": 1,
+      "sha": "e6e5551",
+      "url": "https://github.com/protomota/inkspring/commit/e6e55510b6f86a67c2497695886fa534384ed2ba"
+    },
+    {
       "id": "27899082341",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -337,30 +361,6 @@
       "count": 1,
       "sha": "2db5eab",
       "url": "https://github.com/protomota/inkspring/commit/2db5eabe78c39743ed870adc1b21b8413149178c"
-    },
-    {
-      "id": "27764453418",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-20T22:44:51Z",
-      "kind": "ship",
-      "title": "[opentalon] update Mac 1.0.21 and mobile build 30 versions",
-      "count": 1,
-      "sha": "a9a1ff3",
-      "url": "https://github.com/protomota/opentalon/commit/a9a1ff3e87268844c0b4a10d4e4ea52c3325eec3"
-    },
-    {
-      "id": "27771482627",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-20T21:58:09Z",
-      "kind": "ship",
-      "title": "Schedule near-term posts and require video readiness",
-      "count": 1,
-      "sha": "28b5732",
-      "url": "https://github.com/protomota/inkspring/commit/28b5732827bc32d26a196bd93bdd2b1d9b8dc643"
     }
   ]
 }
