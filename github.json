@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T22:13:39.220Z",
+  "generated": "2026-11-23T22:40:28.761Z",
   "user": "protomota",
   "items": [
     {
@@ -169,18 +169,6 @@
       "count": 1,
       "sha": "b8b42ed",
       "url": "https://github.com/protomota/braddunlap-info/commit/b8b42ed57a3a679f4f87a6f3c5b7f25bbe8fffd3"
-    },
-    {
-      "id": "27866404371",
-      "repo": "mcp",
-      "repoUrl": "https://github.com/protomota/mcp",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-21T20:04:32Z",
-      "kind": "ship",
-      "title": "[glimmer-mcp] add add_plan_task to the Glimmer skill, version 0.2.0",
-      "count": 1,
-      "sha": "77e6edc",
-      "url": "https://github.com/protomota/mcp/commit/77e6edcf2d15d4e8138f05b11d5f752d9fd215be"
     },
     {
       "id": "27986235095",
@@ -361,6 +349,18 @@
       "count": 1,
       "sha": "de05ddd",
       "url": "https://github.com/protomota/inkspring/commit/de05ddddf53ab95d4a6537f27a382cd1b4692fc0"
+    },
+    {
+      "id": "27882019858",
+      "repo": "opentalon",
+      "repoUrl": "https://github.com/protomota/opentalon",
+      "site": "opentalon.ai",
+      "at": "2026-11-21T11:50:04Z",
+      "kind": "ship",
+      "title": "[opentalon] verify revision request wording in activity",
+      "count": 1,
+      "sha": "69ad37b",
+      "url": "https://github.com/protomota/opentalon/commit/69ad37bb1b5017f72c5ad164e6d8284552ee769c"
     }
   ]
 }
