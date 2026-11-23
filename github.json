@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T19:12:30.627Z",
+  "generated": "2026-11-23T19:55:15.468Z",
   "user": "protomota",
   "items": [
     {
@@ -183,18 +183,6 @@
       "url": "https://github.com/protomota/mcp/commit/c1730a6f6553abe56f0fefadc0acf8442df62085"
     },
     {
-      "id": "27845951202",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T17:45:04Z",
-      "kind": "ship",
-      "title": "[appearance] style the Review idea button with theme colors",
-      "count": 1,
-      "sha": "97d2081",
-      "url": "https://github.com/protomota/inkspring/commit/97d2081c51aa866b3c8527b8e2721db0ff6350c8"
-    },
-    {
       "id": "27909114657",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -361,6 +349,18 @@
       "count": 1,
       "sha": "7f85c8f",
       "url": "https://github.com/protomota/inkspring/commit/7f85c8fe7335f06bfb8d0a8d42c0c99b9a4df059"
+    },
+    {
+      "id": "27993191255",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-21T01:37:07Z",
+      "kind": "ship",
+      "title": "Protomota, not Protomota Lab: the three &nbsp; spots (hero, experience, selected work)",
+      "count": 1,
+      "sha": "a41b425",
+      "url": "https://github.com/protomota/braddunlap-info/commit/a41b42595f0b591a1ccee4bc55a930997be61cc6"
     }
   ]
 }
