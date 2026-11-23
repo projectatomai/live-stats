@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-23T08:22:45.138Z",
+  "generated": "2026-11-23T09:55:16.332Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "28024472638",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-23T08:35:18Z",
+      "kind": "ship",
+      "title": "[models] replace legacy Fable API selection with 5.2",
+      "count": 1,
+      "sha": "c739293",
+      "url": "https://github.com/protomota/inkspring/commit/c739293bf55b79cb712d8321407bb740eb0259cf"
+    },
     {
       "id": "27995623896",
       "repo": "opentalon",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "1ebfe36",
       "url": "https://github.com/protomota/opentalon/commit/1ebfe365b973c6efa6d979f251fc74191e4ff0f2"
-    },
-    {
-      "id": "27767948797",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-20T23:42:39Z",
-      "kind": "ship",
-      "title": "[publishing] keep live posts in Published and embed newsletter covers",
-      "count": 1,
-      "sha": "50e5fc4",
-      "url": "https://github.com/protomota/inkspring/commit/50e5fc424eafb96732f833d1d4a4cec775b972d7"
     }
   ]
 }
