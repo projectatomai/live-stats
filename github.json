@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T20:26:07.984Z",
+  "generated": "2026-11-23T20:40:25.510Z",
   "user": "protomota",
   "items": [
     {
@@ -133,6 +133,18 @@
       "count": 1,
       "sha": "cca1ad4",
       "url": "https://github.com/protomota/braddunlap-info/commit/cca1ad462a400357db046e6ad70617e6a00ca874"
+    },
+    {
+      "id": "28066201719",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-22T13:59:27Z",
+      "kind": "ship",
+      "title": "Selected work: multi-device pictures for OpenTalon, Inkspring, Voxley, Textley, Glimmer",
+      "count": 1,
+      "sha": "a1651e4",
+      "url": "https://github.com/protomota/braddunlap-info/commit/a1651e41b3bab60cadfc6653651d415fc504f35c"
     },
     {
       "id": "28065087024",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "106bdfc",
       "url": "https://github.com/protomota/mcp/commit/106bdfcc40a6aab373823c70d41ececce02faabd"
-    },
-    {
-      "id": "28029793308",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T02:53:31Z",
-      "kind": "ship",
-      "title": "[tiktok] surface developer app and Direct Post errors",
-      "count": 1,
-      "sha": "60d35cc",
-      "url": "https://github.com/protomota/inkspring/commit/60d35cc8549936fcd656f59038f37e32239abb5f"
     }
   ]
 }
