@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T02:21:07.310Z",
+  "generated": "2026-11-24T05:40:13.146Z",
   "user": "protomota",
   "items": [
     {
@@ -231,18 +231,6 @@
       "url": "https://github.com/protomota/inkspring/commit/bee3713015fa570fdd7274cbea01817fe9f39685"
     },
     {
-      "id": "27908499518",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T17:12:13Z",
-      "kind": "ship",
-      "title": "[drafts] close the Claude picker and open the generated post",
-      "count": 1,
-      "sha": "024e39d",
-      "url": "https://github.com/protomota/inkspring/commit/024e39d0681261e0a44b05b469e8741b4d259f06"
-    },
-    {
       "id": "28058501895",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -361,6 +349,18 @@
       "count": 1,
       "sha": "de05ddd",
       "url": "https://github.com/protomota/inkspring/commit/de05ddddf53ab95d4a6537f27a382cd1b4692fc0"
+    },
+    {
+      "id": "27930377300",
+      "repo": "mcp",
+      "repoUrl": "https://github.com/protomota/mcp",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-21T09:57:57Z",
+      "kind": "ship",
+      "title": "[inkspring] connect Claude plugin to native idea tools",
+      "count": 1,
+      "sha": "106bdfc",
+      "url": "https://github.com/protomota/mcp/commit/106bdfcc40a6aab373823c70d41ececce02faabd"
     }
   ]
 }
