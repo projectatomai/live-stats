@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T21:40:11.701Z",
+  "generated": "2026-11-24T21:55:14.710Z",
   "user": "protomota",
   "items": [
     {
@@ -349,16 +349,16 @@
       "url": "https://github.com/protomota/opentalon/commit/6e0b959cb07534be48fbae04b358bf5436ac2796"
     },
     {
-      "id": "27951414535",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-21T14:45:09Z",
+      "id": "28068652605",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T12:42:49Z",
       "kind": "ship",
-      "title": "Career reel plays from YouTube (KPMcBjAJnjA)",
-      "count": 2,
-      "sha": "7f95347",
-      "url": "https://github.com/protomota/braddunlap-info/commit/7f9534795bca7def36dda3082574b81d49e3b0db"
+      "title": "Fit the proofreading review to compact screens",
+      "count": 1,
+      "sha": "cd11ebf",
+      "url": "https://github.com/protomota/inkspring/commit/cd11ebff261f2cf615822e8e10b9f7948af68410"
     }
   ]
 }
