@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T05:40:13.146Z",
+  "generated": "2026-11-24T05:55:10.953Z",
   "user": "protomota",
   "items": [
     {
@@ -219,18 +219,6 @@
       "url": "https://github.com/protomota/mcp/commit/c1730a6f6553abe56f0fefadc0acf8442df62085"
     },
     {
-      "id": "27909114657",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T17:19:08Z",
-      "kind": "ship",
-      "title": "[appearance] use the active theme for New Idea",
-      "count": 1,
-      "sha": "bee3713",
-      "url": "https://github.com/protomota/inkspring/commit/bee3713015fa570fdd7274cbea01817fe9f39685"
-    },
-    {
       "id": "28058501895",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -361,6 +349,18 @@
       "count": 1,
       "sha": "106bdfc",
       "url": "https://github.com/protomota/mcp/commit/106bdfcc40a6aab373823c70d41ececce02faabd"
+    },
+    {
+      "id": "28029793308",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-21T02:53:31Z",
+      "kind": "ship",
+      "title": "[tiktok] surface developer app and Direct Post errors",
+      "count": 1,
+      "sha": "60d35cc",
+      "url": "https://github.com/protomota/inkspring/commit/60d35cc8549936fcd656f59038f37e32239abb5f"
     }
   ]
 }
