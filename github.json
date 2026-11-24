@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-24T08:31:21.846Z",
+  "generated": "2026-11-24T08:40:50.180Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "28116538512",
+      "repo": "pulsecanvas",
+      "repoUrl": "https://github.com/protomota/pulsecanvas",
+      "site": "pulsecanvas.ai",
+      "at": "2026-11-23T22:00:18Z",
+      "kind": "ship",
+      "title": "[pulsecanvas] fly forward through Backlit Rift",
+      "count": 1,
+      "sha": "fce5ca9",
+      "url": "https://github.com/protomota/pulsecanvas/commit/fce5ca9f460a59d74f568a9879cec75208ee19bd"
+    },
     {
       "id": "28109293184",
       "repo": "braddunlap-info",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "5461114",
       "url": "https://github.com/protomota/mcp/commit/5461114711d91e30b8555d3662520994699d1b70"
-    },
-    {
-      "id": "27946487289",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T12:32:49Z",
-      "kind": "ship",
-      "title": "Validate and confirm standalone Quick X posts",
-      "count": 1,
-      "sha": "de05ddd",
-      "url": "https://github.com/protomota/inkspring/commit/de05ddddf53ab95d4a6537f27a382cd1b4692fc0"
     }
   ]
 }
