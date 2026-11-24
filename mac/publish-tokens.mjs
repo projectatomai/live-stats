@@ -33,7 +33,7 @@ const CODEX_HOME = process.env.CODEX_HOME || join(HOME, '.codex');
 const CODEX_DIRS = [
   join(CODEX_HOME, 'sessions'),
   join(CODEX_HOME, 'archived_sessions'),
-  ...(process.env.CODEX_EXTRA_DIRS || '/Volumes/Expand/Codex/app-data/sessions').split(',').filter(Boolean),
+  ...(process.env.CODEX_EXTRA_DIRS || '/Volumes/Expand/Backups/codex-storage-2026-10-30/app-data/sessions').split(',').filter(Boolean),
 ];
 
 const pad = (n) => String(n).padStart(2, '0');
