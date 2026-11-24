@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T15:15:51.582Z",
+  "generated": "2026-11-24T16:17:47.836Z",
   "user": "protomota",
   "items": [
     {
@@ -109,6 +109,18 @@
       "count": 1,
       "sha": "549609c",
       "url": "https://github.com/protomota/inkspring/commit/549609cc3657391a7a4bb89f280200c55a72d54b"
+    },
+    {
+      "id": "28146553615",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-23T06:55:21Z",
+      "kind": "ship",
+      "title": "[companion] show synced images on mobile posts",
+      "count": 1,
+      "sha": "89668ca",
+      "url": "https://github.com/protomota/inkspring/commit/89668caddb9a1b51d6bca405842b2a96696c7cc2"
     },
     {
       "id": "28134511629",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "2f2d48e",
       "url": "https://github.com/protomota/inkspring/commit/2f2d48e860d18eaa431f7c1bdb541aa50a44a52b"
-    },
-    {
-      "id": "28068091781",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-21T12:36:44Z",
-      "kind": "ship",
-      "title": "Add Share buttons to the hero and each Protomota card",
-      "count": 1,
-      "sha": "b66b3db",
-      "url": "https://github.com/protomota/braddunlap-info/commit/b66b3dbe2ae864b76aa6ac8589416adc2892a8cc"
     }
   ]
 }
