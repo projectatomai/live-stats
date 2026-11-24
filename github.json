@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T08:40:50.180Z",
+  "generated": "2026-11-24T11:14:58.453Z",
   "user": "protomota",
   "items": [
     {
@@ -37,6 +37,18 @@
       "count": 1,
       "sha": "0fe0453",
       "url": "https://github.com/protomota/opentalon/commit/0fe04539504a441704e3ee56841adf3387f25b81"
+    },
+    {
+      "id": "28126278946",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-23T12:31:32Z",
+      "kind": "ship",
+      "title": "[glimmer] Use the selected daily reflection for dashboard checkoffs",
+      "count": 1,
+      "sha": "98e0e0a",
+      "url": "https://github.com/protomota/skills/commit/98e0e0af108c7bc3a1cd0f49eab2da6e15f450d4"
     },
     {
       "id": "28037518878",
@@ -349,18 +361,6 @@
       "count": 2,
       "sha": "64b740f",
       "url": "https://github.com/protomota/inkspring/commit/64b740fe6ba0902c242eca2b2bcdb657b6481316"
-    },
-    {
-      "id": "28065213347",
-      "repo": "mcp",
-      "repoUrl": "https://github.com/protomota/mcp",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-21T12:34:04Z",
-      "kind": "ship",
-      "title": "[inkspring] keep post ideas generic in the MCP plugin",
-      "count": 1,
-      "sha": "5461114",
-      "url": "https://github.com/protomota/mcp/commit/5461114711d91e30b8555d3662520994699d1b70"
     }
   ]
 }
