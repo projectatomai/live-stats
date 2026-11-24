@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-23T23:15:06.304Z",
+  "generated": "2026-11-24T02:21:07.310Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "28090110257",
+      "repo": "opentalon",
+      "repoUrl": "https://github.com/protomota/opentalon",
+      "site": "opentalon.ai",
+      "at": "2026-11-23T16:41:48Z",
+      "kind": "ship",
+      "title": "[opentalon] render the lifted card during a Mac board drag",
+      "count": 1,
+      "sha": "0fe0453",
+      "url": "https://github.com/protomota/opentalon/commit/0fe04539504a441704e3ee56841adf3387f25b81"
+    },
     {
       "id": "28037518878",
       "repo": "mcp",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "de05ddd",
       "url": "https://github.com/protomota/inkspring/commit/de05ddddf53ab95d4a6537f27a382cd1b4692fc0"
-    },
-    {
-      "id": "27930377300",
-      "repo": "mcp",
-      "repoUrl": "https://github.com/protomota/mcp",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-21T09:57:57Z",
-      "kind": "ship",
-      "title": "[inkspring] connect Claude plugin to native idea tools",
-      "count": 1,
-      "sha": "106bdfc",
-      "url": "https://github.com/protomota/mcp/commit/106bdfcc40a6aab373823c70d41ececce02faabd"
     }
   ]
 }
