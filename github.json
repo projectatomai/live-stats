@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T11:14:58.453Z",
+  "generated": "2026-11-24T13:15:38.929Z",
   "user": "protomota",
   "items": [
     {
@@ -37,6 +37,18 @@
       "count": 1,
       "sha": "0fe0453",
       "url": "https://github.com/protomota/opentalon/commit/0fe04539504a441704e3ee56841adf3387f25b81"
+    },
+    {
+      "id": "28133894597",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-23T13:40:36Z",
+      "kind": "ship",
+      "title": "Release Agent Council and credit upstream skills in the catalog",
+      "count": 1,
+      "sha": "7004dd8",
+      "url": "https://github.com/protomota/skills/commit/7004dd80eba50e828f5864d4c3077b2c61c2207a"
     },
     {
       "id": "28126278946",
@@ -97,6 +109,18 @@
       "count": 1,
       "sha": "549609c",
       "url": "https://github.com/protomota/inkspring/commit/549609cc3657391a7a4bb89f280200c55a72d54b"
+    },
+    {
+      "id": "28134511629",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-23T05:36:15Z",
+      "kind": "ship",
+      "title": "[companion] show saved and event times on mobile cards",
+      "count": 1,
+      "sha": "258b1ef",
+      "url": "https://github.com/protomota/inkspring/commit/258b1efa1ad4ebd8c968e4f18fd8e8f2bfeaace0"
     },
     {
       "id": "27995623896",
@@ -169,18 +193,6 @@
       "count": 1,
       "sha": "b575055",
       "url": "https://github.com/protomota/pulsecanvas/commit/b575055afcf417f156c9fecfa93972283ec1e7c0"
-    },
-    {
-      "id": "27942867817",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-22T15:16:35Z",
-      "kind": "ship",
-      "title": "Point PulseCanvas links at pulsecanvas.ai",
-      "count": 1,
-      "sha": "65d4642",
-      "url": "https://github.com/protomota/braddunlap-info/commit/65d464200c96dd4a4f8dc215615abf70557ff1c0"
     },
     {
       "id": "28073008843",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "b66b3db",
       "url": "https://github.com/protomota/braddunlap-info/commit/b66b3dbe2ae864b76aa6ac8589416adc2892a8cc"
-    },
-    {
-      "id": "28065220676",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T12:34:12Z",
-      "kind": "ship",
-      "title": "[mac] prepare Inkspring 1.0.52",
-      "count": 2,
-      "sha": "64b740f",
-      "url": "https://github.com/protomota/inkspring/commit/64b740fe6ba0902c242eca2b2bcdb657b6481316"
     }
   ]
 }
