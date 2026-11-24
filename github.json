@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T13:15:38.929Z",
+  "generated": "2026-11-24T14:40:49.832Z",
   "user": "protomota",
   "items": [
     {
@@ -121,6 +121,18 @@
       "count": 1,
       "sha": "258b1ef",
       "url": "https://github.com/protomota/inkspring/commit/258b1efa1ad4ebd8c968e4f18fd8e8f2bfeaace0"
+    },
+    {
+      "id": "28139715969",
+      "repo": "opentalon",
+      "repoUrl": "https://github.com/protomota/opentalon",
+      "site": "opentalon.ai",
+      "at": "2026-11-23T05:35:43Z",
+      "kind": "ship",
+      "title": "[opentalon] show last-updated dates on mobile cards",
+      "count": 1,
+      "sha": "f50cb75",
+      "url": "https://github.com/protomota/opentalon/commit/f50cb7517616e33d7eadbd2cbf6d699ed4e46dc7"
     },
     {
       "id": "27995623896",
@@ -349,18 +361,6 @@
       "count": 1,
       "sha": "2f2d48e",
       "url": "https://github.com/protomota/inkspring/commit/2f2d48e860d18eaa431f7c1bdb541aa50a44a52b"
-    },
-    {
-      "id": "28068091781",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-21T12:36:44Z",
-      "kind": "ship",
-      "title": "Add Share buttons to the hero and each Protomota card",
-      "count": 1,
-      "sha": "b66b3db",
-      "url": "https://github.com/protomota/braddunlap-info/commit/b66b3dbe2ae864b76aa6ac8589416adc2892a8cc"
     }
   ]
 }
