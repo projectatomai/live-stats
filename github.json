@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T04:55:54.708Z",
+  "generated": "2026-11-25T05:27:59.000Z",
   "user": "protomota",
   "items": [
     {
@@ -58,6 +58,18 @@
       "count": 1,
       "sha": "f0f9c46",
       "url": "https://github.com/protomota/braddunlap-info/commit/f0f9c460ec2654f294e903c4ead4f6cdb40564cf"
+    },
+    {
+      "id": "28198706143",
+      "repo": "pulsecanvas",
+      "repoUrl": "https://github.com/protomota/pulsecanvas",
+      "site": "pulsecanvas.ai",
+      "at": "2026-11-23T22:45:52Z",
+      "kind": "ship",
+      "title": "[pulsecanvas] ship six atmospheric Metal visualizers",
+      "count": 1,
+      "sha": "164d060",
+      "url": "https://github.com/protomota/pulsecanvas/commit/164d06062e6ec66b57b1cb9a7ffa2d1d57d7d8d7"
     },
     {
       "id": "28196776587",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "3719d2f",
       "url": "https://github.com/protomota/mcp/commit/3719d2f5686c3f362c8208953df604d5d867910a"
-    },
-    {
-      "id": "28068245830",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-21T19:01:45Z",
-      "kind": "ship",
-      "title": "Resume: all seven apps, Glimmer in Selected work, robotics and motion off",
-      "count": 1,
-      "sha": "7fd6200",
-      "url": "https://github.com/protomota/braddunlap-info/commit/7fd62004faff1088b6dcb47a8ac7598a41af6a9a"
     }
   ]
 }
