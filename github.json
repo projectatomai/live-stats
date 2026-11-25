@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T10:55:04.539Z",
+  "generated": "2026-11-25T12:22:26.275Z",
   "user": "protomota",
   "items": [
     {
@@ -58,6 +58,18 @@
       "title": "Textley 1.1.3",
       "tag": "v1.1.3",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.3"
+    },
+    {
+      "id": "28224281197",
+      "repo": "mcp",
+      "repoUrl": "https://github.com/protomota/mcp",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-24T19:12:50Z",
+      "kind": "ship",
+      "title": "[glimmer] add to-do steps, estimates and toolkit_respond to the skill",
+      "count": 1,
+      "sha": "d0e6baa",
+      "url": "https://github.com/protomota/mcp/commit/d0e6baa20def40e809288e33b8cc52ea3a90a17a"
     },
     {
       "id": "28219318924",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "66bdc31",
       "url": "https://github.com/protomota/opentalon/commit/66bdc310fdf2d2a954e061abf4c65ce6da6eb78b"
-    },
-    {
-      "id": "28033452220",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-22T18:53:15Z",
-      "kind": "ship",
-      "title": "move idea URLs to follow-up replies",
-      "count": 1,
-      "sha": "ffbaf40",
-      "url": "https://github.com/protomota/inkspring/commit/ffbaf406862cd65d00c11bd35fc0eabbb73d423c"
     }
   ]
 }
