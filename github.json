@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T21:40:12.822Z",
+  "generated": "2026-11-25T21:55:47.200Z",
   "user": "protomota",
   "items": [
     {
@@ -24,6 +24,18 @@
       "count": 1,
       "sha": "3be5ff2",
       "url": "https://github.com/protomota/graphley-site/commit/3be5ff2d8018caa5558fe203def2275f11c20929"
+    },
+    {
+      "id": "28261500212",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-25T01:32:36Z",
+      "kind": "ship",
+      "title": "[braddunlap-info] Graphley in More from Protomota, Textley last, no gap above status links",
+      "count": 1,
+      "sha": "6208990",
+      "url": "https://github.com/protomota/braddunlap-info/commit/6208990f64367600c77b82bde98691ee941c3b42"
     },
     {
       "id": "28213049931",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "98e0e0a",
       "url": "https://github.com/protomota/skills/commit/98e0e0af108c7bc3a1cd0f49eab2da6e15f450d4"
-    },
-    {
-      "id": "28179959938",
-      "repo": "mcp",
-      "repoUrl": "https://github.com/protomota/mcp",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-23T12:20:22Z",
-      "kind": "ship",
-      "title": "[glimmer] Teach agents daily coaching reads and task writeback",
-      "count": 1,
-      "sha": "ba74c6c",
-      "url": "https://github.com/protomota/mcp/commit/ba74c6c7e678c90b656fdaa916c963343c4be4bb"
     }
   ]
 }
