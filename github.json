@@ -1,7 +1,18 @@
 {
-  "generated": "2026-11-25T22:55:04.111Z",
+  "generated": "2026-11-25T23:14:12.599Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "21320510741",
+      "repo": "textley-source",
+      "repoUrl": "https://github.com/protomota/textley-source",
+      "site": "textley.ai",
+      "at": "2026-11-25T23:11:14Z",
+      "kind": "release",
+      "title": "Textley 1.1.6",
+      "tag": "v1.1.6",
+      "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.6"
+    },
     {
       "id": "21213939901",
       "repo": "textley-source",
@@ -36,6 +47,18 @@
       "count": 1,
       "sha": "8f18e1e",
       "url": "https://github.com/protomota/graphley-site/commit/8f18e1e65362e82a9e796468d7cb9849ae042b07"
+    },
+    {
+      "id": "28265826283",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T01:48:34Z",
+      "kind": "ship",
+      "title": "[graphley-site] Textley last in More from Protomota, one arrow per entry, Mac apps read Mac app available, no gap above status links",
+      "count": 1,
+      "sha": "56b4ff1",
+      "url": "https://github.com/protomota/graphley-site/commit/56b4ff17de55eba914af350e7c4152931c6fa631"
     },
     {
       "id": "28261500212",
@@ -334,30 +357,6 @@
       "count": 1,
       "sha": "136ea9d",
       "url": "https://github.com/protomota/jotley/commit/136ea9d233741d5e627387941731342af973f5e5"
-    },
-    {
-      "id": "28199996711",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-23T15:20:22Z",
-      "kind": "ship",
-      "title": "[mac] guide writers through local agent setup",
-      "count": 1,
-      "sha": "4e4c3d4",
-      "url": "https://github.com/protomota/inkspring/commit/4e4c3d45dfe84dc7cff492cdb538962fec5ee643"
-    },
-    {
-      "id": "28133894597",
-      "repo": "skills",
-      "repoUrl": "https://github.com/protomota/skills",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-23T13:40:36Z",
-      "kind": "ship",
-      "title": "Release Agent Council and credit upstream skills in the catalog",
-      "count": 1,
-      "sha": "7004dd8",
-      "url": "https://github.com/protomota/skills/commit/7004dd80eba50e828f5864d4c3077b2c61c2207a"
     }
   ]
 }
