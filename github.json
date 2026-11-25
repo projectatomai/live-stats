@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T22:14:44.799Z",
+  "generated": "2026-11-25T22:25:54.975Z",
   "user": "protomota",
   "items": [
     {
@@ -24,6 +24,18 @@
       "count": 1,
       "sha": "3be5ff2",
       "url": "https://github.com/protomota/graphley-site/commit/3be5ff2d8018caa5558fe203def2275f11c20929"
+    },
+    {
+      "id": "28262917288",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T01:53:36Z",
+      "kind": "ship",
+      "title": "[site] stop stretching the newsletter card",
+      "count": 1,
+      "sha": "8f18e1e",
+      "url": "https://github.com/protomota/graphley-site/commit/8f18e1e65362e82a9e796468d7cb9849ae042b07"
     },
     {
       "id": "28261500212",
@@ -118,6 +130,18 @@
       "title": "Textley 1.1.3",
       "tag": "v1.1.3",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.3"
+    },
+    {
+      "id": "28263465694",
+      "repo": "jotley",
+      "repoUrl": "https://github.com/protomota/jotley",
+      "site": "jotley.ai",
+      "at": "2026-11-24T19:33:51Z",
+      "kind": "ship",
+      "title": "[jotley] install the Jotley agent skill from MCP settings",
+      "count": 1,
+      "sha": "14cb296",
+      "url": "https://github.com/protomota/jotley/commit/14cb296ab2cac04b0bd89757c1ad8065e4f9453a"
     },
     {
       "id": "28224281197",
@@ -334,30 +358,6 @@
       "count": 1,
       "sha": "7004dd8",
       "url": "https://github.com/protomota/skills/commit/7004dd80eba50e828f5864d4c3077b2c61c2207a"
-    },
-    {
-      "id": "28126278946",
-      "repo": "skills",
-      "repoUrl": "https://github.com/protomota/skills",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-23T12:31:32Z",
-      "kind": "ship",
-      "title": "[glimmer] Use the selected daily reflection for dashboard checkoffs",
-      "count": 1,
-      "sha": "98e0e0a",
-      "url": "https://github.com/protomota/skills/commit/98e0e0af108c7bc3a1cd0f49eab2da6e15f450d4"
-    },
-    {
-      "id": "28179959938",
-      "repo": "mcp",
-      "repoUrl": "https://github.com/protomota/mcp",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-23T12:20:22Z",
-      "kind": "ship",
-      "title": "[glimmer] Teach agents daily coaching reads and task writeback",
-      "count": 1,
-      "sha": "ba74c6c",
-      "url": "https://github.com/protomota/mcp/commit/ba74c6c7e678c90b656fdaa916c963343c4be4bb"
     }
   ]
 }
