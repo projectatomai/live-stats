@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T23:14:12.599Z",
+  "generated": "2026-11-25T23:40:37.301Z",
   "user": "protomota",
   "items": [
     {
@@ -35,6 +35,18 @@
       "count": 1,
       "sha": "3be5ff2",
       "url": "https://github.com/protomota/graphley-site/commit/3be5ff2d8018caa5558fe203def2275f11c20929"
+    },
+    {
+      "id": "28267696925",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-25T02:12:32Z",
+      "kind": "ship",
+      "title": "[site] shorter Graphley card copy to match Textley",
+      "count": 1,
+      "sha": "4761aa5",
+      "url": "https://github.com/protomota/braddunlap-info/commit/4761aa50fa5a84cb7673cb2bbf88aa3c918dfa17"
     },
     {
       "id": "28262917288",
@@ -345,18 +357,6 @@
       "count": 1,
       "sha": "8d7a20e",
       "url": "https://github.com/protomota/pulsecanvas/commit/8d7a20e336cdd4680d324729aad76b78c47ba87f"
-    },
-    {
-      "id": "28240232292",
-      "repo": "jotley",
-      "repoUrl": "https://github.com/protomota/jotley",
-      "site": "jotley.ai",
-      "at": "2026-11-23T21:04:55Z",
-      "kind": "ship",
-      "title": "[jotley] adopt the angular quill and flat onboarding art",
-      "count": 1,
-      "sha": "136ea9d",
-      "url": "https://github.com/protomota/jotley/commit/136ea9d233741d5e627387941731342af973f5e5"
     }
   ]
 }
