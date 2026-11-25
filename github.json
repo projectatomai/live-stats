@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T18:27:46.576Z",
+  "generated": "2026-11-25T19:12:28.829Z",
   "user": "protomota",
   "items": [
     {
@@ -192,6 +192,18 @@
       "url": "https://github.com/protomota/skills/commit/8b753e86ac005521a6ef3a73d19e66d24b098705"
     },
     {
+      "id": "28250600062",
+      "repo": "pulsecanvas",
+      "repoUrl": "https://github.com/protomota/pulsecanvas",
+      "site": "pulsecanvas.ai",
+      "at": "2026-11-23T22:48:27Z",
+      "kind": "ship",
+      "title": "[pulsecanvas] verify localized release source",
+      "count": 1,
+      "sha": "19800ad",
+      "url": "https://github.com/protomota/pulsecanvas/commit/19800ad9b91cd0ab3e154f9892f767787d63a821"
+    },
+    {
       "id": "28198706143",
       "repo": "pulsecanvas",
       "repoUrl": "https://github.com/protomota/pulsecanvas",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "258b1ef",
       "url": "https://github.com/protomota/inkspring/commit/258b1efa1ad4ebd8c968e4f18fd8e8f2bfeaace0"
-    },
-    {
-      "id": "28139715969",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-23T05:35:43Z",
-      "kind": "ship",
-      "title": "[opentalon] show last-updated dates on mobile cards",
-      "count": 1,
-      "sha": "f50cb75",
-      "url": "https://github.com/protomota/opentalon/commit/f50cb7517616e33d7eadbd2cbf6d699ed4e46dc7"
     }
   ]
 }
