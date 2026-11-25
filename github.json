@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T09:17:17.222Z",
+  "generated": "2026-11-25T09:28:39.714Z",
   "user": "protomota",
   "items": [
     {
@@ -348,16 +348,16 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/7b9c7997aef7ff8a2ec293be0fe949f5e05227fc"
     },
     {
-      "id": "28006711579",
+      "id": "28066201719",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
       "site": "www.braddunlap.info",
-      "at": "2026-11-22T14:13:24Z",
+      "at": "2026-11-22T13:59:27Z",
       "kind": "ship",
-      "title": "PulseCanvas picture: remove the drawn headset",
+      "title": "Selected work: multi-device pictures for OpenTalon, Inkspring, Voxley, Textley, Glimmer",
       "count": 1,
-      "sha": "cca1ad4",
-      "url": "https://github.com/protomota/braddunlap-info/commit/cca1ad462a400357db046e6ad70617e6a00ca874"
+      "sha": "a1651e4",
+      "url": "https://github.com/protomota/braddunlap-info/commit/a1651e41b3bab60cadfc6653651d415fc504f35c"
     }
   ]
 }
