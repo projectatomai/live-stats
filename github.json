@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T20:25:29.459Z",
+  "generated": "2026-11-25T21:40:12.822Z",
   "user": "protomota",
   "items": [
     {
@@ -73,6 +73,18 @@
       "url": "https://github.com/protomota/jotley/commit/50076b25620b9948e90760c6a779a9fb21d4f8e6"
     },
     {
+      "id": "28260475670",
+      "repo": "jotley",
+      "repoUrl": "https://github.com/protomota/jotley",
+      "site": "jotley.ai",
+      "at": "2026-11-24T20:50:33Z",
+      "kind": "ship",
+      "title": "[jotley] restore the striped microphone onboarding art",
+      "count": 1,
+      "sha": "31b871d",
+      "url": "https://github.com/protomota/jotley/commit/31b871d49a6a06f9a73ff9b91e38d3ad7d863e2a"
+    },
+    {
       "id": "28191490759",
       "repo": "skills",
       "repoUrl": "https://github.com/protomota/skills",
@@ -106,6 +118,18 @@
       "count": 1,
       "sha": "d0e6baa",
       "url": "https://github.com/protomota/mcp/commit/d0e6baa20def40e809288e33b8cc52ea3a90a17a"
+    },
+    {
+      "id": "28260398755",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-24T18:39:22Z",
+      "kind": "ship",
+      "title": "Footer: arrows sit on the title line, app icons load eagerly",
+      "count": 1,
+      "sha": "70af76b",
+      "url": "https://github.com/protomota/braddunlap-info/commit/70af76b78fff7947dce7824bdd1efaea393c6092"
     },
     {
       "id": "28219318924",
@@ -288,18 +312,6 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/2dec26d676bbeb694c1cb2eadbb846f232b6b168"
     },
     {
-      "id": "28090110257",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-23T16:41:48Z",
-      "kind": "ship",
-      "title": "[opentalon] render the lifted card during a Mac board drag",
-      "count": 1,
-      "sha": "0fe0453",
-      "url": "https://github.com/protomota/opentalon/commit/0fe04539504a441704e3ee56841adf3387f25b81"
-    },
-    {
       "id": "28199996711",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "ba74c6c",
       "url": "https://github.com/protomota/mcp/commit/ba74c6c7e678c90b656fdaa916c963343c4be4bb"
-    },
-    {
-      "id": "28146553615",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-23T06:55:21Z",
-      "kind": "ship",
-      "title": "[companion] show synced images on mobile posts",
-      "count": 1,
-      "sha": "89668ca",
-      "url": "https://github.com/protomota/inkspring/commit/89668caddb9a1b51d6bca405842b2a96696c7cc2"
     }
   ]
 }
