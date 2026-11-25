@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T13:17:07.446Z",
+  "generated": "2026-11-25T14:55:59.719Z",
   "user": "protomota",
   "items": [
     {
@@ -336,18 +336,6 @@
       "url": "https://github.com/protomota/opentalon/commit/66bdc310fdf2d2a954e061abf4c65ce6da6eb78b"
     },
     {
-      "id": "28033452220",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-22T18:53:15Z",
-      "kind": "ship",
-      "title": "move idea URLs to follow-up replies",
-      "count": 1,
-      "sha": "ffbaf40",
-      "url": "https://github.com/protomota/inkspring/commit/ffbaf406862cd65d00c11bd35fc0eabbb73d423c"
-    },
-    {
       "id": "28073008843",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -358,6 +346,18 @@
       "count": 1,
       "sha": "7b9c799",
       "url": "https://github.com/protomota/braddunlap-info/commit/7b9c7997aef7ff8a2ec293be0fe949f5e05227fc"
+    },
+    {
+      "id": "28066201719",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-22T13:59:27Z",
+      "kind": "ship",
+      "title": "Selected work: multi-device pictures for OpenTalon, Inkspring, Voxley, Textley, Glimmer",
+      "count": 1,
+      "sha": "a1651e4",
+      "url": "https://github.com/protomota/braddunlap-info/commit/a1651e41b3bab60cadfc6653651d415fc504f35c"
     }
   ]
 }
