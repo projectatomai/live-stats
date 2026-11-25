@@ -1,7 +1,18 @@
 {
-  "generated": "2026-11-25T00:54:18.779Z",
+  "generated": "2026-11-25T03:41:06.323Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "21213939901",
+      "repo": "textley-source",
+      "repoUrl": "https://github.com/protomota/textley-source",
+      "site": "textley.ai",
+      "at": "2026-11-25T03:33:16Z",
+      "kind": "release",
+      "title": "Textley 1.1.5",
+      "tag": "v1.1.5",
+      "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.5"
+    },
     {
       "id": "21185168356",
       "repo": "textley-source",
@@ -12,6 +23,18 @@
       "title": "Textley 1.1.4",
       "tag": "v1.1.4",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.4"
+    },
+    {
+      "id": "28191490759",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-24T19:47:05Z",
+      "kind": "ship",
+      "title": "[skills] fix Concise Reports README row",
+      "count": 1,
+      "sha": "62c9b0d",
+      "url": "https://github.com/protomota/skills/commit/62c9b0dbfafce5c6f60d1cb6b90bc455057d014b"
     },
     {
       "id": "21173553181",
@@ -335,30 +358,6 @@
       "count": 1,
       "sha": "c1730a6",
       "url": "https://github.com/protomota/mcp/commit/c1730a6f6553abe56f0fefadc0acf8442df62085"
-    },
-    {
-      "id": "28058501895",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-21T17:08:38Z",
-      "kind": "ship",
-      "title": "Substack and Discord marks: plain glyph in the button's text colour, no brand-coloured tile or glow",
-      "count": 1,
-      "sha": "2470c83",
-      "url": "https://github.com/protomota/braddunlap-info/commit/2470c83987a138d480c0c48802ec60082dbad723"
-    },
-    {
-      "id": "28053278849",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T16:09:29Z",
-      "kind": "ship",
-      "title": "[ideas] preserve author context and apply selected suggestions",
-      "count": 1,
-      "sha": "9e194df",
-      "url": "https://github.com/protomota/inkspring/commit/9e194dfb7c61f3f9c64de4baeaaf388362a74ed4"
     }
   ]
 }
