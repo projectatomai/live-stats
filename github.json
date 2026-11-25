@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T15:55:27.370Z",
+  "generated": "2026-11-25T16:20:07.191Z",
   "user": "protomota",
   "items": [
     {
@@ -204,6 +204,18 @@
       "url": "https://github.com/protomota/pulsecanvas/commit/fce5ca9f460a59d74f568a9879cec75208ee19bd"
     },
     {
+      "id": "28240232292",
+      "repo": "jotley",
+      "repoUrl": "https://github.com/protomota/jotley",
+      "site": "jotley.ai",
+      "at": "2026-11-23T21:04:55Z",
+      "kind": "ship",
+      "title": "[jotley] adopt the angular quill and flat onboarding art",
+      "count": 1,
+      "sha": "136ea9d",
+      "url": "https://github.com/protomota/jotley/commit/136ea9d233741d5e627387941731342af973f5e5"
+    },
+    {
       "id": "28109293184",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "7b9c799",
       "url": "https://github.com/protomota/braddunlap-info/commit/7b9c7997aef7ff8a2ec293be0fe949f5e05227fc"
-    },
-    {
-      "id": "28066201719",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-22T13:59:27Z",
-      "kind": "ship",
-      "title": "Selected work: multi-device pictures for OpenTalon, Inkspring, Voxley, Textley, Glimmer",
-      "count": 1,
-      "sha": "a1651e4",
-      "url": "https://github.com/protomota/braddunlap-info/commit/a1651e41b3bab60cadfc6653651d415fc504f35c"
     }
   ]
 }
