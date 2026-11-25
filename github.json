@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T05:27:59.000Z",
+  "generated": "2026-11-25T05:54:59.170Z",
   "user": "protomota",
   "items": [
     {
@@ -118,6 +118,18 @@
       "count": 1,
       "sha": "0fe0453",
       "url": "https://github.com/protomota/opentalon/commit/0fe04539504a441704e3ee56841adf3387f25b81"
+    },
+    {
+      "id": "28199996711",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-23T15:20:22Z",
+      "kind": "ship",
+      "title": "[mac] guide writers through local agent setup",
+      "count": 1,
+      "sha": "4e4c3d4",
+      "url": "https://github.com/protomota/inkspring/commit/4e4c3d45dfe84dc7cff492cdb538962fec5ee643"
     },
     {
       "id": "28133894597",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "b8b42ed",
       "url": "https://github.com/protomota/braddunlap-info/commit/b8b42ed57a3a679f4f87a6f3c5b7f25bbe8fffd3"
-    },
-    {
-      "id": "27986235095",
-      "repo": "mcp",
-      "repoUrl": "https://github.com/protomota/mcp",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-21T19:59:45Z",
-      "kind": "ship",
-      "title": "[mcp] write Textley in normal case",
-      "count": 1,
-      "sha": "3719d2f",
-      "url": "https://github.com/protomota/mcp/commit/3719d2f5686c3f362c8208953df604d5d867910a"
     }
   ]
 }
