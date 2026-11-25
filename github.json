@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T07:17:18.859Z",
+  "generated": "2026-11-25T08:20:34.046Z",
   "user": "protomota",
   "items": [
     {
@@ -264,18 +264,6 @@
       "url": "https://github.com/protomota/opentalon/commit/f50cb7517616e33d7eadbd2cbf6d699ed4e46dc7"
     },
     {
-      "id": "27995623896",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-23T01:57:07Z",
-      "kind": "ship",
-      "title": "[opentalon] refresh synced models and add project agent folders",
-      "count": 1,
-      "sha": "41df949",
-      "url": "https://github.com/protomota/opentalon/commit/41df949ea20cac2b1e88a9a5b40a1f8a5f81aabf"
-    },
-    {
       "id": "28115863069",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -358,6 +346,18 @@
       "count": 1,
       "sha": "a1651e4",
       "url": "https://github.com/protomota/braddunlap-info/commit/a1651e41b3bab60cadfc6653651d415fc504f35c"
+    },
+    {
+      "id": "28065087024",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-22T13:46:03Z",
+      "kind": "ship",
+      "title": "Selected work: whole portfolio once (apps, experiments, websites, videos)",
+      "count": 1,
+      "sha": "b8b42ed",
+      "url": "https://github.com/protomota/braddunlap-info/commit/b8b42ed57a3a679f4f87a6f3c5b7f25bbe8fffd3"
     }
   ]
 }
