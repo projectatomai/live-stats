@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T14:55:59.719Z",
+  "generated": "2026-11-25T15:15:58.241Z",
   "user": "protomota",
   "items": [
     {
@@ -252,18 +252,6 @@
       "url": "https://github.com/protomota/mcp/commit/214b6d01245b968bef5c0cf777adf76390786af7"
     },
     {
-      "id": "28035223209",
-      "repo": "skills",
-      "repoUrl": "https://github.com/protomota/skills",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-23T12:20:25Z",
-      "kind": "ship",
-      "title": "[glimmer] Publish daily coaching and dashboard skill",
-      "count": 1,
-      "sha": "803086a",
-      "url": "https://github.com/protomota/skills/commit/803086aa3b1d67600b2cb05f538f27b61b5c7da5"
-    },
-    {
       "id": "28179959938",
       "repo": "mcp",
       "repoUrl": "https://github.com/protomota/mcp",
@@ -358,6 +346,18 @@
       "count": 1,
       "sha": "a1651e4",
       "url": "https://github.com/protomota/braddunlap-info/commit/a1651e41b3bab60cadfc6653651d415fc504f35c"
+    },
+    {
+      "id": "28065087024",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-22T13:46:03Z",
+      "kind": "ship",
+      "title": "Selected work: whole portfolio once (apps, experiments, websites, videos)",
+      "count": 1,
+      "sha": "b8b42ed",
+      "url": "https://github.com/protomota/braddunlap-info/commit/b8b42ed57a3a679f4f87a6f3c5b7f25bbe8fffd3"
     }
   ]
 }
