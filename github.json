@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T21:55:14.710Z",
+  "generated": "2026-11-25T00:36:34.968Z",
   "user": "protomota",
   "items": [
     {
@@ -23,6 +23,18 @@
       "title": "Textley 1.1.3",
       "tag": "v1.1.3",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.3"
+    },
+    {
+      "id": "28179084992",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-24T18:10:28Z",
+      "kind": "ship",
+      "title": "Apps in priority order: OpenTalon, Inkspring, Jotley, Glimmer, PulseCanvas, Voxley, Textley",
+      "count": 1,
+      "sha": "f0f9c46",
+      "url": "https://github.com/protomota/braddunlap-info/commit/f0f9c460ec2654f294e903c4ead4f6cdb40564cf"
     },
     {
       "id": "28116538512",
@@ -347,18 +359,6 @@
       "count": 1,
       "sha": "6e0b959",
       "url": "https://github.com/protomota/opentalon/commit/6e0b959cb07534be48fbae04b358bf5436ac2796"
-    },
-    {
-      "id": "28068652605",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-21T12:42:49Z",
-      "kind": "ship",
-      "title": "Fit the proofreading review to compact screens",
-      "count": 1,
-      "sha": "cd11ebf",
-      "url": "https://github.com/protomota/inkspring/commit/cd11ebff261f2cf615822e8e10b9f7948af68410"
     }
   ]
 }
