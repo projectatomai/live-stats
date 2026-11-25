@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T17:40:10.938Z",
+  "generated": "2026-11-25T18:27:46.576Z",
   "user": "protomota",
   "items": [
     {
@@ -216,6 +216,18 @@
       "url": "https://github.com/protomota/pulsecanvas/commit/85b7ef5a0f8b908c918bdc34aa9d2059b53be562"
     },
     {
+      "id": "28248062588",
+      "repo": "pulsecanvas",
+      "repoUrl": "https://github.com/protomota/pulsecanvas",
+      "site": "pulsecanvas.ai",
+      "at": "2026-11-23T22:22:59Z",
+      "kind": "ship",
+      "title": "[pulsecanvas] add five procedural Metal studies",
+      "count": 1,
+      "sha": "8d7a20e",
+      "url": "https://github.com/protomota/pulsecanvas/commit/8d7a20e336cdd4680d324729aad76b78c47ba87f"
+    },
+    {
       "id": "28116538512",
       "repo": "pulsecanvas",
       "repoUrl": "https://github.com/protomota/pulsecanvas",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "f50cb75",
       "url": "https://github.com/protomota/opentalon/commit/f50cb7517616e33d7eadbd2cbf6d699ed4e46dc7"
-    },
-    {
-      "id": "28115863069",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-23T00:19:26Z",
-      "kind": "ship",
-      "title": "[companion] require verified MCP for mobile agent requests",
-      "count": 1,
-      "sha": "503ebab",
-      "url": "https://github.com/protomota/inkspring/commit/503ebab754d1a7f4295156ad935991fc3cdc1c22"
     }
   ]
 }
