@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T00:36:34.968Z",
+  "generated": "2026-11-25T00:54:18.779Z",
   "user": "protomota",
   "items": [
     {
@@ -119,6 +119,18 @@
       "count": 1,
       "sha": "803086a",
       "url": "https://github.com/protomota/skills/commit/803086aa3b1d67600b2cb05f538f27b61b5c7da5"
+    },
+    {
+      "id": "28179959938",
+      "repo": "mcp",
+      "repoUrl": "https://github.com/protomota/mcp",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-23T12:20:22Z",
+      "kind": "ship",
+      "title": "[glimmer] Teach agents daily coaching reads and task writeback",
+      "count": 1,
+      "sha": "ba74c6c",
+      "url": "https://github.com/protomota/mcp/commit/ba74c6c7e678c90b656fdaa916c963343c4be4bb"
     },
     {
       "id": "28024472638",
@@ -347,18 +359,6 @@
       "count": 1,
       "sha": "9e194df",
       "url": "https://github.com/protomota/inkspring/commit/9e194dfb7c61f3f9c64de4baeaaf388362a74ed4"
-    },
-    {
-      "id": "28047408423",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-21T15:00:17Z",
-      "kind": "ship",
-      "title": "[opentalon] reuse the configured workspace for all agents",
-      "count": 1,
-      "sha": "6e0b959",
-      "url": "https://github.com/protomota/opentalon/commit/6e0b959cb07534be48fbae04b358bf5436ac2796"
     }
   ]
 }
