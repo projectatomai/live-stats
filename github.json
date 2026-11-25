@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T08:20:34.046Z",
+  "generated": "2026-11-25T09:17:17.222Z",
   "user": "protomota",
   "items": [
     {
@@ -12,6 +12,18 @@
       "title": "Textley 1.1.5",
       "tag": "v1.1.5",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.5"
+    },
+    {
+      "id": "28213049931",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-24T22:49:03Z",
+      "kind": "ship",
+      "title": "[graphley-site] new Stacked tide icon (mark.svg, icons, favicon, social card) (#1)",
+      "count": 1,
+      "sha": "05003a1",
+      "url": "https://github.com/protomota/graphley-site/commit/05003a15e65cce4fe96cb96b8fc82aa4d614c6d8"
     },
     {
       "id": "21185168356",
@@ -70,6 +82,18 @@
       "count": 1,
       "sha": "fa9c9aa",
       "url": "https://github.com/protomota/jotley/commit/fa9c9aa29a3b4f508188aef70f395921103fced0"
+    },
+    {
+      "id": "28212688053",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-24T13:48:20Z",
+      "kind": "ship",
+      "title": "[agent-council] use the strongest available seats at high effort",
+      "count": 1,
+      "sha": "8b753e8",
+      "url": "https://github.com/protomota/skills/commit/8b753e86ac005521a6ef3a73d19e66d24b098705"
     },
     {
       "id": "28198706143",
@@ -334,30 +358,6 @@
       "count": 1,
       "sha": "cca1ad4",
       "url": "https://github.com/protomota/braddunlap-info/commit/cca1ad462a400357db046e6ad70617e6a00ca874"
-    },
-    {
-      "id": "28066201719",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-22T13:59:27Z",
-      "kind": "ship",
-      "title": "Selected work: multi-device pictures for OpenTalon, Inkspring, Voxley, Textley, Glimmer",
-      "count": 1,
-      "sha": "a1651e4",
-      "url": "https://github.com/protomota/braddunlap-info/commit/a1651e41b3bab60cadfc6653651d415fc504f35c"
-    },
-    {
-      "id": "28065087024",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-22T13:46:03Z",
-      "kind": "ship",
-      "title": "Selected work: whole portfolio once (apps, experiments, websites, videos)",
-      "count": 1,
-      "sha": "b8b42ed",
-      "url": "https://github.com/protomota/braddunlap-info/commit/b8b42ed57a3a679f4f87a6f3c5b7f25bbe8fffd3"
     }
   ]
 }
