@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T12:22:26.275Z",
+  "generated": "2026-11-25T12:36:03.559Z",
   "user": "protomota",
   "items": [
     {
@@ -276,18 +276,6 @@
       "url": "https://github.com/protomota/mcp/commit/ba74c6c7e678c90b656fdaa916c963343c4be4bb"
     },
     {
-      "id": "28024472638",
-      "repo": "inkspring",
-      "repoUrl": "https://github.com/protomota/inkspring",
-      "site": "inkspring.ai",
-      "at": "2026-11-23T08:35:18Z",
-      "kind": "ship",
-      "title": "[models] replace legacy Fable API selection with 5.2",
-      "count": 1,
-      "sha": "c739293",
-      "url": "https://github.com/protomota/inkspring/commit/c739293bf55b79cb712d8321407bb740eb0259cf"
-    },
-    {
       "id": "28028314831",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -358,6 +346,18 @@
       "count": 1,
       "sha": "66bdc31",
       "url": "https://github.com/protomota/opentalon/commit/66bdc310fdf2d2a954e061abf4c65ce6da6eb78b"
+    },
+    {
+      "id": "28033452220",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-22T18:53:15Z",
+      "kind": "ship",
+      "title": "move idea URLs to follow-up replies",
+      "count": 1,
+      "sha": "ffbaf40",
+      "url": "https://github.com/protomota/inkspring/commit/ffbaf406862cd65d00c11bd35fc0eabbb73d423c"
     }
   ]
 }
