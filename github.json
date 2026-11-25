@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T22:25:54.975Z",
+  "generated": "2026-11-25T22:55:04.111Z",
   "user": "protomota",
   "items": [
     {
@@ -119,6 +119,18 @@
       "count": 1,
       "sha": "62c9b0d",
       "url": "https://github.com/protomota/skills/commit/62c9b0dbfafce5c6f60d1cb6b90bc455057d014b"
+    },
+    {
+      "id": "28264879989",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-24T19:45:41Z",
+      "kind": "ship",
+      "title": "[skills] add Concise Reports: say what you did and what you need, in the fewest words",
+      "count": 1,
+      "sha": "1e38b39",
+      "url": "https://github.com/protomota/skills/commit/1e38b3904ee3a21ac4bed54206e6a1ef50d4363c"
     },
     {
       "id": "21173553181",
@@ -310,18 +322,6 @@
       "count": 1,
       "sha": "8d7a20e",
       "url": "https://github.com/protomota/pulsecanvas/commit/8d7a20e336cdd4680d324729aad76b78c47ba87f"
-    },
-    {
-      "id": "28116538512",
-      "repo": "pulsecanvas",
-      "repoUrl": "https://github.com/protomota/pulsecanvas",
-      "site": "pulsecanvas.ai",
-      "at": "2026-11-23T22:00:18Z",
-      "kind": "ship",
-      "title": "[pulsecanvas] fly forward through Backlit Rift",
-      "count": 1,
-      "sha": "fce5ca9",
-      "url": "https://github.com/protomota/pulsecanvas/commit/fce5ca9f460a59d74f568a9879cec75208ee19bd"
     },
     {
       "id": "28240232292",
