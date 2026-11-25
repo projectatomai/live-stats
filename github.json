@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T17:25:09.087Z",
+  "generated": "2026-11-25T17:40:10.938Z",
   "user": "protomota",
   "items": [
     {
@@ -118,6 +118,18 @@
       "count": 1,
       "sha": "7044bbb",
       "url": "https://github.com/protomota/braddunlap-info/commit/7044bbb058c95b5575ba56d517b2daa64f1d0b83"
+    },
+    {
+      "id": "28245065576",
+      "repo": "opentalon",
+      "repoUrl": "https://github.com/protomota/opentalon",
+      "site": "opentalon.ai",
+      "at": "2026-11-24T18:16:38Z",
+      "kind": "ship",
+      "title": "[drive] point Expand paths at the reorganized drive",
+      "count": 1,
+      "sha": "0c64c40",
+      "url": "https://github.com/protomota/opentalon/commit/0c64c4003073ae2a0cb6c9630a1f4f09e39ea23b"
     },
     {
       "id": "28217071587",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "503ebab",
       "url": "https://github.com/protomota/inkspring/commit/503ebab754d1a7f4295156ad935991fc3cdc1c22"
-    },
-    {
-      "id": "28073008843",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-22T15:11:34Z",
-      "kind": "ship",
-      "title": "Closing callout: lead with Protomota, resume as take-it-with-you",
-      "count": 1,
-      "sha": "7b9c799",
-      "url": "https://github.com/protomota/braddunlap-info/commit/7b9c7997aef7ff8a2ec293be0fe949f5e05227fc"
     }
   ]
 }
