@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T21:55:47.200Z",
+  "generated": "2026-11-25T22:14:44.799Z",
   "user": "protomota",
   "items": [
     {
@@ -312,18 +312,6 @@
       "url": "https://github.com/protomota/jotley/commit/136ea9d233741d5e627387941731342af973f5e5"
     },
     {
-      "id": "28109293184",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-23T20:45:08Z",
-      "kind": "ship",
-      "title": "[brand] use the approved Jotley quill",
-      "count": 1,
-      "sha": "2dec26d",
-      "url": "https://github.com/protomota/braddunlap-info/commit/2dec26d676bbeb694c1cb2eadbb846f232b6b168"
-    },
-    {
       "id": "28199996711",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -358,6 +346,18 @@
       "count": 1,
       "sha": "98e0e0a",
       "url": "https://github.com/protomota/skills/commit/98e0e0af108c7bc3a1cd0f49eab2da6e15f450d4"
+    },
+    {
+      "id": "28179959938",
+      "repo": "mcp",
+      "repoUrl": "https://github.com/protomota/mcp",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-23T12:20:22Z",
+      "kind": "ship",
+      "title": "[glimmer] Teach agents daily coaching reads and task writeback",
+      "count": 1,
+      "sha": "ba74c6c",
+      "url": "https://github.com/protomota/mcp/commit/ba74c6c7e678c90b656fdaa916c963343c4be4bb"
     }
   ]
 }
