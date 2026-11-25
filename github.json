@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T16:20:07.191Z",
+  "generated": "2026-11-25T17:25:09.087Z",
   "user": "protomota",
   "items": [
     {
@@ -36,6 +36,18 @@
       "count": 1,
       "sha": "05003a1",
       "url": "https://github.com/protomota/graphley-site/commit/05003a15e65cce4fe96cb96b8fc82aa4d614c6d8"
+    },
+    {
+      "id": "28243676581",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-24T22:17:13Z",
+      "kind": "ship",
+      "title": "Close preview routing parity gaps",
+      "count": 1,
+      "sha": "ed589ce",
+      "url": "https://github.com/protomota/braddunlap-info/commit/ed589ce24603316075e7d5574d0bfc6131ecbcb4"
     },
     {
       "id": "21185168356",
@@ -334,18 +346,6 @@
       "count": 1,
       "sha": "503ebab",
       "url": "https://github.com/protomota/inkspring/commit/503ebab754d1a7f4295156ad935991fc3cdc1c22"
-    },
-    {
-      "id": "28060444441",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-22T23:54:25Z",
-      "kind": "ship",
-      "title": "[opentalon] show newest tasks first and unify sorting controls",
-      "count": 1,
-      "sha": "66bdc31",
-      "url": "https://github.com/protomota/opentalon/commit/66bdc310fdf2d2a954e061abf4c65ce6da6eb78b"
     },
     {
       "id": "28073008843",
