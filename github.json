@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T10:16:38.540Z",
+  "generated": "2026-11-25T10:55:04.539Z",
   "user": "protomota",
   "items": [
     {
@@ -58,6 +58,18 @@
       "title": "Textley 1.1.3",
       "tag": "v1.1.3",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.3"
+    },
+    {
+      "id": "28219318924",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-24T18:38:04Z",
+      "kind": "ship",
+      "title": "Glimmer copy: match the new direction in the footer, work section and resume (#2)",
+      "count": 1,
+      "sha": "7044bbb",
+      "url": "https://github.com/protomota/braddunlap-info/commit/7044bbb058c95b5575ba56d517b2daa64f1d0b83"
     },
     {
       "id": "28217071587",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "ffbaf40",
       "url": "https://github.com/protomota/inkspring/commit/ffbaf406862cd65d00c11bd35fc0eabbb73d423c"
-    },
-    {
-      "id": "28025916276",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-22T17:36:54Z",
-      "kind": "ship",
-      "title": "Inkspring: list every format it drafts",
-      "count": 1,
-      "sha": "bc83bed",
-      "url": "https://github.com/protomota/braddunlap-info/commit/bc83bed26b5583f3a6ab4d47a3fae8d9342c3be7"
     }
   ]
 }
