@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T09:28:39.714Z",
+  "generated": "2026-11-25T10:16:38.540Z",
   "user": "protomota",
   "items": [
     {
@@ -60,6 +60,18 @@
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.3"
     },
     {
+      "id": "28217071587",
+      "repo": "jotley",
+      "repoUrl": "https://github.com/protomota/jotley",
+      "site": "jotley.ai",
+      "at": "2026-11-24T18:16:18Z",
+      "kind": "ship",
+      "title": "[drive] point Expand paths at the reorganized drive",
+      "count": 1,
+      "sha": "a396466",
+      "url": "https://github.com/protomota/jotley/commit/a3964664e363424cfd5e6102a682dff47afd9244"
+    },
+    {
       "id": "28179084992",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -82,6 +94,18 @@
       "count": 1,
       "sha": "fa9c9aa",
       "url": "https://github.com/protomota/jotley/commit/fa9c9aa29a3b4f508188aef70f395921103fced0"
+    },
+    {
+      "id": "28217291862",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-24T14:20:45Z",
+      "kind": "ship",
+      "title": "[agent-council] include writing and revision review",
+      "count": 1,
+      "sha": "f36b5ea",
+      "url": "https://github.com/protomota/skills/commit/f36b5ea3bdb4606f7bd8350840ac43c3b082a6e8"
     },
     {
       "id": "28212688053",
@@ -334,30 +358,6 @@
       "count": 1,
       "sha": "bc83bed",
       "url": "https://github.com/protomota/braddunlap-info/commit/bc83bed26b5583f3a6ab4d47a3fae8d9342c3be7"
-    },
-    {
-      "id": "28073008843",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-22T15:11:34Z",
-      "kind": "ship",
-      "title": "Closing callout: lead with Protomota, resume as take-it-with-you",
-      "count": 1,
-      "sha": "7b9c799",
-      "url": "https://github.com/protomota/braddunlap-info/commit/7b9c7997aef7ff8a2ec293be0fe949f5e05227fc"
-    },
-    {
-      "id": "28066201719",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-22T13:59:27Z",
-      "kind": "ship",
-      "title": "Selected work: multi-device pictures for OpenTalon, Inkspring, Voxley, Textley, Glimmer",
-      "count": 1,
-      "sha": "a1651e4",
-      "url": "https://github.com/protomota/braddunlap-info/commit/a1651e41b3bab60cadfc6653651d415fc504f35c"
     }
   ]
 }
