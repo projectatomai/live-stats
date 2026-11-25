@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T03:41:06.323Z",
+  "generated": "2026-11-25T04:55:54.708Z",
   "user": "protomota",
   "items": [
     {
@@ -58,6 +58,18 @@
       "count": 1,
       "sha": "f0f9c46",
       "url": "https://github.com/protomota/braddunlap-info/commit/f0f9c460ec2654f294e903c4ead4f6cdb40564cf"
+    },
+    {
+      "id": "28196776587",
+      "repo": "pulsecanvas",
+      "repoUrl": "https://github.com/protomota/pulsecanvas",
+      "site": "pulsecanvas.ai",
+      "at": "2026-11-23T22:24:36Z",
+      "kind": "ship",
+      "title": "[pulsecanvas] refine Anvil Flyover cloud lighting",
+      "count": 1,
+      "sha": "85b7ef5",
+      "url": "https://github.com/protomota/pulsecanvas/commit/85b7ef5a0f8b908c918bdc34aa9d2059b53be562"
     },
     {
       "id": "28116538512",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "7fd6200",
       "url": "https://github.com/protomota/braddunlap-info/commit/7fd62004faff1088b6dcb47a8ac7598a41af6a9a"
-    },
-    {
-      "id": "27980919463",
-      "repo": "mcp",
-      "repoUrl": "https://github.com/protomota/mcp",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-21T18:49:52Z",
-      "kind": "ship",
-      "title": "[glimmer] add the Glimmer MCP plugin and skill",
-      "count": 1,
-      "sha": "c1730a6",
-      "url": "https://github.com/protomota/mcp/commit/c1730a6f6553abe56f0fefadc0acf8442df62085"
     }
   ]
 }
