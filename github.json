@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T22:55:14.278Z",
+  "generated": "2026-11-26T23:40:52.604Z",
   "user": "protomota",
   "items": [
     {
@@ -129,6 +129,18 @@
       "count": 1,
       "sha": "3889cd1",
       "url": "https://github.com/protomota/inkspring/commit/3889cd1912c4924a02f778d421263664aa11500d"
+    },
+    {
+      "id": "28364666327",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T13:45:31Z",
+      "kind": "ship",
+      "title": "[site] use the Lab flask icon as the community avatar",
+      "count": 1,
+      "sha": "cf5bc46",
+      "url": "https://github.com/protomota/graphley-site/commit/cf5bc46e42c31fa2a544ea395c6a1bc2db8e0b1a"
     },
     {
       "id": "28296756994",
@@ -344,18 +356,6 @@
       "count": 1,
       "sha": "48e9f0f",
       "url": "https://github.com/protomota/braddunlap-info/commit/48e9f0f2e9f1fcbd98f6b306532a82385a3346d4"
-    },
-    {
-      "id": "28283657621",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-25T00:33:26Z",
-      "kind": "ship",
-      "title": "Handle the inbound lead credential transition in the email worker",
-      "count": 1,
-      "sha": "dcfe6f3",
-      "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
     }
   ]
 }
