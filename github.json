@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T23:40:52.604Z",
+  "generated": "2026-11-26T23:54:59.145Z",
   "user": "protomota",
   "items": [
     {
@@ -322,18 +322,6 @@
       "url": "https://github.com/protomota/graphley-site/commit/426e735241a1802eb07de790e43439c2caaa93d5"
     },
     {
-      "id": "28265826283",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-25T01:48:34Z",
-      "kind": "ship",
-      "title": "[graphley-site] Textley last in More from Protomota, one arrow per entry, Mac apps read Mac app available, no gap above status links",
-      "count": 1,
-      "sha": "56b4ff1",
-      "url": "https://github.com/protomota/graphley-site/commit/56b4ff17de55eba914af350e7c4152931c6fa631"
-    },
-    {
       "id": "28289773554",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -356,6 +344,18 @@
       "count": 1,
       "sha": "48e9f0f",
       "url": "https://github.com/protomota/braddunlap-info/commit/48e9f0f2e9f1fcbd98f6b306532a82385a3346d4"
+    },
+    {
+      "id": "28283657621",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-25T00:33:26Z",
+      "kind": "ship",
+      "title": "Handle the inbound lead credential transition in the email worker",
+      "count": 1,
+      "sha": "dcfe6f3",
+      "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
     }
   ]
 }
