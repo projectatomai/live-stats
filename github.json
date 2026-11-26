@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T10:26:45.196Z",
+  "generated": "2026-11-26T10:40:47.178Z",
   "user": "protomota",
   "items": [
     {
@@ -143,6 +143,18 @@
       "title": "Textley 1.1.5",
       "tag": "v1.1.5",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.5"
+    },
+    {
+      "id": "28313031540",
+      "repo": "voxley",
+      "repoUrl": "https://github.com/protomota/voxley",
+      "site": "voxley.si",
+      "at": "2026-11-25T03:23:13Z",
+      "kind": "ship",
+      "title": "[voxley] follow Inkspring's weekly support reminder for 1.0.15",
+      "count": 1,
+      "sha": "5c276c9",
+      "url": "https://github.com/protomota/voxley/commit/5c276c93df0c0ccca23206582375b60ab7eb1713"
     },
     {
       "id": "28306744009",
@@ -347,18 +359,6 @@
       "count": 1,
       "sha": "2a57afa",
       "url": "https://github.com/protomota/braddunlap-info/commit/2a57afa6f77a72ffe2f4d873c0f1f8577aaf0ce3"
-    },
-    {
-      "id": "28243676581",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-24T22:17:13Z",
-      "kind": "ship",
-      "title": "Close preview routing parity gaps",
-      "count": 1,
-      "sha": "ed589ce",
-      "url": "https://github.com/protomota/braddunlap-info/commit/ed589ce24603316075e7d5574d0bfc6131ecbcb4"
     }
   ]
 }
