@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T06:46:51.157Z",
+  "generated": "2026-11-26T07:28:44.541Z",
   "user": "protomota",
   "items": [
     {
@@ -143,6 +143,18 @@
       "count": 1,
       "sha": "4761aa5",
       "url": "https://github.com/protomota/braddunlap-info/commit/4761aa50fa5a84cb7673cb2bbf88aa3c918dfa17"
+    },
+    {
+      "id": "28300638730",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T02:04:31Z",
+      "kind": "ship",
+      "title": "[site] drop coming soon from the hero badge and download page",
+      "count": 1,
+      "sha": "426e735",
+      "url": "https://github.com/protomota/graphley-site/commit/426e735241a1802eb07de790e43439c2caaa93d5"
     },
     {
       "id": "28262917288",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "50076b2",
       "url": "https://github.com/protomota/jotley/commit/50076b25620b9948e90760c6a779a9fb21d4f8e6"
-    },
-    {
-      "id": "28260475670",
-      "repo": "jotley",
-      "repoUrl": "https://github.com/protomota/jotley",
-      "site": "jotley.ai",
-      "at": "2026-11-24T20:50:33Z",
-      "kind": "ship",
-      "title": "[jotley] restore the striped microphone onboarding art",
-      "count": 1,
-      "sha": "31b871d",
-      "url": "https://github.com/protomota/jotley/commit/31b871d49a6a06f9a73ff9b91e38d3ad7d863e2a"
     }
   ]
 }
