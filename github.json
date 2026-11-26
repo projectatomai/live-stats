@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T09:16:53.600Z",
+  "generated": "2026-11-26T09:40:20.145Z",
   "user": "protomota",
   "items": [
     {
@@ -72,6 +72,18 @@
       "count": 1,
       "sha": "42ce933",
       "url": "https://github.com/protomota/graphley-site/commit/42ce933644e6c6c0acb0ec260b1eebb64aa1bb65"
+    },
+    {
+      "id": "28309202663",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T05:09:58Z",
+      "kind": "ship",
+      "title": "[graphley-site] release Mac 0.1.7 (9)",
+      "count": 1,
+      "sha": "b1ab4ad",
+      "url": "https://github.com/protomota/graphley-site/commit/b1ab4adb3b401b98efcb205f91952a1d191299b4"
     },
     {
       "id": "28273713242",
@@ -347,18 +359,6 @@
       "count": 1,
       "sha": "ed589ce",
       "url": "https://github.com/protomota/braddunlap-info/commit/ed589ce24603316075e7d5574d0bfc6131ecbcb4"
-    },
-    {
-      "id": "28281137241",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-24T22:15:24Z",
-      "kind": "ship",
-      "title": "Fix Cloudflare preview parity for braddunlap-info",
-      "count": 1,
-      "sha": "4006a1b",
-      "url": "https://github.com/protomota/braddunlap-info/commit/4006a1b849116b364ad90339bdae36f32a01809e"
     }
   ]
 }
