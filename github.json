@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T14:40:10.016Z",
+  "generated": "2026-11-26T20:26:07.217Z",
   "user": "protomota",
   "items": [
     {
@@ -69,6 +69,18 @@
       "count": 1,
       "sha": "b177744",
       "url": "https://github.com/protomota/skills/commit/b17774405939f49844fd5e4d7e2a6274dceac4f8"
+    },
+    {
+      "id": "28351510168",
+      "repo": "inkspring",
+      "repoUrl": "https://github.com/protomota/inkspring",
+      "site": "inkspring.ai",
+      "at": "2026-11-25T15:29:36Z",
+      "kind": "ship",
+      "title": "[inkspring] require a user-owned developer app for X publishing",
+      "count": 1,
+      "sha": "3889cd1",
+      "url": "https://github.com/protomota/inkspring/commit/3889cd1912c4924a02f778d421263664aa11500d"
     },
     {
       "id": "28296756994",
@@ -344,18 +356,6 @@
       "count": 1,
       "sha": "669627d",
       "url": "https://github.com/protomota/graphley-site/commit/669627db9f05a3e5781103555efe62dc831d197b"
-    },
-    {
-      "id": "28289002044",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-24T23:34:34Z",
-      "kind": "ship",
-      "title": "Brand the site with the icon's colors (#3)",
-      "count": 1,
-      "sha": "20fd674",
-      "url": "https://github.com/protomota/graphley-site/commit/20fd674cf28b0b92abf331d5b8a345308fb5d03a"
     }
   ]
 }
