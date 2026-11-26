@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T00:35:30.708Z",
+  "generated": "2026-11-26T01:16:16.014Z",
   "user": "protomota",
   "items": [
     {
@@ -24,6 +24,18 @@
       "count": 1,
       "sha": "b177744",
       "url": "https://github.com/protomota/skills/commit/b17774405939f49844fd5e4d7e2a6274dceac4f8"
+    },
+    {
+      "id": "28273713242",
+      "repo": "jotley",
+      "repoUrl": "https://github.com/protomota/jotley",
+      "site": "jotley.ai",
+      "at": "2026-11-25T03:52:49Z",
+      "kind": "ship",
+      "title": "[jotley] add a debug hook that opens the support card for screenshots",
+      "count": 2,
+      "sha": "0a83e7f",
+      "url": "https://github.com/protomota/jotley/commit/0a83e7f6d301b0e7b570a58beaea6be3e658ef3c"
     },
     {
       "id": "28272112999",
@@ -180,6 +192,30 @@
       "url": "https://github.com/protomota/jotley/commit/31b871d49a6a06f9a73ff9b91e38d3ad7d863e2a"
     },
     {
+      "id": "28274565888",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-24T20:37:51Z",
+      "kind": "ship",
+      "title": "Host on Cloudflare Pages instead of Vercel: _headers, _redirects, consent cookie function, dist build",
+      "count": 1,
+      "sha": "81ee987",
+      "url": "https://github.com/protomota/graphley-site/commit/81ee9877191ba0cc803240859c25e708542e02ac"
+    },
+    {
+      "id": "28274525047",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-24T20:37:30Z",
+      "kind": "ship",
+      "title": "[graphley-site] name the Vercel project in the README",
+      "count": 1,
+      "sha": "0b0b4c8",
+      "url": "https://github.com/protomota/graphley-site/commit/0b0b4c8daa8a8f2e71c6144003eefd4713147558"
+    },
+    {
       "id": "28191490759",
       "repo": "skills",
       "repoUrl": "https://github.com/protomota/skills",
@@ -299,18 +335,6 @@
       "url": "https://github.com/protomota/jotley/commit/a3964664e363424cfd5e6102a682dff47afd9244"
     },
     {
-      "id": "28179084992",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-24T18:10:28Z",
-      "kind": "ship",
-      "title": "Apps in priority order: OpenTalon, Inkspring, Jotley, Glimmer, PulseCanvas, Voxley, Textley",
-      "count": 1,
-      "sha": "f0f9c46",
-      "url": "https://github.com/protomota/braddunlap-info/commit/f0f9c460ec2654f294e903c4ead4f6cdb40564cf"
-    },
-    {
       "id": "28205120696",
       "repo": "jotley",
       "repoUrl": "https://github.com/protomota/jotley",
@@ -333,30 +357,6 @@
       "count": 1,
       "sha": "f36b5ea",
       "url": "https://github.com/protomota/skills/commit/f36b5ea3bdb4606f7bd8350840ac43c3b082a6e8"
-    },
-    {
-      "id": "28212688053",
-      "repo": "skills",
-      "repoUrl": "https://github.com/protomota/skills",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-24T13:48:20Z",
-      "kind": "ship",
-      "title": "[agent-council] use the strongest available seats at high effort",
-      "count": 1,
-      "sha": "8b753e8",
-      "url": "https://github.com/protomota/skills/commit/8b753e86ac005521a6ef3a73d19e66d24b098705"
-    },
-    {
-      "id": "28250600062",
-      "repo": "pulsecanvas",
-      "repoUrl": "https://github.com/protomota/pulsecanvas",
-      "site": "pulsecanvas.ai",
-      "at": "2026-11-23T22:48:27Z",
-      "kind": "ship",
-      "title": "[pulsecanvas] verify localized release source",
-      "count": 1,
-      "sha": "19800ad",
-      "url": "https://github.com/protomota/pulsecanvas/commit/19800ad9b91cd0ab3e154f9892f767787d63a821"
     }
   ]
 }
