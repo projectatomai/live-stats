@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T02:40:38.551Z",
+  "generated": "2026-11-26T03:18:01.165Z",
   "user": "protomota",
   "items": [
     {
@@ -24,6 +24,18 @@
       "count": 1,
       "sha": "b177744",
       "url": "https://github.com/protomota/skills/commit/b17774405939f49844fd5e4d7e2a6274dceac4f8"
+    },
+    {
+      "id": "28282695221",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T05:37:11Z",
+      "kind": "ship",
+      "title": "[graphley-site] release Mac 0.1.8 (10)",
+      "count": 1,
+      "sha": "42ce933",
+      "url": "https://github.com/protomota/graphley-site/commit/42ce933644e6c6c0acb0ec260b1eebb64aa1bb65"
     },
     {
       "id": "28273713242",
@@ -133,6 +145,18 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/6208990f64367600c77b82bde98691ee941c3b42"
     },
     {
+      "id": "28283657621",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-25T00:33:26Z",
+      "kind": "ship",
+      "title": "Handle the inbound lead credential transition in the email worker",
+      "count": 1,
+      "sha": "dcfe6f3",
+      "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
+    },
+    {
       "id": "28279951870",
       "repo": "graphley-site",
       "repoUrl": "https://github.com/protomota/graphley-site",
@@ -155,6 +179,18 @@
       "count": 1,
       "sha": "05003a1",
       "url": "https://github.com/protomota/graphley-site/commit/05003a15e65cce4fe96cb96b8fc82aa4d614c6d8"
+    },
+    {
+      "id": "28282234501",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-24T22:26:26Z",
+      "kind": "ship",
+      "title": "Verify Cloudflare main-branch build",
+      "count": 1,
+      "sha": "2a57afa",
+      "url": "https://github.com/protomota/braddunlap-info/commit/2a57afa6f77a72ffe2f4d873c0f1f8577aaf0ce3"
     },
     {
       "id": "28243676581",
@@ -321,42 +357,6 @@
       "count": 1,
       "sha": "7044bbb",
       "url": "https://github.com/protomota/braddunlap-info/commit/7044bbb058c95b5575ba56d517b2daa64f1d0b83"
-    },
-    {
-      "id": "28255265177",
-      "repo": "voxley",
-      "repoUrl": "https://github.com/protomota/voxley",
-      "site": "voxley.si",
-      "at": "2026-11-24T18:16:45Z",
-      "kind": "ship",
-      "title": "[drive] point Expand paths at the reorganized drive",
-      "count": 1,
-      "sha": "7f711ef",
-      "url": "https://github.com/protomota/voxley/commit/7f711ef1d1d5f62f5fa01724bb3feb92e30022e9"
-    },
-    {
-      "id": "28245065576",
-      "repo": "opentalon",
-      "repoUrl": "https://github.com/protomota/opentalon",
-      "site": "opentalon.ai",
-      "at": "2026-11-24T18:16:38Z",
-      "kind": "ship",
-      "title": "[drive] point Expand paths at the reorganized drive",
-      "count": 1,
-      "sha": "0c64c40",
-      "url": "https://github.com/protomota/opentalon/commit/0c64c4003073ae2a0cb6c9630a1f4f09e39ea23b"
-    },
-    {
-      "id": "28217071587",
-      "repo": "jotley",
-      "repoUrl": "https://github.com/protomota/jotley",
-      "site": "jotley.ai",
-      "at": "2026-11-24T18:16:18Z",
-      "kind": "ship",
-      "title": "[drive] point Expand paths at the reorganized drive",
-      "count": 1,
-      "sha": "a396466",
-      "url": "https://github.com/protomota/jotley/commit/a3964664e363424cfd5e6102a682dff47afd9244"
     }
   ]
 }
