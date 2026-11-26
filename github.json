@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T07:28:44.541Z",
+  "generated": "2026-11-26T08:20:18.020Z",
   "user": "protomota",
   "items": [
     {
@@ -84,6 +84,18 @@
       "count": 2,
       "sha": "0a83e7f",
       "url": "https://github.com/protomota/jotley/commit/0a83e7f6d301b0e7b570a58beaea6be3e658ef3c"
+    },
+    {
+      "id": "28302941481",
+      "repo": "pulsecanvas",
+      "repoUrl": "https://github.com/protomota/pulsecanvas",
+      "site": "pulsecanvas.ai",
+      "at": "2026-11-25T03:49:08Z",
+      "kind": "ship",
+      "title": "[pulsecanvas] add test-only offscreen render of Mac support rows and card",
+      "count": 1,
+      "sha": "69164ec",
+      "url": "https://github.com/protomota/pulsecanvas/commit/69164ecea6517bade35af44fc80f0eaa533e7b33"
     },
     {
       "id": "28272112999",
@@ -346,18 +358,6 @@
       "title": "Textley 1.1.4",
       "tag": "v1.1.4",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.4"
-    },
-    {
-      "id": "28238021948",
-      "repo": "jotley",
-      "repoUrl": "https://github.com/protomota/jotley",
-      "site": "jotley.ai",
-      "at": "2026-11-24T21:32:21Z",
-      "kind": "ship",
-      "title": "[jotley] install and update agent skills by their version number",
-      "count": 1,
-      "sha": "50076b2",
-      "url": "https://github.com/protomota/jotley/commit/50076b25620b9948e90760c6a779a9fb21d4f8e6"
     }
   ]
 }
