@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T05:16:07.209Z",
+  "generated": "2026-11-26T05:54:57.994Z",
   "user": "protomota",
   "items": [
     {
@@ -36,6 +36,18 @@
       "count": 1,
       "sha": "b177744",
       "url": "https://github.com/protomota/skills/commit/b17774405939f49844fd5e4d7e2a6274dceac4f8"
+    },
+    {
+      "id": "28293814019",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-25T07:24:20Z",
+      "kind": "ship",
+      "title": "[site] rename the community to the Lab (lab.protomota.com, Join the Lab)",
+      "count": 1,
+      "sha": "915938c",
+      "url": "https://github.com/protomota/braddunlap-info/commit/915938c4b36090236f4b88ae49dd479b560d74f2"
     },
     {
       "id": "28282695221",
@@ -193,6 +205,18 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
     },
     {
+      "id": "28293752786",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T00:25:22Z",
+      "kind": "ship",
+      "title": "Cache-bust the icon, favicon and social card (#4)",
+      "count": 1,
+      "sha": "1596539",
+      "url": "https://github.com/protomota/graphley-site/commit/1596539f38eb0b7a9fbe099d8738965b6eabcf77"
+    },
+    {
       "id": "28289002044",
       "repo": "graphley-site",
       "repoUrl": "https://github.com/protomota/graphley-site",
@@ -334,29 +358,6 @@
       "count": 1,
       "sha": "0b0b4c8",
       "url": "https://github.com/protomota/graphley-site/commit/0b0b4c8daa8a8f2e71c6144003eefd4713147558"
-    },
-    {
-      "id": "28264879989",
-      "repo": "skills",
-      "repoUrl": "https://github.com/protomota/skills",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-24T19:45:41Z",
-      "kind": "ship",
-      "title": "[skills] add Concise Reports: say what you did and what you need, in the fewest words",
-      "count": 1,
-      "sha": "1e38b39",
-      "url": "https://github.com/protomota/skills/commit/1e38b3904ee3a21ac4bed54206e6a1ef50d4363c"
-    },
-    {
-      "id": "21173553181",
-      "repo": "textley-source",
-      "repoUrl": "https://github.com/protomota/textley-source",
-      "site": "textley.ai",
-      "at": "2026-11-24T19:40:06Z",
-      "kind": "release",
-      "title": "Textley 1.1.3",
-      "tag": "v1.1.3",
-      "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.3"
     }
   ]
 }
