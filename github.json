@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T03:18:01.165Z",
+  "generated": "2026-11-26T04:40:13.730Z",
   "user": "protomota",
   "items": [
     {
@@ -157,6 +157,18 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
     },
     {
+      "id": "28289002044",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-24T23:34:34Z",
+      "kind": "ship",
+      "title": "Brand the site with the icon's colors (#3)",
+      "count": 1,
+      "sha": "20fd674",
+      "url": "https://github.com/protomota/graphley-site/commit/20fd674cf28b0b92abf331d5b8a345308fb5d03a"
+    },
+    {
       "id": "28279951870",
       "repo": "graphley-site",
       "repoUrl": "https://github.com/protomota/graphley-site",
@@ -167,18 +179,6 @@
       "count": 1,
       "sha": "78fd6de",
       "url": "https://github.com/protomota/graphley-site/commit/78fd6ded328c5a298c25afc4863c43456a2f2499"
-    },
-    {
-      "id": "28213049931",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-24T22:49:03Z",
-      "kind": "ship",
-      "title": "[graphley-site] new Stacked tide icon (mark.svg, icons, favicon, social card) (#1)",
-      "count": 1,
-      "sha": "05003a1",
-      "url": "https://github.com/protomota/graphley-site/commit/05003a15e65cce4fe96cb96b8fc82aa4d614c6d8"
     },
     {
       "id": "28282234501",
