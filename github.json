@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T06:25:09.175Z",
+  "generated": "2026-11-26T06:46:51.157Z",
   "user": "protomota",
   "items": [
     {
@@ -36,6 +36,18 @@
       "count": 1,
       "sha": "b177744",
       "url": "https://github.com/protomota/skills/commit/b17774405939f49844fd5e4d7e2a6274dceac4f8"
+    },
+    {
+      "id": "28296756994",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T07:24:22Z",
+      "kind": "ship",
+      "title": "[site] rename the community to the Lab (lab.protomota.com, Join the Lab)",
+      "count": 1,
+      "sha": "e165201",
+      "url": "https://github.com/protomota/graphley-site/commit/e165201ac0822565c701b300b60d46516e0ce3c7"
     },
     {
       "id": "28293814019",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "31b871d",
       "url": "https://github.com/protomota/jotley/commit/31b871d49a6a06f9a73ff9b91e38d3ad7d863e2a"
-    },
-    {
-      "id": "28274565888",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-24T20:37:51Z",
-      "kind": "ship",
-      "title": "Host on Cloudflare Pages instead of Vercel: _headers, _redirects, consent cookie function, dist build",
-      "count": 1,
-      "sha": "81ee987",
-      "url": "https://github.com/protomota/graphley-site/commit/81ee9877191ba0cc803240859c25e708542e02ac"
     }
   ]
 }
