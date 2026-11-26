@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T23:40:37.301Z",
+  "generated": "2026-11-26T00:35:30.708Z",
   "user": "protomota",
   "items": [
     {
@@ -12,6 +12,30 @@
       "title": "Textley 1.1.6",
       "tag": "v1.1.6",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.6"
+    },
+    {
+      "id": "28270503623",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-25T23:00:45Z",
+      "kind": "ship",
+      "title": "[skills] add bucksley-mcp",
+      "count": 1,
+      "sha": "b177744",
+      "url": "https://github.com/protomota/skills/commit/b17774405939f49844fd5e4d7e2a6274dceac4f8"
+    },
+    {
+      "id": "28272112999",
+      "repo": "pulsecanvas",
+      "repoUrl": "https://github.com/protomota/pulsecanvas",
+      "site": "pulsecanvas.ai",
+      "at": "2026-11-25T03:34:42Z",
+      "kind": "ship",
+      "title": "[pulsecanvas] standard support and rating set with weekly reminder card",
+      "count": 1,
+      "sha": "df9d764",
+      "url": "https://github.com/protomota/pulsecanvas/commit/df9d76473ee02cfedd0f95fd52827adf6f1410c5"
     },
     {
       "id": "21213939901",
@@ -35,6 +59,18 @@
       "count": 1,
       "sha": "3be5ff2",
       "url": "https://github.com/protomota/graphley-site/commit/3be5ff2d8018caa5558fe203def2275f11c20929"
+    },
+    {
+      "id": "28270751601",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T02:42:43Z",
+      "kind": "ship",
+      "title": "[graphley-site] release Mac 0.1.6 (8)",
+      "count": 1,
+      "sha": "59086b6",
+      "url": "https://github.com/protomota/graphley-site/commit/59086b6f4833b3d3b28cc53f42683edb6e902c33"
     },
     {
       "id": "28267696925",
@@ -321,42 +357,6 @@
       "count": 1,
       "sha": "19800ad",
       "url": "https://github.com/protomota/pulsecanvas/commit/19800ad9b91cd0ab3e154f9892f767787d63a821"
-    },
-    {
-      "id": "28198706143",
-      "repo": "pulsecanvas",
-      "repoUrl": "https://github.com/protomota/pulsecanvas",
-      "site": "pulsecanvas.ai",
-      "at": "2026-11-23T22:45:52Z",
-      "kind": "ship",
-      "title": "[pulsecanvas] ship six atmospheric Metal visualizers",
-      "count": 1,
-      "sha": "164d060",
-      "url": "https://github.com/protomota/pulsecanvas/commit/164d06062e6ec66b57b1cb9a7ffa2d1d57d7d8d7"
-    },
-    {
-      "id": "28196776587",
-      "repo": "pulsecanvas",
-      "repoUrl": "https://github.com/protomota/pulsecanvas",
-      "site": "pulsecanvas.ai",
-      "at": "2026-11-23T22:24:36Z",
-      "kind": "ship",
-      "title": "[pulsecanvas] refine Anvil Flyover cloud lighting",
-      "count": 1,
-      "sha": "85b7ef5",
-      "url": "https://github.com/protomota/pulsecanvas/commit/85b7ef5a0f8b908c918bdc34aa9d2059b53be562"
-    },
-    {
-      "id": "28248062588",
-      "repo": "pulsecanvas",
-      "repoUrl": "https://github.com/protomota/pulsecanvas",
-      "site": "pulsecanvas.ai",
-      "at": "2026-11-23T22:22:59Z",
-      "kind": "ship",
-      "title": "[pulsecanvas] add five procedural Metal studies",
-      "count": 1,
-      "sha": "8d7a20e",
-      "url": "https://github.com/protomota/pulsecanvas/commit/8d7a20e336cdd4680d324729aad76b78c47ba87f"
     }
   ]
 }
