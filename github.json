@@ -1,28 +1,28 @@
 {
-  "generated": "2026-11-26T21:13:55.051Z",
+  "generated": "2026-11-26T21:54:54.238Z",
   "user": "protomota",
   "items": [
     {
       "id": "21392725891",
-      "repo": "textley-source",
-      "repoUrl": "https://github.com/protomota/textley-source",
+      "repo": "textley",
+      "repoUrl": "https://github.com/protomota/textley",
       "site": "textley.ai",
       "at": "2026-11-26T14:39:22Z",
       "kind": "release",
       "title": "Textley 1.1.9",
       "tag": "v1.1.9",
-      "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.9"
+      "url": "https://github.com/protomota/textley/releases/tag/v1.1.9"
     },
     {
       "id": "21387062133",
-      "repo": "textley-source",
-      "repoUrl": "https://github.com/protomota/textley-source",
+      "repo": "textley",
+      "repoUrl": "https://github.com/protomota/textley",
       "site": "textley.ai",
       "at": "2026-11-26T13:41:02Z",
       "kind": "release",
       "title": "Textley 1.1.8",
       "tag": "v1.1.8",
-      "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.8"
+      "url": "https://github.com/protomota/textley/releases/tag/v1.1.8"
     },
     {
       "id": "28354819134",
@@ -38,14 +38,14 @@
     },
     {
       "id": "21371070724",
-      "repo": "textley-source",
-      "repoUrl": "https://github.com/protomota/textley-source",
+      "repo": "textley",
+      "repoUrl": "https://github.com/protomota/textley",
       "site": "textley.ai",
       "at": "2026-11-26T10:47:52Z",
       "kind": "release",
       "title": "Textley 1.1.7",
       "tag": "v1.1.7",
-      "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.7"
+      "url": "https://github.com/protomota/textley/releases/tag/v1.1.7"
     },
     {
       "id": "28291284967",
@@ -61,14 +61,14 @@
     },
     {
       "id": "21320510741",
-      "repo": "textley-source",
-      "repoUrl": "https://github.com/protomota/textley-source",
+      "repo": "textley",
+      "repoUrl": "https://github.com/protomota/textley",
       "site": "textley.ai",
       "at": "2026-11-25T23:11:14Z",
       "kind": "release",
       "title": "Textley 1.1.6",
       "tag": "v1.1.6",
-      "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.6"
+      "url": "https://github.com/protomota/textley/releases/tag/v1.1.6"
     },
     {
       "id": "28270503623",
@@ -81,6 +81,18 @@
       "count": 1,
       "sha": "b177744",
       "url": "https://github.com/protomota/skills/commit/b17774405939f49844fd5e4d7e2a6274dceac4f8"
+    },
+    {
+      "id": "28357777711",
+      "repo": "bucksley-site",
+      "repoUrl": "https://github.com/protomota/bucksley-site",
+      "site": null,
+      "at": "2026-11-25T20:27:48Z",
+      "kind": "ship",
+      "title": "Update Brad's LinkedIn URL to linkedin.com/in/brad--dunlap",
+      "count": 1,
+      "sha": "6a4ac60",
+      "url": "https://github.com/protomota/bucksley-site/commit/6a4ac6073fe6667fbc7490cc7cced0327ce72843"
     },
     {
       "id": "28351510168",
@@ -192,14 +204,14 @@
     },
     {
       "id": "21213939901",
-      "repo": "textley-source",
-      "repoUrl": "https://github.com/protomota/textley-source",
+      "repo": "textley",
+      "repoUrl": "https://github.com/protomota/textley",
       "site": "textley.ai",
       "at": "2026-11-25T03:33:16Z",
       "kind": "release",
       "title": "Textley 1.1.5",
       "tag": "v1.1.5",
-      "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.5"
+      "url": "https://github.com/protomota/textley/releases/tag/v1.1.5"
     },
     {
       "id": "28313031540",
@@ -320,18 +332,6 @@
       "count": 1,
       "sha": "48e9f0f",
       "url": "https://github.com/protomota/braddunlap-info/commit/48e9f0f2e9f1fcbd98f6b306532a82385a3346d4"
-    },
-    {
-      "id": "28261500212",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-25T01:32:36Z",
-      "kind": "ship",
-      "title": "[braddunlap-info] Graphley in More from Protomota, Textley last, no gap above status links",
-      "count": 1,
-      "sha": "6208990",
-      "url": "https://github.com/protomota/braddunlap-info/commit/6208990f64367600c77b82bde98691ee941c3b42"
     },
     {
       "id": "28283657621",
