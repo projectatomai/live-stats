@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T09:40:20.145Z",
+  "generated": "2026-11-26T10:16:25.407Z",
   "user": "protomota",
   "items": [
     {
@@ -84,6 +84,18 @@
       "count": 1,
       "sha": "b1ab4ad",
       "url": "https://github.com/protomota/graphley-site/commit/b1ab4adb3b401b98efcb205f91952a1d191299b4"
+    },
+    {
+      "id": "28310618540",
+      "repo": "jotley",
+      "repoUrl": "https://github.com/protomota/jotley",
+      "site": "jotley.ai",
+      "at": "2026-11-25T04:00:29Z",
+      "kind": "ship",
+      "title": "[jotley] send a user agent when verifying the public installer",
+      "count": 1,
+      "sha": "d289f3f",
+      "url": "https://github.com/protomota/jotley/commit/d289f3fb69200ef8e76735116722fbbbb3a6d4e6"
     },
     {
       "id": "28273713242",
@@ -347,18 +359,6 @@
       "count": 1,
       "sha": "2a57afa",
       "url": "https://github.com/protomota/braddunlap-info/commit/2a57afa6f77a72ffe2f4d873c0f1f8577aaf0ce3"
-    },
-    {
-      "id": "28243676581",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-24T22:17:13Z",
-      "kind": "ship",
-      "title": "Close preview routing parity gaps",
-      "count": 1,
-      "sha": "ed589ce",
-      "url": "https://github.com/protomota/braddunlap-info/commit/ed589ce24603316075e7d5574d0bfc6131ecbcb4"
     }
   ]
 }
