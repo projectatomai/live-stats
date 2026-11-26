@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T05:54:57.994Z",
+  "generated": "2026-11-26T06:25:09.175Z",
   "user": "protomota",
   "items": [
     {
@@ -217,6 +217,18 @@
       "url": "https://github.com/protomota/graphley-site/commit/1596539f38eb0b7a9fbe099d8738965b6eabcf77"
     },
     {
+      "id": "28294870012",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-24T23:51:05Z",
+      "kind": "ship",
+      "title": "[graphley-site] release Mac 0.1.5 (7)",
+      "count": 1,
+      "sha": "669627d",
+      "url": "https://github.com/protomota/graphley-site/commit/669627db9f05a3e5781103555efe62dc831d197b"
+    },
+    {
       "id": "28289002044",
       "repo": "graphley-site",
       "repoUrl": "https://github.com/protomota/graphley-site",
@@ -346,18 +358,6 @@
       "count": 1,
       "sha": "81ee987",
       "url": "https://github.com/protomota/graphley-site/commit/81ee9877191ba0cc803240859c25e708542e02ac"
-    },
-    {
-      "id": "28274525047",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-24T20:37:30Z",
-      "kind": "ship",
-      "title": "[graphley-site] name the Vercel project in the README",
-      "count": 1,
-      "sha": "0b0b4c8",
-      "url": "https://github.com/protomota/graphley-site/commit/0b0b4c8daa8a8f2e71c6144003eefd4713147558"
     }
   ]
 }
