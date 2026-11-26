@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-26T04:55:25.922Z",
+  "generated": "2026-11-26T05:16:07.209Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "28291284967",
+      "repo": "bucksley-site",
+      "repoUrl": "https://github.com/protomota/bucksley-site",
+      "site": null,
+      "at": "2026-11-26T03:07:48Z",
+      "kind": "ship",
+      "title": "[bucksley-site] release Mac 0.1.8 (9)",
+      "count": 1,
+      "sha": "982cac4",
+      "url": "https://github.com/protomota/bucksley-site/commit/982cac4cdcf0431be02070a7e52987c1ed0faa3f"
+    },
     {
       "id": "21320510741",
       "repo": "textley-source",
@@ -145,6 +157,18 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/384b7faf9b2797bc31fcc1b78f9ecb9a97b7fd30"
     },
     {
+      "id": "28291339515",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-25T01:33:48Z",
+      "kind": "ship",
+      "title": "[braddunlap-info] one arrow per entry in More from Protomota, kept with its last word",
+      "count": 1,
+      "sha": "48e9f0f",
+      "url": "https://github.com/protomota/braddunlap-info/commit/48e9f0f2e9f1fcbd98f6b306532a82385a3346d4"
+    },
+    {
       "id": "28261500212",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -191,6 +215,18 @@
       "count": 1,
       "sha": "78fd6de",
       "url": "https://github.com/protomota/graphley-site/commit/78fd6ded328c5a298c25afc4863c43456a2f2499"
+    },
+    {
+      "id": "28290707480",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-24T23:07:05Z",
+      "kind": "ship",
+      "title": "[graphley-site] release Mac 0.1.3 (5)",
+      "count": 1,
+      "sha": "beda04a",
+      "url": "https://github.com/protomota/graphley-site/commit/beda04a43107329825aea51aecd226ad9cd0c32e"
     },
     {
       "id": "28282234501",
@@ -321,42 +357,6 @@
       "title": "Textley 1.1.3",
       "tag": "v1.1.3",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.3"
-    },
-    {
-      "id": "28263465694",
-      "repo": "jotley",
-      "repoUrl": "https://github.com/protomota/jotley",
-      "site": "jotley.ai",
-      "at": "2026-11-24T19:33:51Z",
-      "kind": "ship",
-      "title": "[jotley] install the Jotley agent skill from MCP settings",
-      "count": 1,
-      "sha": "14cb296",
-      "url": "https://github.com/protomota/jotley/commit/14cb296ab2cac04b0bd89757c1ad8065e4f9453a"
-    },
-    {
-      "id": "28224281197",
-      "repo": "mcp",
-      "repoUrl": "https://github.com/protomota/mcp",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-24T19:12:50Z",
-      "kind": "ship",
-      "title": "[glimmer] add to-do steps, estimates and toolkit_respond to the skill",
-      "count": 1,
-      "sha": "d0e6baa",
-      "url": "https://github.com/protomota/mcp/commit/d0e6baa20def40e809288e33b8cc52ea3a90a17a"
-    },
-    {
-      "id": "28260398755",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-24T18:39:22Z",
-      "kind": "ship",
-      "title": "Footer: arrows sit on the title line, app icons load eagerly",
-      "count": 1,
-      "sha": "70af76b",
-      "url": "https://github.com/protomota/braddunlap-info/commit/70af76b78fff7947dce7824bdd1efaea393c6092"
     }
   ]
 }
