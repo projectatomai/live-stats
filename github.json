@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T20:26:07.217Z",
+  "generated": "2026-11-26T21:13:55.051Z",
   "user": "protomota",
   "items": [
     {
@@ -23,6 +23,18 @@
       "title": "Textley 1.1.8",
       "tag": "v1.1.8",
       "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.8"
+    },
+    {
+      "id": "28354819134",
+      "repo": "voxley",
+      "repoUrl": "https://github.com/protomota/voxley",
+      "site": "voxley.si",
+      "at": "2026-11-26T13:33:48Z",
+      "kind": "ship",
+      "title": "[voxley] remove tips and paid support pricing for 1.0.17",
+      "count": 1,
+      "sha": "cc7db9c",
+      "url": "https://github.com/protomota/voxley/commit/cc7db9cdd5fbd057cb9759f6e198415edc422a22"
     },
     {
       "id": "21371070724",
@@ -344,18 +356,6 @@
       "count": 1,
       "sha": "1596539",
       "url": "https://github.com/protomota/graphley-site/commit/1596539f38eb0b7a9fbe099d8738965b6eabcf77"
-    },
-    {
-      "id": "28294870012",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-24T23:51:05Z",
-      "kind": "ship",
-      "title": "[graphley-site] release Mac 0.1.5 (7)",
-      "count": 1,
-      "sha": "669627d",
-      "url": "https://github.com/protomota/graphley-site/commit/669627db9f05a3e5781103555efe62dc831d197b"
     }
   ]
 }
