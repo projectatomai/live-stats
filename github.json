@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-26T22:14:37.210Z",
+  "generated": "2026-11-26T22:39:58.839Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "28361029134",
+      "repo": "bucksley-site",
+      "repoUrl": "https://github.com/protomota/bucksley-site",
+      "site": null,
+      "at": "2026-11-26T14:40:51Z",
+      "kind": "ship",
+      "title": "[bucksley-site] add Take action links where Buy me a coffee was",
+      "count": 1,
+      "sha": "35d24da",
+      "url": "https://github.com/protomota/bucksley-site/commit/35d24daadd2befd3f3ebc4eb0f36a4edcc783c22"
+    },
     {
       "id": "21392725891",
       "repo": "textley",
@@ -344,18 +356,6 @@
       "count": 1,
       "sha": "48e9f0f",
       "url": "https://github.com/protomota/braddunlap-info/commit/48e9f0f2e9f1fcbd98f6b306532a82385a3346d4"
-    },
-    {
-      "id": "28283657621",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-25T00:33:26Z",
-      "kind": "ship",
-      "title": "Handle the inbound lead credential transition in the email worker",
-      "count": 1,
-      "sha": "dcfe6f3",
-      "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
     }
   ]
 }
