@@ -1,7 +1,18 @@
 {
-  "generated": "2026-11-26T10:40:47.178Z",
+  "generated": "2026-11-26T10:55:26.237Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "21371070724",
+      "repo": "textley-source",
+      "repoUrl": "https://github.com/protomota/textley-source",
+      "site": "textley.ai",
+      "at": "2026-11-26T10:47:52Z",
+      "kind": "release",
+      "title": "Textley 1.1.7",
+      "tag": "v1.1.7",
+      "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.7"
+    },
     {
       "id": "28291284967",
       "repo": "bucksley-site",
@@ -347,18 +358,6 @@
       "count": 1,
       "sha": "beda04a",
       "url": "https://github.com/protomota/graphley-site/commit/beda04a43107329825aea51aecd226ad9cd0c32e"
-    },
-    {
-      "id": "28282234501",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-24T22:26:26Z",
-      "kind": "ship",
-      "title": "Verify Cloudflare main-branch build",
-      "count": 1,
-      "sha": "2a57afa",
-      "url": "https://github.com/protomota/braddunlap-info/commit/2a57afa6f77a72ffe2f4d873c0f1f8577aaf0ce3"
     }
   ]
 }
