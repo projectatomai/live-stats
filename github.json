@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T08:20:18.020Z",
+  "generated": "2026-11-26T09:16:53.600Z",
   "user": "protomota",
   "items": [
     {
@@ -131,6 +131,30 @@
       "count": 1,
       "sha": "3be5ff2",
       "url": "https://github.com/protomota/graphley-site/commit/3be5ff2d8018caa5558fe203def2275f11c20929"
+    },
+    {
+      "id": "28306744009",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-25T03:13:01Z",
+      "kind": "ship",
+      "title": "[braddunlap-info] always show an edge and shadow or glow on every app icon",
+      "count": 1,
+      "sha": "85a017e",
+      "url": "https://github.com/protomota/braddunlap-info/commit/85a017efc12e0e5872d9f75c0278a6d5242d3f0a"
+    },
+    {
+      "id": "28307019252",
+      "repo": "voxley",
+      "repoUrl": "https://github.com/protomota/voxley",
+      "site": "voxley.si",
+      "at": "2026-11-25T02:58:17Z",
+      "kind": "ship",
+      "title": "[voxley] add the support card, dictation reminders and Settings support rows for 1.0.14",
+      "count": 1,
+      "sha": "f3f31a7",
+      "url": "https://github.com/protomota/voxley/commit/f3f31a7a0ad4238a35e43a9bdebfd42f2d6f84ff"
     },
     {
       "id": "28270751601",
@@ -335,29 +359,6 @@
       "count": 1,
       "sha": "4006a1b",
       "url": "https://github.com/protomota/braddunlap-info/commit/4006a1b849116b364ad90339bdae36f32a01809e"
-    },
-    {
-      "id": "28280504517",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-24T22:08:57Z",
-      "kind": "ship",
-      "title": "Port braddunlap-info to Cloudflare",
-      "count": 1,
-      "sha": "388248d",
-      "url": "https://github.com/protomota/braddunlap-info/commit/388248d4ba6cfa46504a5210abbf3b51773cdb57"
-    },
-    {
-      "id": "21185168356",
-      "repo": "textley-source",
-      "repoUrl": "https://github.com/protomota/textley-source",
-      "site": "textley.ai",
-      "at": "2026-11-24T21:35:35Z",
-      "kind": "release",
-      "title": "Textley 1.1.4",
-      "tag": "v1.1.4",
-      "url": "https://github.com/protomota/textley-source/releases/tag/v1.1.4"
     }
   ]
 }
