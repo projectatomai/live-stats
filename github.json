@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T21:54:54.238Z",
+  "generated": "2026-11-26T22:14:37.210Z",
   "user": "protomota",
   "items": [
     {
@@ -12,6 +12,18 @@
       "title": "Textley 1.1.9",
       "tag": "v1.1.9",
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.9"
+    },
+    {
+      "id": "28358721712",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-26T14:20:16Z",
+      "kind": "ship",
+      "title": "Add 25 general skills (#2)",
+      "count": 1,
+      "sha": "f549478",
+      "url": "https://github.com/protomota/skills/commit/f54947801b98176269c6e8660f1e21e3cc5ecf85"
     },
     {
       "id": "21387062133",
@@ -344,18 +356,6 @@
       "count": 1,
       "sha": "dcfe6f3",
       "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
-    },
-    {
-      "id": "28293752786",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-25T00:25:22Z",
-      "kind": "ship",
-      "title": "Cache-bust the icon, favicon and social card (#4)",
-      "count": 1,
-      "sha": "1596539",
-      "url": "https://github.com/protomota/graphley-site/commit/1596539f38eb0b7a9fbe099d8738965b6eabcf77"
     }
   ]
 }
