@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T01:16:16.014Z",
+  "generated": "2026-11-26T01:54:59.645Z",
   "user": "protomota",
   "items": [
     {
@@ -216,18 +216,6 @@
       "url": "https://github.com/protomota/graphley-site/commit/0b0b4c8daa8a8f2e71c6144003eefd4713147558"
     },
     {
-      "id": "28191490759",
-      "repo": "skills",
-      "repoUrl": "https://github.com/protomota/skills",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-24T19:47:05Z",
-      "kind": "ship",
-      "title": "[skills] fix Concise Reports README row",
-      "count": 1,
-      "sha": "62c9b0d",
-      "url": "https://github.com/protomota/skills/commit/62c9b0dbfafce5c6f60d1cb6b90bc455057d014b"
-    },
-    {
       "id": "28264879989",
       "repo": "skills",
       "repoUrl": "https://github.com/protomota/skills",
@@ -357,6 +345,18 @@
       "count": 1,
       "sha": "f36b5ea",
       "url": "https://github.com/protomota/skills/commit/f36b5ea3bdb4606f7bd8350840ac43c3b082a6e8"
+    },
+    {
+      "id": "28212688053",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-24T13:48:20Z",
+      "kind": "ship",
+      "title": "[agent-council] use the strongest available seats at high effort",
+      "count": 1,
+      "sha": "8b753e8",
+      "url": "https://github.com/protomota/skills/commit/8b753e86ac005521a6ef3a73d19e66d24b098705"
     }
   ]
 }
