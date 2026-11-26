@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T02:31:44.602Z",
+  "generated": "2026-11-26T02:40:38.551Z",
   "user": "protomota",
   "items": [
     {
@@ -167,6 +167,18 @@
       "count": 1,
       "sha": "ed589ce",
       "url": "https://github.com/protomota/braddunlap-info/commit/ed589ce24603316075e7d5574d0bfc6131ecbcb4"
+    },
+    {
+      "id": "28281137241",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-24T22:15:24Z",
+      "kind": "ship",
+      "title": "Fix Cloudflare preview parity for braddunlap-info",
+      "count": 1,
+      "sha": "4006a1b",
+      "url": "https://github.com/protomota/braddunlap-info/commit/4006a1b849116b364ad90339bdae36f32a01809e"
     },
     {
       "id": "28280504517",
@@ -345,18 +357,6 @@
       "count": 1,
       "sha": "a396466",
       "url": "https://github.com/protomota/jotley/commit/a3964664e363424cfd5e6102a682dff47afd9244"
-    },
-    {
-      "id": "28205120696",
-      "repo": "jotley",
-      "repoUrl": "https://github.com/protomota/jotley",
-      "site": "jotley.ai",
-      "at": "2026-11-24T16:41:56Z",
-      "kind": "ship",
-      "title": "[jotley] hide the sidebar toggle in setup and match the icon violet",
-      "count": 1,
-      "sha": "fa9c9aa",
-      "url": "https://github.com/protomota/jotley/commit/fa9c9aa29a3b4f508188aef70f395921103fced0"
     }
   ]
 }
