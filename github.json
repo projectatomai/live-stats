@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-26T23:54:59.145Z",
+  "generated": "2026-11-27T00:35:40.352Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "28368084957",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-26T15:23:38Z",
+      "kind": "ship",
+      "title": "[graphley-site] say we're hosted on Cloudflare: privacy hosting section and footer link",
+      "count": 1,
+      "sha": "ae6dd67",
+      "url": "https://github.com/protomota/graphley-site/commit/ae6dd6763720a808b0706aef26f2e1f55f643f65"
+    },
     {
       "id": "28361029134",
       "repo": "bucksley-site",
@@ -296,18 +308,6 @@
       "count": 1,
       "sha": "59086b6",
       "url": "https://github.com/protomota/graphley-site/commit/59086b6f4833b3d3b28cc53f42683edb6e902c33"
-    },
-    {
-      "id": "28267696925",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-25T02:12:32Z",
-      "kind": "ship",
-      "title": "[site] shorter Graphley card copy to match Textley",
-      "count": 1,
-      "sha": "4761aa5",
-      "url": "https://github.com/protomota/braddunlap-info/commit/4761aa50fa5a84cb7673cb2bbf88aa3c918dfa17"
     },
     {
       "id": "28300638730",
