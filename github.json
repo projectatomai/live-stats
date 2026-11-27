@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T04:54:57.909Z",
+  "generated": "2026-11-27T06:25:03.773Z",
   "user": "protomota",
   "items": [
     {
@@ -322,18 +322,6 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/a759e76e1e7d836ff3eaf4ff8ebbcd9b2b6bdf56"
     },
     {
-      "id": "28289773554",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-25T01:35:29Z",
-      "kind": "ship",
-      "title": "[braddunlap-info] Mac apps read Mac app available, one-line Glimmer description in More from Protomota",
-      "count": 1,
-      "sha": "384b7fa",
-      "url": "https://github.com/protomota/braddunlap-info/commit/384b7faf9b2797bc31fcc1b78f9ecb9a97b7fd30"
-    },
-    {
       "id": "28291339515",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -356,6 +344,18 @@
       "count": 1,
       "sha": "1596539",
       "url": "https://github.com/protomota/graphley-site/commit/1596539f38eb0b7a9fbe099d8738965b6eabcf77"
+    },
+    {
+      "id": "28294870012",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-24T23:51:05Z",
+      "kind": "ship",
+      "title": "[graphley-site] release Mac 0.1.5 (7)",
+      "count": 1,
+      "sha": "669627d",
+      "url": "https://github.com/protomota/graphley-site/commit/669627db9f05a3e5781103555efe62dc831d197b"
     }
   ]
 }
