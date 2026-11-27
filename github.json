@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T01:42:32.226Z",
+  "generated": "2026-11-27T01:55:05.552Z",
   "user": "protomota",
   "items": [
     {
@@ -141,6 +141,18 @@
       "count": 1,
       "sha": "cf5bc46",
       "url": "https://github.com/protomota/graphley-site/commit/cf5bc46e42c31fa2a544ea395c6a1bc2db8e0b1a"
+    },
+    {
+      "id": "28375045828",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-25T13:45:28Z",
+      "kind": "ship",
+      "title": "[site] use the Lab flask icon as the community avatar",
+      "count": 1,
+      "sha": "e6d2041",
+      "url": "https://github.com/protomota/braddunlap-info/commit/e6d204113c6376edc2f9494020fd9a99241b44ef"
     },
     {
       "id": "28296756994",
@@ -344,18 +356,6 @@
       "count": 1,
       "sha": "dcfe6f3",
       "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
-    },
-    {
-      "id": "28293752786",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-25T00:25:22Z",
-      "kind": "ship",
-      "title": "Cache-bust the icon, favicon and social card (#4)",
-      "count": 1,
-      "sha": "1596539",
-      "url": "https://github.com/protomota/graphley-site/commit/1596539f38eb0b7a9fbe099d8738965b6eabcf77"
     }
   ]
 }
