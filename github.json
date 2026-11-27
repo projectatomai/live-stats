@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T10:26:16.527Z",
+  "generated": "2026-11-27T10:40:16.629Z",
   "user": "protomota",
   "items": [
     {
@@ -106,6 +106,18 @@
       "title": "Textley 1.1.7",
       "tag": "v1.1.7",
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.7"
+    },
+    {
+      "id": "28411012987",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-26T01:37:12Z",
+      "kind": "ship",
+      "title": "[braddunlap-info] use the OpenTalon Daybreak icon",
+      "count": 1,
+      "sha": "e4598e1",
+      "url": "https://github.com/protomota/braddunlap-info/commit/e4598e13f2fc5993d55af85492cf8a746899c381"
     },
     {
       "id": "28387685597",
@@ -227,6 +239,18 @@
       "url": "https://github.com/protomota/protomota/commit/f3e8b51a5c1d03afaef0fb3653f9791fa28ba9fa"
     },
     {
+      "id": "28410616986",
+      "repo": "bucksley-site",
+      "repoUrl": "https://github.com/protomota/bucksley-site",
+      "site": null,
+      "at": "2026-11-25T18:40:53Z",
+      "kind": "ship",
+      "title": "[bucksley-site] turn on GA4 and add the Search Console verification tag",
+      "count": 1,
+      "sha": "955506f",
+      "url": "https://github.com/protomota/bucksley-site/commit/955506fd0940e7b28f4b8858c33be7d806678144"
+    },
+    {
       "id": "28406168139",
       "repo": "jotley",
       "repoUrl": "https://github.com/protomota/jotley",
@@ -332,29 +356,6 @@
       "count": 1,
       "sha": "a759e76",
       "url": "https://github.com/protomota/braddunlap-info/commit/a759e76e1e7d836ff3eaf4ff8ebbcd9b2b6bdf56"
-    },
-    {
-      "id": "21185168356",
-      "repo": "textley",
-      "repoUrl": "https://github.com/protomota/textley",
-      "site": "textley.ai",
-      "at": "2026-11-24T21:35:35Z",
-      "kind": "release",
-      "title": "Textley 1.1.4",
-      "tag": "v1.1.4",
-      "url": "https://github.com/protomota/textley/releases/tag/v1.1.4"
-    },
-    {
-      "id": "28332869090",
-      "repo": "skills",
-      "repoUrl": "https://github.com/protomota/skills",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-24T19:46:49Z",
-      "kind": "ship",
-      "title": "[skills] concise-reports: the ask is always the very last sentence",
-      "count": 1,
-      "sha": "63cc953",
-      "url": "https://github.com/protomota/skills/commit/63cc95389684bfa3315e38d9af6ebc295c1fb32e"
     }
   ]
 }
