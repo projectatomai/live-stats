@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T08:20:16.570Z",
+  "generated": "2026-11-27T09:28:01.370Z",
   "user": "protomota",
   "items": [
     {
@@ -94,6 +94,18 @@
       "count": 1,
       "sha": "2a81a45",
       "url": "https://github.com/protomota/bucksley-site/commit/2a81a4579759adb2626d1248b43ada0ba341cce5"
+    },
+    {
+      "id": "28405705727",
+      "repo": "bucksley-site",
+      "repoUrl": "https://github.com/protomota/bucksley-site",
+      "site": null,
+      "at": "2026-11-25T23:50:47Z",
+      "kind": "ship",
+      "title": "[bucksley-site] release Mac 0.1.4 (6)",
+      "count": 1,
+      "sha": "a5132e9",
+      "url": "https://github.com/protomota/bucksley-site/commit/a5132e9fb1fe92be863d1bd7c61bfb35494b97ec"
     },
     {
       "id": "28398196486",
@@ -191,6 +203,18 @@
       "url": "https://github.com/protomota/protomota/commit/f3e8b51a5c1d03afaef0fb3653f9791fa28ba9fa"
     },
     {
+      "id": "28406168139",
+      "repo": "jotley",
+      "repoUrl": "https://github.com/protomota/jotley",
+      "site": "jotley.ai",
+      "at": "2026-11-25T16:34:23Z",
+      "kind": "ship",
+      "title": "[jotley] add Post Idea to Inkspring to the note More menu when Inkspring is installed",
+      "count": 1,
+      "sha": "51a4f64",
+      "url": "https://github.com/protomota/jotley/commit/51a4f64dae72ceb05d8c48266e2beb647aaa9b41"
+    },
+    {
       "id": "28351510168",
       "repo": "inkspring",
       "repoUrl": "https://github.com/protomota/inkspring",
@@ -251,18 +275,6 @@
       "url": "https://github.com/protomota/jotley/commit/d289f3fb69200ef8e76735116722fbbbb3a6d4e6"
     },
     {
-      "id": "28302941481",
-      "repo": "pulsecanvas",
-      "repoUrl": "https://github.com/protomota/pulsecanvas",
-      "site": "pulsecanvas.ai",
-      "at": "2026-11-25T03:49:08Z",
-      "kind": "ship",
-      "title": "[pulsecanvas] add test-only offscreen render of Mac support rows and card",
-      "count": 1,
-      "sha": "69164ec",
-      "url": "https://github.com/protomota/pulsecanvas/commit/69164ecea6517bade35af44fc80f0eaa533e7b33"
-    },
-    {
       "id": "21213939901",
       "repo": "textley",
       "repoUrl": "https://github.com/protomota/textley",
@@ -308,18 +320,6 @@
       "count": 1,
       "sha": "f3f31a7",
       "url": "https://github.com/protomota/voxley/commit/f3f31a7a0ad4238a35e43a9bdebfd42f2d6f84ff"
-    },
-    {
-      "id": "28300638730",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-25T02:04:31Z",
-      "kind": "ship",
-      "title": "[site] drop coming soon from the hero badge and download page",
-      "count": 1,
-      "sha": "426e735",
-      "url": "https://github.com/protomota/graphley-site/commit/426e735241a1802eb07de790e43439c2caaa93d5"
     },
     {
       "id": "28370527433",
