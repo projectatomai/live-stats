@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T01:55:05.552Z",
+  "generated": "2026-11-27T02:20:37.726Z",
   "user": "protomota",
   "items": [
     {
@@ -239,18 +239,6 @@
       "url": "https://github.com/protomota/pulsecanvas/commit/69164ecea6517bade35af44fc80f0eaa533e7b33"
     },
     {
-      "id": "28272112999",
-      "repo": "pulsecanvas",
-      "repoUrl": "https://github.com/protomota/pulsecanvas",
-      "site": "pulsecanvas.ai",
-      "at": "2026-11-25T03:34:42Z",
-      "kind": "ship",
-      "title": "[pulsecanvas] standard support and rating set with weekly reminder card",
-      "count": 1,
-      "sha": "df9d764",
-      "url": "https://github.com/protomota/pulsecanvas/commit/df9d76473ee02cfedd0f95fd52827adf6f1410c5"
-    },
-    {
       "id": "21213939901",
       "repo": "textley",
       "repoUrl": "https://github.com/protomota/textley",
@@ -356,6 +344,18 @@
       "count": 1,
       "sha": "dcfe6f3",
       "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
+    },
+    {
+      "id": "28293752786",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T00:25:22Z",
+      "kind": "ship",
+      "title": "Cache-bust the icon, favicon and social card (#4)",
+      "count": 1,
+      "sha": "1596539",
+      "url": "https://github.com/protomota/graphley-site/commit/1596539f38eb0b7a9fbe099d8738965b6eabcf77"
     }
   ]
 }
