@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T06:46:46.176Z",
+  "generated": "2026-11-27T06:55:53.439Z",
   "user": "protomota",
   "items": [
     {
@@ -191,18 +191,6 @@
       "url": "https://github.com/protomota/graphley-site/commit/e165201ac0822565c701b300b60d46516e0ce3c7"
     },
     {
-      "id": "28293814019",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-25T07:24:20Z",
-      "kind": "ship",
-      "title": "[site] rename the community to the Lab (lab.protomota.com, Join the Lab)",
-      "count": 1,
-      "sha": "915938c",
-      "url": "https://github.com/protomota/braddunlap-info/commit/915938c4b36090236f4b88ae49dd479b560d74f2"
-    },
-    {
       "id": "28309202663",
       "repo": "graphley-site",
       "repoUrl": "https://github.com/protomota/graphley-site",
@@ -354,6 +342,17 @@
       "title": "Textley 1.1.3",
       "tag": "v1.1.3",
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.3"
+    },
+    {
+      "id": "20196618579",
+      "repo": "textley",
+      "repoUrl": "https://github.com/protomota/textley",
+      "site": "textley.ai",
+      "at": "2026-11-15T18:42:16Z",
+      "kind": "release",
+      "title": "Textley 1.1.2",
+      "tag": "v1.1.2",
+      "url": "https://github.com/protomota/textley/releases/tag/v1.1.2"
     }
   ]
 }
