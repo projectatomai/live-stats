@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T12:56:02.002Z",
+  "generated": "2026-11-27T13:15:32.040Z",
   "user": "protomota",
   "items": [
     {
@@ -106,6 +106,18 @@
       "title": "Textley 1.1.7",
       "tag": "v1.1.7",
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.7"
+    },
+    {
+      "id": "28420256872",
+      "repo": "bucksley-site",
+      "repoUrl": "https://github.com/protomota/bucksley-site",
+      "site": null,
+      "at": "2026-11-26T02:44:07Z",
+      "kind": "ship",
+      "title": "[bucksley-site] release Mac 0.1.7 (8)",
+      "count": 1,
+      "sha": "6b5750f",
+      "url": "https://github.com/protomota/bucksley-site/commit/6b5750f2fcdd5a2cc980f5d4055a8369210bec6e"
     },
     {
       "id": "28419847628",
@@ -344,17 +356,6 @@
       "count": 1,
       "sha": "a759e76",
       "url": "https://github.com/protomota/braddunlap-info/commit/a759e76e1e7d836ff3eaf4ff8ebbcd9b2b6bdf56"
-    },
-    {
-      "id": "21185168356",
-      "repo": "textley",
-      "repoUrl": "https://github.com/protomota/textley",
-      "site": "textley.ai",
-      "at": "2026-11-24T21:35:35Z",
-      "kind": "release",
-      "title": "Textley 1.1.4",
-      "tag": "v1.1.4",
-      "url": "https://github.com/protomota/textley/releases/tag/v1.1.4"
     }
   ]
 }
