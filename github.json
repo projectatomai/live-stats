@@ -1,7 +1,18 @@
 {
-  "generated": "2026-11-27T13:55:46.219Z",
+  "generated": "2026-11-27T14:55:34.246Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "21500713163",
+      "repo": "textley",
+      "repoUrl": "https://github.com/protomota/textley",
+      "site": "textley.ai",
+      "at": "2026-11-27T14:44:53Z",
+      "kind": "release",
+      "title": "Textley 1.1.10",
+      "tag": "v1.1.10",
+      "url": "https://github.com/protomota/textley/releases/tag/v1.1.10"
+    },
     {
       "id": "28409737769",
       "repo": "braddunlap-info",
@@ -345,17 +356,6 @@
       "count": 1,
       "sha": "e6d2041",
       "url": "https://github.com/protomota/braddunlap-info/commit/e6d204113c6376edc2f9494020fd9a99241b44ef"
-    },
-    {
-      "id": "21213939901",
-      "repo": "textley",
-      "repoUrl": "https://github.com/protomota/textley",
-      "site": "textley.ai",
-      "at": "2026-11-25T03:33:16Z",
-      "kind": "release",
-      "title": "Textley 1.1.5",
-      "tag": "v1.1.5",
-      "url": "https://github.com/protomota/textley/releases/tag/v1.1.5"
     }
   ]
 }
