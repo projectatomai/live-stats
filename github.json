@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T00:35:40.352Z",
+  "generated": "2026-11-27T00:52:56.099Z",
   "user": "protomota",
   "items": [
     {
@@ -322,6 +322,18 @@
       "url": "https://github.com/protomota/graphley-site/commit/426e735241a1802eb07de790e43439c2caaa93d5"
     },
     {
+      "id": "28370527433",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-25T02:03:00Z",
+      "kind": "ship",
+      "title": "Route Cloudflare portfolio leads directly to the Protomota Worker",
+      "count": 1,
+      "sha": "a759e76",
+      "url": "https://github.com/protomota/braddunlap-info/commit/a759e76e1e7d836ff3eaf4ff8ebbcd9b2b6bdf56"
+    },
+    {
       "id": "28289773554",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -344,18 +356,6 @@
       "count": 1,
       "sha": "48e9f0f",
       "url": "https://github.com/protomota/braddunlap-info/commit/48e9f0f2e9f1fcbd98f6b306532a82385a3346d4"
-    },
-    {
-      "id": "28283657621",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-25T00:33:26Z",
-      "kind": "ship",
-      "title": "Handle the inbound lead credential transition in the email worker",
-      "count": 1,
-      "sha": "dcfe6f3",
-      "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
     }
   ]
 }
