@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T02:20:37.726Z",
+  "generated": "2026-11-27T02:32:02.161Z",
   "user": "protomota",
   "items": [
     {
@@ -215,18 +215,6 @@
       "url": "https://github.com/protomota/jotley/commit/d289f3fb69200ef8e76735116722fbbbb3a6d4e6"
     },
     {
-      "id": "28273713242",
-      "repo": "jotley",
-      "repoUrl": "https://github.com/protomota/jotley",
-      "site": "jotley.ai",
-      "at": "2026-11-25T03:52:49Z",
-      "kind": "ship",
-      "title": "[jotley] add a debug hook that opens the support card for screenshots",
-      "count": 2,
-      "sha": "0a83e7f",
-      "url": "https://github.com/protomota/jotley/commit/0a83e7f6d301b0e7b570a58beaea6be3e658ef3c"
-    },
-    {
       "id": "28302941481",
       "repo": "pulsecanvas",
       "repoUrl": "https://github.com/protomota/pulsecanvas",
@@ -356,6 +344,18 @@
       "count": 1,
       "sha": "1596539",
       "url": "https://github.com/protomota/graphley-site/commit/1596539f38eb0b7a9fbe099d8738965b6eabcf77"
+    },
+    {
+      "id": "28294870012",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-24T23:51:05Z",
+      "kind": "ship",
+      "title": "[graphley-site] release Mac 0.1.5 (7)",
+      "count": 1,
+      "sha": "669627d",
+      "url": "https://github.com/protomota/graphley-site/commit/669627db9f05a3e5781103555efe62dc831d197b"
     }
   ]
 }
