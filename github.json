@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T00:52:56.099Z",
+  "generated": "2026-11-27T01:42:32.226Z",
   "user": "protomota",
   "items": [
     {
@@ -105,18 +105,6 @@
       "title": "Textley 1.1.6",
       "tag": "v1.1.6",
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.6"
-    },
-    {
-      "id": "28270503623",
-      "repo": "skills",
-      "repoUrl": "https://github.com/protomota/skills",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-25T23:00:45Z",
-      "kind": "ship",
-      "title": "[skills] add bucksley-mcp",
-      "count": 1,
-      "sha": "b177744",
-      "url": "https://github.com/protomota/skills/commit/b17774405939f49844fd5e4d7e2a6274dceac4f8"
     },
     {
       "id": "28357777711",
@@ -298,18 +286,6 @@
       "url": "https://github.com/protomota/voxley/commit/f3f31a7a0ad4238a35e43a9bdebfd42f2d6f84ff"
     },
     {
-      "id": "28270751601",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-25T02:42:43Z",
-      "kind": "ship",
-      "title": "[graphley-site] release Mac 0.1.6 (8)",
-      "count": 1,
-      "sha": "59086b6",
-      "url": "https://github.com/protomota/graphley-site/commit/59086b6f4833b3d3b28cc53f42683edb6e902c33"
-    },
-    {
       "id": "28300638730",
       "repo": "graphley-site",
       "repoUrl": "https://github.com/protomota/graphley-site",
@@ -356,6 +332,30 @@
       "count": 1,
       "sha": "48e9f0f",
       "url": "https://github.com/protomota/braddunlap-info/commit/48e9f0f2e9f1fcbd98f6b306532a82385a3346d4"
+    },
+    {
+      "id": "28283657621",
+      "repo": "braddunlap-info",
+      "repoUrl": "https://github.com/protomota/braddunlap-info",
+      "site": "www.braddunlap.info",
+      "at": "2026-11-25T00:33:26Z",
+      "kind": "ship",
+      "title": "Handle the inbound lead credential transition in the email worker",
+      "count": 1,
+      "sha": "dcfe6f3",
+      "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
+    },
+    {
+      "id": "28293752786",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T00:25:22Z",
+      "kind": "ship",
+      "title": "Cache-bust the icon, favicon and social card (#4)",
+      "count": 1,
+      "sha": "1596539",
+      "url": "https://github.com/protomota/graphley-site/commit/1596539f38eb0b7a9fbe099d8738965b6eabcf77"
     }
   ]
 }
