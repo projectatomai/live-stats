@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T11:39:51.574Z",
+  "generated": "2026-11-27T12:34:57.530Z",
   "user": "protomota",
   "items": [
     {
@@ -322,18 +322,6 @@
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.5"
     },
     {
-      "id": "28313031540",
-      "repo": "voxley",
-      "repoUrl": "https://github.com/protomota/voxley",
-      "site": "voxley.si",
-      "at": "2026-11-25T03:23:13Z",
-      "kind": "ship",
-      "title": "[voxley] follow Inkspring's weekly support reminder for 1.0.15",
-      "count": 1,
-      "sha": "5c276c9",
-      "url": "https://github.com/protomota/voxley/commit/5c276c93df0c0ccca23206582375b60ab7eb1713"
-    },
-    {
       "id": "28370527433",
       "repo": "braddunlap-info",
       "repoUrl": "https://github.com/protomota/braddunlap-info",
@@ -355,6 +343,18 @@
       "title": "Textley 1.1.4",
       "tag": "v1.1.4",
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.4"
+    },
+    {
+      "id": "28332869090",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-24T19:46:49Z",
+      "kind": "ship",
+      "title": "[skills] concise-reports: the ask is always the very last sentence",
+      "count": 1,
+      "sha": "63cc953",
+      "url": "https://github.com/protomota/skills/commit/63cc95389684bfa3315e38d9af6ebc295c1fb32e"
     }
   ]
 }
