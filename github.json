@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T04:40:05.616Z",
+  "generated": "2026-11-27T04:54:57.909Z",
   "user": "protomota",
   "items": [
     {
@@ -94,6 +94,18 @@
       "count": 1,
       "sha": "982cac4",
       "url": "https://github.com/protomota/bucksley-site/commit/982cac4cdcf0431be02070a7e52987c1ed0faa3f"
+    },
+    {
+      "id": "28387685597",
+      "repo": "bucksley-site",
+      "repoUrl": "https://github.com/protomota/bucksley-site",
+      "site": null,
+      "at": "2026-11-26T01:17:15Z",
+      "kind": "ship",
+      "title": "[bucksley-site] release Mac 0.1.5 (7)",
+      "count": 1,
+      "sha": "2a81a45",
+      "url": "https://github.com/protomota/bucksley-site/commit/2a81a4579759adb2626d1248b43ada0ba341cce5"
     },
     {
       "id": "21320510741",
@@ -332,18 +344,6 @@
       "count": 1,
       "sha": "48e9f0f",
       "url": "https://github.com/protomota/braddunlap-info/commit/48e9f0f2e9f1fcbd98f6b306532a82385a3346d4"
-    },
-    {
-      "id": "28283657621",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-25T00:33:26Z",
-      "kind": "ship",
-      "title": "Handle the inbound lead credential transition in the email worker",
-      "count": 1,
-      "sha": "dcfe6f3",
-      "url": "https://github.com/protomota/braddunlap-info/commit/dcfe6f364e5c31b817b6ab89856597d5f1cec2b8"
     },
     {
       "id": "28293752786",
