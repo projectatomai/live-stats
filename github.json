@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T02:32:02.161Z",
+  "generated": "2026-11-27T03:40:16.335Z",
   "user": "protomota",
   "items": [
     {
@@ -105,6 +105,18 @@
       "title": "Textley 1.1.6",
       "tag": "v1.1.6",
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.6"
+    },
+    {
+      "id": "28382319400",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-25T20:27:49Z",
+      "kind": "ship",
+      "title": "Update Brad's LinkedIn URL to linkedin.com/in/brad--dunlap",
+      "count": 1,
+      "sha": "06b9293",
+      "url": "https://github.com/protomota/graphley-site/commit/06b9293244b41f392c10364d14e3b17c73773922"
     },
     {
       "id": "28357777711",
@@ -344,18 +356,6 @@
       "count": 1,
       "sha": "1596539",
       "url": "https://github.com/protomota/graphley-site/commit/1596539f38eb0b7a9fbe099d8738965b6eabcf77"
-    },
-    {
-      "id": "28294870012",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-24T23:51:05Z",
-      "kind": "ship",
-      "title": "[graphley-site] release Mac 0.1.5 (7)",
-      "count": 1,
-      "sha": "669627d",
-      "url": "https://github.com/protomota/graphley-site/commit/669627db9f05a3e5781103555efe62dc831d197b"
     }
   ]
 }
