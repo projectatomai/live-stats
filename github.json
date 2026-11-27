@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T06:25:03.773Z",
+  "generated": "2026-11-27T06:46:46.176Z",
   "user": "protomota",
   "items": [
     {
@@ -82,18 +82,6 @@
       "title": "Textley 1.1.7",
       "tag": "v1.1.7",
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.7"
-    },
-    {
-      "id": "28291284967",
-      "repo": "bucksley-site",
-      "repoUrl": "https://github.com/protomota/bucksley-site",
-      "site": null,
-      "at": "2026-11-26T03:07:48Z",
-      "kind": "ship",
-      "title": "[bucksley-site] release Mac 0.1.8 (9)",
-      "count": 1,
-      "sha": "982cac4",
-      "url": "https://github.com/protomota/bucksley-site/commit/982cac4cdcf0431be02070a7e52987c1ed0faa3f"
     },
     {
       "id": "28387685597",
@@ -322,30 +310,6 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/a759e76e1e7d836ff3eaf4ff8ebbcd9b2b6bdf56"
     },
     {
-      "id": "28291339515",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-25T01:33:48Z",
-      "kind": "ship",
-      "title": "[braddunlap-info] one arrow per entry in More from Protomota, kept with its last word",
-      "count": 1,
-      "sha": "48e9f0f",
-      "url": "https://github.com/protomota/braddunlap-info/commit/48e9f0f2e9f1fcbd98f6b306532a82385a3346d4"
-    },
-    {
-      "id": "28293752786",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-25T00:25:22Z",
-      "kind": "ship",
-      "title": "Cache-bust the icon, favicon and social card (#4)",
-      "count": 1,
-      "sha": "1596539",
-      "url": "https://github.com/protomota/graphley-site/commit/1596539f38eb0b7a9fbe099d8738965b6eabcf77"
-    },
-    {
       "id": "28294870012",
       "repo": "graphley-site",
       "repoUrl": "https://github.com/protomota/graphley-site",
@@ -356,6 +320,40 @@
       "count": 1,
       "sha": "669627d",
       "url": "https://github.com/protomota/graphley-site/commit/669627db9f05a3e5781103555efe62dc831d197b"
+    },
+    {
+      "id": "21185168356",
+      "repo": "textley",
+      "repoUrl": "https://github.com/protomota/textley",
+      "site": "textley.ai",
+      "at": "2026-11-24T21:35:35Z",
+      "kind": "release",
+      "title": "Textley 1.1.4",
+      "tag": "v1.1.4",
+      "url": "https://github.com/protomota/textley/releases/tag/v1.1.4"
+    },
+    {
+      "id": "28332869090",
+      "repo": "skills",
+      "repoUrl": "https://github.com/protomota/skills",
+      "site": "protomota.com/mcp",
+      "at": "2026-11-24T19:46:49Z",
+      "kind": "ship",
+      "title": "[skills] concise-reports: the ask is always the very last sentence",
+      "count": 1,
+      "sha": "63cc953",
+      "url": "https://github.com/protomota/skills/commit/63cc95389684bfa3315e38d9af6ebc295c1fb32e"
+    },
+    {
+      "id": "21173553181",
+      "repo": "textley",
+      "repoUrl": "https://github.com/protomota/textley",
+      "site": "textley.ai",
+      "at": "2026-11-24T19:40:06Z",
+      "kind": "release",
+      "title": "Textley 1.1.3",
+      "tag": "v1.1.3",
+      "url": "https://github.com/protomota/textley/releases/tag/v1.1.3"
     }
   ]
 }
