@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T12:34:57.530Z",
+  "generated": "2026-11-27T12:56:02.002Z",
   "user": "protomota",
   "items": [
     {
@@ -106,6 +106,18 @@
       "title": "Textley 1.1.7",
       "tag": "v1.1.7",
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.7"
+    },
+    {
+      "id": "28419847628",
+      "repo": "bucksley-site",
+      "repoUrl": "https://github.com/protomota/bucksley-site",
+      "site": null,
+      "at": "2026-11-26T02:38:33Z",
+      "kind": "ship",
+      "title": "[bucksley-site] build the site on the system Python 3.9 so releases can stage",
+      "count": 1,
+      "sha": "5c63ffc",
+      "url": "https://github.com/protomota/bucksley-site/commit/5c63ffc4101655a4a79208941a2fcca2ea286fd9"
     },
     {
       "id": "28411012987",
@@ -343,18 +355,6 @@
       "title": "Textley 1.1.4",
       "tag": "v1.1.4",
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.4"
-    },
-    {
-      "id": "28332869090",
-      "repo": "skills",
-      "repoUrl": "https://github.com/protomota/skills",
-      "site": "protomota.com/mcp",
-      "at": "2026-11-24T19:46:49Z",
-      "kind": "ship",
-      "title": "[skills] concise-reports: the ask is always the very last sentence",
-      "count": 1,
-      "sha": "63cc953",
-      "url": "https://github.com/protomota/skills/commit/63cc95389684bfa3315e38d9af6ebc295c1fb32e"
     }
   ]
 }
