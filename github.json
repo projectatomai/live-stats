@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T13:15:32.040Z",
+  "generated": "2026-11-27T13:55:46.219Z",
   "user": "protomota",
   "items": [
     {
@@ -287,6 +287,18 @@
       "url": "https://github.com/protomota/bucksley-site/commit/955506fd0940e7b28f4b8858c33be7d806678144"
     },
     {
+      "id": "28423532472",
+      "repo": "bucksley-site",
+      "repoUrl": "https://github.com/protomota/bucksley-site",
+      "site": null,
+      "at": "2026-11-25T18:35:20Z",
+      "kind": "ship",
+      "title": "[bucksley-site] release Mac 0.1.0 (2)",
+      "count": 1,
+      "sha": "31c3526",
+      "url": "https://github.com/protomota/bucksley-site/commit/31c3526244e3585cf8ccb966800892fe5ee0a78a"
+    },
+    {
       "id": "28406168139",
       "repo": "jotley",
       "repoUrl": "https://github.com/protomota/jotley",
@@ -344,18 +356,6 @@
       "title": "Textley 1.1.5",
       "tag": "v1.1.5",
       "url": "https://github.com/protomota/textley/releases/tag/v1.1.5"
-    },
-    {
-      "id": "28370527433",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-25T02:03:00Z",
-      "kind": "ship",
-      "title": "Route Cloudflare portfolio leads directly to the Protomota Worker",
-      "count": 1,
-      "sha": "a759e76",
-      "url": "https://github.com/protomota/braddunlap-info/commit/a759e76e1e7d836ff3eaf4ff8ebbcd9b2b6bdf56"
     }
   ]
 }
