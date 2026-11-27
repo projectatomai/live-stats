@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-27T09:28:01.370Z",
+  "generated": "2026-11-27T10:16:09.218Z",
   "user": "protomota",
   "items": [
+    {
+      "id": "28409018467",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-26T21:43:20Z",
+      "kind": "ship",
+      "title": "Add Bucksley to the More from Protomota footer",
+      "count": 1,
+      "sha": "c6981b2",
+      "url": "https://github.com/protomota/graphley-site/commit/c6981b2296c2ac4a08fec6a5e2d25989e9be7ff3"
+    },
     {
       "id": "28368084957",
       "repo": "graphley-site",
@@ -296,18 +308,6 @@
       "count": 1,
       "sha": "5c276c9",
       "url": "https://github.com/protomota/voxley/commit/5c276c93df0c0ccca23206582375b60ab7eb1713"
-    },
-    {
-      "id": "28306744009",
-      "repo": "braddunlap-info",
-      "repoUrl": "https://github.com/protomota/braddunlap-info",
-      "site": "www.braddunlap.info",
-      "at": "2026-11-25T03:13:01Z",
-      "kind": "ship",
-      "title": "[braddunlap-info] always show an edge and shadow or glow on every app icon",
-      "count": 1,
-      "sha": "85a017e",
-      "url": "https://github.com/protomota/braddunlap-info/commit/85a017efc12e0e5872d9f75c0278a6d5242d3f0a"
     },
     {
       "id": "28307019252",
