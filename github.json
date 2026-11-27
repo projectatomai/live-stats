@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T10:40:16.629Z",
+  "generated": "2026-11-27T11:25:56.569Z",
   "user": "protomota",
   "items": [
     {
@@ -299,18 +299,6 @@
       "url": "https://github.com/protomota/braddunlap-info/commit/e6d204113c6376edc2f9494020fd9a99241b44ef"
     },
     {
-      "id": "28309202663",
-      "repo": "graphley-site",
-      "repoUrl": "https://github.com/protomota/graphley-site",
-      "site": "graphley.vercel.app",
-      "at": "2026-11-25T05:09:58Z",
-      "kind": "ship",
-      "title": "[graphley-site] release Mac 0.1.7 (9)",
-      "count": 1,
-      "sha": "b1ab4ad",
-      "url": "https://github.com/protomota/graphley-site/commit/b1ab4adb3b401b98efcb205f91952a1d191299b4"
-    },
-    {
       "id": "28310618540",
       "repo": "jotley",
       "repoUrl": "https://github.com/protomota/jotley",
@@ -356,6 +344,17 @@
       "count": 1,
       "sha": "a759e76",
       "url": "https://github.com/protomota/braddunlap-info/commit/a759e76e1e7d836ff3eaf4ff8ebbcd9b2b6bdf56"
+    },
+    {
+      "id": "21185168356",
+      "repo": "textley",
+      "repoUrl": "https://github.com/protomota/textley",
+      "site": "textley.ai",
+      "at": "2026-11-24T21:35:35Z",
+      "kind": "release",
+      "title": "Textley 1.1.4",
+      "tag": "v1.1.4",
+      "url": "https://github.com/protomota/textley/releases/tag/v1.1.4"
     }
   ]
 }
