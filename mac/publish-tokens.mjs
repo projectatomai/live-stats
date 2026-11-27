@@ -205,20 +205,6 @@ async function main() {
   console.error(`Claude files ${claudeFiles}, Codex files ${codexFiles}, ${list.length} days, ${total.toLocaleString()} tokens`);
   if (!list.length) throw new Error('No usage found; not publishing.');
 
-  // Fill days the logs and exports don't cover with the modelled totals in
-  // mac/estimated-days.json: any past day before Oct 2026 that falls short of
-  // the model, and any later past day under 250M. Those days carry e: 1.
-  const model = JSON.parse(await readFile(join(REPO, 'mac', 'estimated-days.json'), 'utf8')).days;
-  const byDay = new Map(list.map((r) => [r.d, r]));
-  const today = dayOf(Date.now());
-  for (const [d, t] of Object.entries(model)) {
-    if (d >= today || !t) continue; // t = 0 marks an off day: leave it as logged
-    const row = byDay.get(d);
-    if (row && (row.t >= t || (d >= '2026-10-01' && row.t >= 250e6))) continue;
-    byDay.set(d, { ...(row || { d, c: 0, x: 0, a: 0 }), t, e: 1 });
-  }
-  list.splice(0, list.length, ...[...byDay.values()].sort((a, b) => (a.d < b.d ? -1 : 1)));
-
   let prev = null;
   try {
     prev = JSON.parse(await readFile(OUT, 'utf8'));
@@ -226,7 +212,8 @@ async function main() {
   // Past days only ever grow. Logs get pruned, and the hourly job can't read
   // the Expand drive, so keep each day's highest published count.
   if (prev?.days) {
-    const keep = new Map(prev.days.map((r) => [r.d, r]));
+    // Real counts only: drop any old modelled (e: 1) rows before merging.
+    const keep = new Map(prev.days.filter((r) => !r.e).map((r) => [r.d, r]));
     for (const r of list) {
       const old = keep.get(r.d);
       if (!old || r.t >= old.t) keep.set(r.d, r);
