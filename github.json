@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T11:25:56.569Z",
+  "generated": "2026-11-27T11:39:51.574Z",
   "user": "protomota",
   "items": [
     {
@@ -118,6 +118,18 @@
       "count": 1,
       "sha": "e4598e1",
       "url": "https://github.com/protomota/braddunlap-info/commit/e4598e13f2fc5993d55af85492cf8a746899c381"
+    },
+    {
+      "id": "28414624154",
+      "repo": "graphley-site",
+      "repoUrl": "https://github.com/protomota/graphley-site",
+      "site": "graphley.vercel.app",
+      "at": "2026-11-26T01:37:12Z",
+      "kind": "ship",
+      "title": "[graphley-site] use the OpenTalon Daybreak icon in More from Protomota",
+      "count": 1,
+      "sha": "475c9ff",
+      "url": "https://github.com/protomota/graphley-site/commit/475c9ff8fd0290285f6e8e6cfa95ee401956d600"
     },
     {
       "id": "28387685597",
@@ -297,18 +309,6 @@
       "count": 1,
       "sha": "e6d2041",
       "url": "https://github.com/protomota/braddunlap-info/commit/e6d204113c6376edc2f9494020fd9a99241b44ef"
-    },
-    {
-      "id": "28310618540",
-      "repo": "jotley",
-      "repoUrl": "https://github.com/protomota/jotley",
-      "site": "jotley.ai",
-      "at": "2026-11-25T04:00:29Z",
-      "kind": "ship",
-      "title": "[jotley] send a user agent when verifying the public installer",
-      "count": 1,
-      "sha": "d289f3f",
-      "url": "https://github.com/protomota/jotley/commit/d289f3fb69200ef8e76735116722fbbbb3a6d4e6"
     },
     {
       "id": "21213939901",
